@@ -1,0 +1,55 @@
+<?php
+return [
+
+    /*** header title ***/
+    "home" => "Ana Sayfa",
+    "about_us" => "Hakkımızda",
+    "services" => "Hizmetlerimiz",
+    "contact_us" => "İletişim",
+    "language" => "Dil",
+
+    /****  contact_us  ****/
+    "contact_us_description" => "Aragatnaşyk | Çagalar we Ulular Keramika Studiyasy",
+    "contact_us_title" => "Aragatnaşyk sayfamız üzerinden bize mesaj göndererek, randevu talebinde bulunabilir veya hizmetlerimiz hakkında daha fazla bilgi alabilirsiniz.",
+    "contact_us_section1_title" => "Aragatnaşyk Bilgilerimiz",
+    "contact_us_section1_cont" => "Siz de güzellik ve bakım konusunda bize güvenebilirsiniz. Aragatnaşyk sayfamız üzerinden bize mesaj göndererek, randevu talebinde bulunabilir veya hizmetlerimiz hakkında daha fazla bilgi alabilirsiniz.",
+    "contact_us_section1_subtitle1" => "Adres",
+    "contact_us_section1_subtitle1_cont" => "Nebit we gaz toplumynda medeni merkez",
+    "contact_us_section1_subtitle2" => "E-Posta",
+    "contact_us_section1_subtitle2_cont" => "studioceramiktm@gmail.com",
+    "contact_us_section1_subtitle3" => "Telefon",
+    "contact_us_section1_subtitle3_cont" => "+993 61 21 27 83",
+    "contact_us_section2_title" => "Bize Yazyn",
+    "contact_us_section2_subtitle1" => "Aynyz",
+    "contact_us_section2_subtitle2" => "E-Poçtanyz",
+    "contact_us_section2_subtitle3" => "Mesajınız",
+    "contact_us_section2_subtitle4" => "Uğrat",
+
+    "contact_us_section2_subtitle5" => "S Art Beuty Center Ana Sayfa",
+
+    /*** header subtitle ***/
+    "mani_pedi" => "Manikür ve Pedikür",
+    "perminant_nail_polish" => "Kalıcı Oje",
+    "prosthetic_nail" => "Protez Tırnak",
+    "nail_art" => "Nail Art",
+    "silk_eyelash" => "İpek Kirpik",
+    "eyelash_lifting" => "Kirpik Lifting",
+    "dipliner" => "Dipliner",
+    "eyebrow_lamination" => "Kaş Laminasyon",
+    "microblading" => "Microblading",
+    "wax" => "Şeker Ağda",
+    "lazer-epilasyon" => "Buz Lazer Epilasyon",
+    "skin-care" => "Cilt Bakımı",
+    "cellulite-massage" => "G5 Selülit Masajı",
+    "roll-shape" => "Roll Shape",
+    "brazillian-blow-dry" => "Brezilya Fönü",
+    "lip_filler" => "Dudak Renklendirme",
+    "bridal_hair" => "Gelin Topuzu",
+    "keratin_care" => "Keratin Bakım",
+    "perm" => "Perma",
+    "highlighted" => "Röfle",
+    "hair_dye" => "Saç Boyası",
+    "hair_dip_dye" => "Dip Boyası",
+    "hair_cut" => "Saç Kesim",
+    "hair_extension" => "Saç Kaynak",
+];

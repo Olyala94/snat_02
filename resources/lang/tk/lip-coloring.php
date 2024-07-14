@@ -1,0 +1,88 @@
+<?php
+return [
+    /*** header title ***/
+    "home" => "Ana Sayfa",
+    "about_us" => "Hakkımızda",
+    "services" => "Hizmetlerimiz",
+    "contact_us" => "İletişim",
+    "language" => "Dil",
+
+    "contact_us_section2_subtitle5" => "S Art Beuty Center Ana Sayfa",
+
+     /*** header subtitle ***/
+    "mani_pedi" => "Manikür ve Pedikür",
+    "perminant_nail_polish" => "Kalıcı Oje",
+    "prosthetic_nail" => "Protez Tırnak",
+    "nail_art" => "Nail Art",
+    "silk_eyelash" => "İpek Kirpik",
+    "eyelash_lifting" => "Kirpik Lifting",
+    "dipliner" => "Dipliner",
+    "eyebrow_lamination" => "Kaş Laminasyon",
+    "microblading" => "Microblading",
+    "wax" => "Şeker Ağda",
+    "lazer-epilasyon" => "Buz Lazer Epilasyon",
+    "skin-care" => "Cilt Bakımı",
+    "cellulite-massage" => "G5 Selülit Masajı",
+    "roll-shape" => "Roll Shape",
+    "brazillian-blow-dry" => "Brezilya Fönü",
+    "lip_filler" => "Dudak Renklendirme",
+    "bridal_hair" => "Gelin Topuzu",
+    "keratin_care" => "Keratin Bakım",
+    "perm" => "Perma",
+    "highlighted" => "Röfle",
+    "hair_dye" => "Saç Boyası",
+    "hair_dip_dye" => "Dip Boyası",
+    "hair_cut" => "Saç Kesim",
+    "hair_extension" => "Saç Kaynak",
+    
+    /*** services ***/
+    "sart_on_social_media" => "Sosyal Medyada Biz",
+    "follow_us_on_insta" => "Instagramda Bizi Takip Edin",
+
+    /** default keys **/
+    "sart" => "S ART Beauty Center",
+    "sart_official_center" => "S Art Beauty Center Resmi Web Sitesi",
+    "sart_official_center_home" => "S Art Beauty Center Ana Sayfa",
+    "sart_official_center_about" => "S Art Beauty Center Hakkımızda Sayfası",
+    "sart_official_center_contact" => "S Art Beauty Center İletişim Sayfası",
+    "sart_official_center_lang_options" => "S Art Beauty Center Dil Seçeneği",
+    "sart_official_center_job_explanation" => "S Art Beauty Center Neler Yapar?",
+    "sart_official_center_facebook" => "S Art Beauty Center Facebook Hesabı",
+    "sart_official_center_whatsapp" => "S Art Beauty Center Whatsapp Hesabı",
+    "sart_official_center_instagram" => "S Art Beauty Center Instagram Hesabı",
+    "whatsapp_line" => "Whatsap Hattımız",
+    "location" => "Navigasyonda Adresimiz",
+    "turkish" => "Türkçe",
+    "english" => "İngilizce",
+    "russian" => "Rusça",
+    "reading_time" => "Tahmini okuma süresi",
+    "ten_min" => "Okuma Süresi",
+
+    // lip_filler
+    "lip_filler_description" => "Dudak Renklendirme Uygulaması | S Art Beauty Center",
+    "lip_filler_title" => "Dudak renklendirme uygulamasıyla dudaklarınıza doğal ve çekici bir renk kazandırın. Kalıcı güzellik için hemen randevunuzu alın.",
+    "lip_filler_main_header" => "Dudak Renklendirmesi",
+    "lip_filler_context_title" => "Kalıcı Makyaj - Dudak Renklendirme Uygulaması",
+    "lip_filler_context_content" => "Dudak Renklendirme, dudaklarınızın daha canlı, sağlıklı ve dolgun görünmesini sağlayacaktır. Sürekli ruj tazelemekten yorulduysanız, dudak renklendirme işlemi ile daima canlı ve parlak dudaklara kavuşabilirsiniz.",
+    "lip_filler_context_question1" => "1. Dudak Renklendirmesi Ağrılı mıdır?",
+    "lip_filler_context_answer1" => "Uygulama sırasında hafif bir rahatsızlık hissedebilirsiniz, ancak genellikle ağrıya neden olmaz. Uygulama öncesinde bölgeye lokal anestezik kremler kullanılarak rahat bir deneyim sağlanabilir.",
+    "lip_filler_context_question2" => "2. Renk Seçiminde Nasıl Karar Verilir?",
+    "lip_filler_context_answer2" => "Uzman estetisyeniniz, cilt tonunuz ve kişisel tercihlerinize göre en uygun renk seçimini yapmanıza yardımcı olacaktır.",
+    "lip_filler_context_question3" => "3. Dudak Renklendirme Kalıcı mıdır?",
+    "lip_filler_context_answer3" => "Dudak renklendirmesi kalıcı bir işlemdir, ancak zamanla solma olabilir. Genellikle 1-3 yıl arasında tazeleme gerekebilir.",
+    "lip_filler_context_question4" => "4. Kimler Dudak Renklendirmesi Yaptırabilir?",
+    "lip_filler_context_answer4" => "Dudak rengini ve görünümünü belirginleştirmek isteyen herkes dudak renklendirmesi yaptırabilir. Ancak hamilelik, bazı cilt sorunları veya alerjiler gibi durumlarda dikkatli olunmalıdır.",
+    "lip_filler_context_question5" => "5. İyileşme Süreci Nasıldır?",
+    "lip_filler_context_answer5" => "Uygulama sonrası dudaklarda hafif şişlik ve kızarıklık olabilir. İlk birkaç gün dikkatli bakım gerekebilir, ancak genellikle günlük hayata hızla dönülebilir.
+        <br><br>
+		Dudak renklendirmesi ile doğal ve çarpıcı dudaklara sahip olmak için S Art Beauty Center'da sizin için özel hazırlanan bu işlemi keşfedin.",
+    "lip_filler_slide1_title" => "Doğal Renkler",
+    "lip_filler_slide1_cont" => "Dudaklarınızda doğal bir görünüm elde edin.",
+    "lip_filler_slide2_title" => "Dudaklarınızı Vurgulayın",
+    "lip_filler_slide2_cont" => "Dudak hatlarınızı belirginleştirin.",
+    "lip_filler_slide3_title" => "Dudak Makyajından Kurtulun",
+    "lip_filler_slide3_cont" => "Dudak renklendirmesiyle, size uygun ruju aramaktan kurtulun. Güzellik rutininizi basitleştirin.",
+    "lip_filler_subtitle1" => "Dudak Renklendirme Nedir?",
+    "lip_filler_subtitle1_cont" => "Dudak renklendirmesi, doğal dudak renginizi belirginleştirip dudak hatlarınızı tanımlayan bir güzellik işlemidir. Özellikle zamanla solmuş veya soluklamış dudak renginizi canlandırırken, daha dolgun ve genç görünümlü dudaklara sahip olmanıza yardımcı olur.",
+
+];

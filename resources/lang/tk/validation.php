@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'name_required' => 'İsim alanı zorunludur.',
+    'name_string' => 'İsim alanı sadece harflerden oluşabilir.',
+    'name_max' => 'İsim 100 karakterden uzun olamaz.',
+    'email_required' => 'E-mail alanı zorunludur.',
+    'email_email' => 'Geçerli bir e-mail adresi giriniz.',
+    'email_max' => 'E-mail 50 karakterden uzun olamaz.',
+    'phone_required' => 'Telefon alanı zorunludur.',
+    'phone_numeric' => 'Telefon alanı sadece sayılardan oluşabilir.',
+    'phone_digits' => 'Telefon 10 haneli olmalıdır.',
+    'message_required' => 'Mesaj alanı zorunludur.',
+    'message_string' => 'Mesaj alanı sadece harflerden oluşabilir.',
+    'message_max' => 'Mesaj 1000 karakterden uzun olamaz.',
+    'g-recaptcha-response_required' => 'reCAPTCHA doğrulaması gereklidir.',
+    'captcha_error' => 'reCAPTCHA doğrulaması başarısız. Lütfen tekrar deneyiniz.',
+    'message_ip_error'=>'Aynı IP adresinden yalnızca bir saat içinde bir kez iletişim formu gönderebilirsiniz.',
+    'message_success' => 'Mesajınız başarıyla gönderildi!',
+    'contact_error' => 'İletişim formu gönderilirken bir sorun oluştu. Lütfen daha sonra tekrar deneyiniz.',
+    "error" => "Hata!",
+    "success" => "Başarılı!",
+    "ok_button"=> "Tamam",
+    "cancel_button"=> "İptal",
+    "sending_button"=> "Gönderiliyor...",
+];

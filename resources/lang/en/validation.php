@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'name_required' => 'The name field is required.',
+    'name_string' => 'The name field may only contain letters.',
+    'name_max' => 'The name may not be greater than 100 characters.',
+    'email_required' => 'The email field is required.',
+    'email_email' => 'Please enter a valid email address.',
+    'email_max' => 'The email may not be greater than 50 characters.',
+    'phone_required' => 'The phone field is required.',
+    'phone_numeric' => 'The phone field may only contain numbers.',
+    'phone_digits' => 'The phone must be 10 digits.',
+    'message_required' => 'The message field is required.',
+    'message_string' => 'The message field may only contain letters.',
+    'message_max' => 'The message may not be greater than 1000 characters.',
+    'g-recaptcha-response_required' => 'The reCAPTCHA verification is required.',
+    'captcha_error' => 'The reCAPTCHA verification failed. Please try again.',
+    'message_ip_error' => 'You can only submit the contact form once an hour from the same IP address.',
+    'message_success' => 'Your message has been sent successfully!',
+    'contact_error' => 'An error occurred while sending the contact form. Please try again later.',
+    "error" => "Error!",
+    "success" => "Successful!",
+    "ok_button" => "Okay",
+    "cancel_button" => "Cancel",
+    "sending_button" => "Sending...",
+];

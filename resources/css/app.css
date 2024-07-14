@@ -1,0 +1,43 @@
+/* app.css */
+
+/* Style for the <h2> element to appear as <h6> but retain <h2> styling */
+h2 {
+    font-size: 0.75rem; /* Match <h6> size */
+    font-weight: bold; /* Retain <h2> style */
+    text-transform: none; /* Ensure text is not uppercase */
+}
+
+/* Add more styles here as needed */
+
+.tp-caption.tp-resizeme {
+    z-index: 10;
+    white-space: nowrap;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 3px;
+    outline: none;
+    box-shadow: none;
+    box-sizing: border-box;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.tp-caption.tp-resizeme.slide-button {
+    /* Specific styles for slide buttons can be added here if needed */
+}
+
+.site-button {
+    /* Styles for the primary button */
+    padding: 10px 20px;
+        margin: 0 auto;
+        display: block;
+        text-align: center;
+}
+.site-button span {
+    display: inline-block;
+}
+.site-button-secondry {
+    /* Styles for the secondary button */
+}
