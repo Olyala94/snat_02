@@ -1,7 +1,7 @@
     <!-- Content -->
     <div class="page-content bg-white">
         <!-- inner page banner -->
-        <div class="dlab-bnr-inr overlay-primary" style="background-image:url(/images/sart/kuafor_bg.webp);">
+        <div class="dlab-bnr-inr overlay-primary" style="background-image:url('{{asset('images/nur-art-img/nur-art-06.png')}}');">
             <div class="container">
                 <div class="dlab-bnr-inr-entry">
                     <h1 class="text-white fw-4">@lang('about.about_us')</h1>
@@ -25,31 +25,41 @@
                         <div class="dlab-separator-outer m-b0">
                             <div class="dlab-separator text-primary style-icon"><img src="/images/sart/logo_fav.png" alt="@lang('about.index_section2_img_alt')"></div>
                         </div>
-                        <h2 class="text-primary m-b10">@lang('about.sart')</h2>
-                        <h6 class="m-b10">@lang('about.about_us_section1_subtitle')</h6>
-                        <p>@lang('about.about_us_section1_cont')</p>
+                        <h2 class="text-primary m-b10">@lang('about.sart_academy')</h2>
+                        <h6 class="m-b10">@lang('about.about_us_section1_subtitle_academy')</h6>
+                        <p>@lang('about.about_us_section1_cont_academy')</p>
                     </div>
+                </div>
+
+                <div class="text-center">
+                    <a href="{{ uniqRt('contact-us') }}" class="site-button outline focus-white"
+                        title="@lang('about.sart_official_center_job_explanation_academy')" target="_self">@lang('about.index_section1_contact_redirect_button_academy') &nbsp;&nbsp;&rarr;</a>
                 </div>
             </div>
             <!-- Why Chose Us -->
+
             <!-- Our Pricing -->
             <div class="section-full content-inner bg-blue-light"
                 style="background-image:url(/images/sart/005.png); background-position: bottom; background-size: cover; background-repeat: no-repeat;">
                 <div class="container">
                     <div class="section-head text-black text-center">
-                        <div class="dlab-separator-outer m-b0">
+                        <h2 class="text-primary m-b10">@lang('about.about_us_section_title_academy')</h2>
+                        {{-- <div class="dlab-separator-outer m-b0">
                             <div class="dlab-separator text-primary style-icon"><img src="/images/sart/logo_fav.png" alt="@lang('about.index_section2_img_alt')"></div>
-                        </div>
-                        <h2 class="text-primary m-b10">@lang('about.about_us_section2_title')</h2>
-                        <p>@lang('about.about_us_section2_cont1')</p>
-                        <p>@lang('about.about_us_section2_cont2')</p>
+                        </div> --}}
+                        {{-- Gözýetimimiz --}}
+                        <h6 class="text-primary m-b10">@lang('about.about_us_section1_title_academy')</h6>
+                        <p>@lang('about.about_us_section1_cont1_academy')</p>
+                        {{-- Wezipämiz --}}
+                        <h6 class="text-primary m-b10">@lang('about.about_us_section2_title_academy')</h6>
+                        <p>@lang('about.about_us_section2_cont2_academy')</p>
                     </div>
                 </div>
             </div>
             <!-- Our Pricing -->
 
             <!-- Testimonials Of Our Clients -->
-            <div class="section-full content-inner"
+            {{-- <div class="section-full content-inner"
                 style="background-image:url(/images/sart/003.webp); background-position: bottom; background-size:cover;">
                 <div class="container">
                     <div class="section-head text-black text-center">
@@ -99,7 +109,7 @@
                         <div class="item p-a5">
                             <div class="testimonial-9">
                                 <div class="testimonial-pic radius style1"><img src="/images/sart/protez_tırnak_2.webp"
-                                        width="100" height="100" alt="Protez Tırnak"></div>
+                                        width="100" height="100" alt="Aýdym-Saz "></div>
                                 <div class="testimonial-text">
                                     <p>@lang('about.about_us_client_comments4')</p>
                                 </div>
@@ -120,7 +130,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> --}}
             <!-- Testimonials Of Our Clients -->
         </div>
         <!-- contact area END -->

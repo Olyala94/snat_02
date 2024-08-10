@@ -22,15 +22,15 @@ class SettingsTableSeeder extends Seeder
             'lang' => "en",
             'content' => [
                 "logo" => [
-                    'href' => "/images/sart/logo.png",
+                    'href' => "/images/nur-art-logos/nur-art-logo-06.png",
                     'alt' => 'S Art Beauty Center',
                 ],
                 "mobileLogo" => [
-                    'href' => "/images/sart/favicon.png",
+                    'href' => "images/nur-art-logos/nur-art-logo-06.png",
                     'alt' => 'S Art Beauty Center',
                 ],
                 "favicon" => [
-                    'href' => "/images/sart/favicon.ico",
+                    'href' => "images/nur-art-logos/nur-art-logo-06.png",
                 ],
 
             ],
@@ -199,15 +199,15 @@ class SettingsTableSeeder extends Seeder
             'lang' => "tk",
             'content' => [
                 "logo" => [
-                    'href' => "/images/sart/logo.png",
+                    'href' => "/images/nur-art-logos/nur-art-logo-06.png",
                     'alt' => 'S Art Beauty Center',
                 ],
                 "mobileLogo" => [
-                    'href' => "/images/sart/favicon.png",
+                    'href' => "images/nur-art-logos/nur-art-logo-06.png",
                     'alt' => 'S Art Beauty Center',
                 ],
                 "favicon" => [
-                    'href' => "/images/sart/favicon.ico",
+                    'href' => "images/nur-art-logos/nur-art-logo-06.png",
                 ],
 
             ],
@@ -376,15 +376,15 @@ class SettingsTableSeeder extends Seeder
             'lang' => "ru",
             'content' => [
                 "logo" => [
-                    'href' => "/images/sart/logo.png",
+                    'href' => "/images/nur-art-logos/nur-art-logo-06.png",
                     'alt' => 'S Art Beauty Center',
                 ],
                 "mobileLogo" => [
-                    'href' => "/images/sart/favicon.png",
+                    'href' => "images/nur-art-logos/nur-art-logo-06.png",
                     'alt' => 'S Art Beauty Center',
                 ],
                 "favicon" => [
-                    'href' => "/images/sart/favicon.ico",
+                    'href' => "images/nur-art-logos/nur-art-logo-06.png",
                 ],
 
             ],
