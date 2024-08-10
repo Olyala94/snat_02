@@ -33,6 +33,7 @@ Route::get('lang/home', [LangController::class, 'index']);
 Route::get('/about-us', [PageController::class, 'about'])->name('pages.about');
 Route::get('/services', [PageController::class, 'services'])->name('pages.services');
 Route::get('/contact-us', [PageController::class, 'contact'])->name('pages.contact');
+Route::get('/galery', [PageController::class, 'galery'])->name('pages.galery');
 Route::get('/ise-laser', [PageController::class, 'iceLaser'])->name('pages.iselaser');
 Route::get('/manicure-pedicure', [PageController::class, 'manicurePedicure'])->name('pages.manicurepedicure');
 Route::get('/gel-polish', [PageController::class, 'gelPolish'])->name('pages.gelpolish');

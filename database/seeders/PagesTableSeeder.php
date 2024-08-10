@@ -85,6 +85,27 @@ class PagesTableSeeder extends Seeder
         ],
         [
             'lang' => 'en',
+            'uniq_slug' => 'galery',
+            'title' => 'Contact Us | Nur Art Nur Art',
+            'description' => 'You can send us a message through our contact page to request an appointment or to get more information about our services.',
+            'content' => 'BLADE:tmp.galery'
+        ],
+        [
+            'lang' => 'en',
+            'uniq_slug' => 'blog',
+            'title' => 'Contact Us | Nur Art Nur Art',
+            'description' => 'You can send us a message through our contact page to request an appointment or to get more information about our services.',
+            'content' => 'BLADE:tmp.blog'
+        ],
+        [
+            'lang' => 'en',
+            'uniq_slug' => 'testimonials',
+            'title' => 'Contact Us | Nur Art Nur Art',
+            'description' => 'You can send us a message through our contact page to request an appointment or to get more information about our services.',
+            'content' => 'BLADE:tmp.testimonials'
+        ],
+        [
+            'lang' => 'en',
             'uniq_slug' => 'ice-laser-hair-removal',
             'title' => 'Ashgabat - Ice Laser Epilation | Nur Art Nur Art',
             'description' => 'Say goodbye to unwanted hair with ice laser epilation at Nur Art Nur Art! Achieve smooth skin with this effective method tailored to your skin type.',
@@ -335,6 +356,27 @@ class PagesTableSeeder extends Seeder
         ],
         [
             'lang' => 'tk',
+            'uniq_slug' => 'galery',
+            'title' => 'Ashgabat - İletişim | Nur Art Nur Art',
+            'description' => 'İletişim sayfamız üzerinden bize mesaj göndererek, randevu talebinde bulunabilir veya hizmetlerimiz hakkında daha fazla bilgi alabilirsiniz.',
+            'content' => 'BLADE:tmp.galery'
+        ],
+        [
+            'lang' => 'tk',
+            'uniq_slug' => 'blog',
+            'title' => 'Contact Us | Nur Art Nur Art',
+            'description' => 'You can send us a message through our contact page to request an appointment or to get more information about our services.',
+            'content' => 'BLADE:tmp.blog'
+        ],
+        [
+            'lang' => 'tk',
+            'uniq_slug' => 'testimonials',
+            'title' => 'Contact Us | Nur Art Nur Art',
+            'description' => 'You can send us a message through our contact page to request an appointment or to get more information about our services.',
+            'content' => 'BLADE:tmp.testimonials'
+        ],
+        [
+            'lang' => 'tk',
             'uniq_slug' => 'ice-laser-hair-removal',
             'title' => 'Ashgabat - Buz Lazer Epilasyon | Nur Art Nur Art',
             'description' => 'Nur Art Nur Artda buz lazer epilasyon ile tüylerle vedalaşın! Cilt tipinize uygun olarak uygulanan bu etkili yöntemle pürüzsüz bir cilde sahip olun. ',
@@ -572,6 +614,27 @@ class PagesTableSeeder extends Seeder
             'title' => "Кадыкёй - Свяжитесь с нами | Nur Art Nur Art",
             'description' => "Вы можете отправить нам сообщение через нашу контактную страницу, чтобы запросить встречу или получить больше информации о наших услугах.",
             'content' => 'BLADE:tmp.contact-us'
+        ],
+        [
+            'lang' => 'ru',
+            'uniq_slug' => 'galery',
+            'title' => "Кадыкёй - Свяжитесь с нами | Nur Art Nur Art",
+            'description' => "Вы можете отправить нам сообщение через нашу контактную страницу, чтобы запросить встречу или получить больше информации о наших услугах.",
+            'content' => 'BLADE:tmp.galery'
+        ],
+        [
+            'lang' => 'ru',
+            'uniq_slug' => 'blog',
+            'title' => 'Contact Us | Nur Art Nur Art',
+            'description' => 'You can send us a message through our contact page to request an appointment or to get more information about our services.',
+            'content' => 'BLADE:tmp.blog'
+        ],
+        [
+            'lang' => 'ru',
+            'uniq_slug' => 'testimonials',
+            'title' => 'Contact Us | Nur Art Nur Art',
+            'description' => 'You can send us a message through our contact page to request an appointment or to get more information about our services.',
+            'content' => 'BLADE:tmp.testimonials'
         ],
         [
             'lang' => 'ru',

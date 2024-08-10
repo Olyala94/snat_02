@@ -104,6 +104,36 @@ class RoutesTableSeeder extends Seeder
         ],
         [
             'lang' => 'en',
+            'slug' => 'galery',
+            'uniq_slug' => 'galery',
+            "meta_information" => [
+                "title" => "About | Nur Art Academy",
+                "description" => "At Nur Art Academy, we provide the best service to our customers with our expert team and wide range of services.",
+
+            ]
+        ],
+        [
+            'lang' => 'en',
+            'slug' => 'blog',
+            'uniq_slug' => 'blog',
+            "meta_information" => [
+                "title" => "About | Nur Art Academy",
+                "description" => "At Nur Art Academy, we provide the best service to our customers with our expert team and wide range of services.",
+
+            ]
+        ],
+        [
+            'lang' => 'en',
+            'slug' => 'otzywy',
+            'uniq_slug' => 'testimonials',
+            "meta_information" => [
+                "title" => "About | Nur Art Academy",
+                "description" => "At Nur Art Academy, we provide the best service to our customers with our expert team and wide range of services.",
+
+            ]
+        ],
+        [
+            'lang' => 'en',
             'slug' => 'services/ice-laser-hair-removal',
             'uniq_slug' => 'ice-laser-hair-removal',
             "meta_information" => [
@@ -1332,6 +1362,35 @@ class RoutesTableSeeder extends Seeder
         ],
         [
             'lang' => 'tk',
+            'slug' => 'galereyamyz',
+            'uniq_slug' => 'galery',
+            "meta_information" => [
+                "title" => "Ashgabat - İletişim | Nur Art Academy",
+                "description" => "İletişim sayfamız üzerinden bize mesaj göndererek, randevu talebinde bulunabilir veya hizmetlerimiz hakkında daha fazla bilgi alabilirsiniz.",
+            ]
+        ],
+        [
+            'lang' => 'tk',
+            'slug' => 'blog',
+            'uniq_slug' => 'blog',
+            "meta_information" => [
+                "title" => "About | Nur Art Academy",
+                "description" => "At Nur Art Academy, we provide the best service to our customers with our expert team and wide range of services.",
+
+            ]
+        ],
+        [
+            'lang' => 'tk',
+            'slug' => 'otzywy',
+            'uniq_slug' => 'testimonials',
+            "meta_information" => [
+                "title" => "About | Nur Art Academy",
+                "description" => "At Nur Art Academy, we provide the best service to our customers with our expert team and wide range of services.",
+
+            ]
+        ],
+        [
+            'lang' => 'tk',
             'slug' => 'hizmetlerimiz/buz-lazer-epilasyon',
             'uniq_slug' => 'ice-laser-hair-removal',
             "meta_information" => [
@@ -2552,6 +2611,35 @@ class RoutesTableSeeder extends Seeder
             "meta_information" => [
                 "title" => "Кадыкёй - Свяжитесь с нами | Nur Art Academy",
                 "description" => "Вы можете отправить нам сообщение через нашу контактную страницу, чтобы запросить встречу или получить больше информации о наших услугах.",
+            ]
+        ],
+        [
+            'lang' => 'ru',
+            'slug' => 'galerii',
+            'uniq_slug' => 'galery',
+            "meta_information" => [
+                "title" => "Кадыкёй - Свяжитесь с нами | Nur Art Academy",
+                "description" => "Вы можете отправить нам сообщение через нашу контактную страницу, чтобы запросить встречу или получить больше информации о наших услугах.",
+            ]
+        ],
+        [
+            'lang' => 'ru',
+            'slug' => 'blog',
+            'uniq_slug' => 'blog',
+            "meta_information" => [
+                "title" => "About | Nur Art Academy",
+                "description" => "At Nur Art Academy, we provide the best service to our customers with our expert team and wide range of services.",
+
+            ]
+        ],
+        [
+            'lang' => 'ru',
+            'slug' => 'otzywy',
+            'uniq_slug' => 'testimonials',
+            "meta_information" => [
+                "title" => "About | Nur Art Academy",
+                "description" => "At Nur Art Academy, we provide the best service to our customers with our expert team and wide range of services.",
+
             ]
         ],
         [

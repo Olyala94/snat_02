@@ -131,24 +131,24 @@
                                             </ul>
                                         </li>
 
-                                        <!-- Расписание -->
+                                        {{-- <!-- Расписание -->
                                         <li class="@if (isset($route) && $route['uniq_slug'] == 'contact-us') active @endif">
                                             <a href="{{ uniqRt('contact-us') }}" class="dez-page" title="@lang('header.schedule')">@lang('header.schedule')</a>
-                                        </li>
+                                        </li> --}}
 
                                         <!-- Галерея -->
-                                        <li class="@if (isset($route) && $route['uniq_slug'] == 'contact-us') active @endif">
-                                            <a href="{{ uniqRt('contact-us') }}" class="dez-page" title="@lang('header.gallery')">@lang('header.gallery')</a>
+                                        <li class="@if (isset($route) && $route['uniq_slug'] == 'galery') active @endif">
+                                            <a href="{{ uniqRt('galery') }}" class="dez-page" title="@lang('header.galery')">@lang('header.galery')</a>
                                         </li>
 
                                         <!-- Блог -->
-                                        <li class="@if (isset($route) && $route['uniq_slug'] == 'contact-us') active @endif">
-                                            <a href="{{ uniqRt('contact-us') }}" class="dez-page" title="@lang('header.blog')">@lang('header.blog')</a>
+                                        <li class="@if (isset($route) && $route['uniq_slug'] == 'blog') active @endif">
+                                            <a href="{{ uniqRt('blog') }}" class="dez-page" title="@lang('header.blog')">@lang('header.blog')</a>
                                         </li>
 
                                         <!-- Отзывы -->
-                                        <li class="@if (isset($route) && $route['uniq_slug'] == 'contact-us') active @endif">
-                                            <a href="{{ uniqRt('contact-us') }}" class="dez-page" title="@lang('header.testimonials')">@lang('header.testimonials')</a>
+                                        <li class="@if (isset($route) && $route['uniq_slug'] == 'testimonials') active @endif">
+                                            <a href="{{ uniqRt('testimonials') }}" class="dez-page" title="@lang('header.testimonials')">@lang('header.testimonials')</a>
                                         </li>
 
                                          <!-- Расписание -->
@@ -166,7 +166,7 @@
                                             <ul class="sub-menu">
                                                 <li class="@if (app()->getLocale() == 'tk') selected @endif">
                                                     <a href="{{ langRt('tk', $route['uniq_slug'] ?? 'index') }}" class="dez-page" title="{{ __('header.turkish') }}">
-                                                        <img src="/images/tk.jpg" class="lang-img" alt="{{ __('header.turkish') }}"> TK
+                                                        <img src="/images/tk.webp" class="lang-img" alt="{{ __('header.turkish') }}"> TK
                                                     </a>
                                                 </li>
                                                 <li class="@if (app()->getLocale() == 'ru') selected @endif">
