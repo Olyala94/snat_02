@@ -8,8 +8,8 @@ return [
     "language" => "язык",
 
     /*** header subtitle ***/
-    "contact_us_section2_subtitle5" => "S Art Beuty Center Главная",
-    
+    "contact_us_section2_subtitle5" => "Nur Art Academy Главная",
+
     /*** header subtitle ***/
     "lazer-epilasyon" => "Лазерная эпиляция",
     "cellulite-massage" => "Массаж G5 (целлюлитный массаж)",
@@ -42,16 +42,16 @@ return [
     "follow_us_on_insta" => "Подписывайтесь на нас в Instagram",
 
     /** default keys **/
-    "sart" => "S ART Beauty Center",
-    "sart_official_center" => "Официальный сайт S Art Beauty Center",
-    "sart_official_center_home" => "Главная S Art Beauty Center",
-    "sart_official_center_about" => "О S Art Beauty Center",
-    "sart_official_center_contact" => "Контакты S Art Beauty Center",
-    "sart_official_center_lang_options" => "Опции языка S Art Beauty Center",
-    "sart_official_center_job_explanation" => "Что делает S Art Beauty Center?",
-    "sart_official_center_facebook" => "Страница S Art Beauty Center в Facebook",
-    "sart_official_center_whatsapp" => "Аккаунт S Art Beauty Center в WhatsApp",
-    "sart_official_center_instagram" => "Аккаунт S Art Beauty Center в Instagram",
+    "sart" => "Nur Art Academy",
+    "sart_official_center" => "Официальный сайт Nur Art Academy",
+    "sart_official_center_home" => "Главная Nur Art Academy",
+    "sart_official_center_about" => "О Nur Art Academy",
+    "sart_official_center_contact" => "Контакты Nur Art Academy",
+    "sart_official_center_lang_options" => "Опции языка Nur Art Academy",
+    "sart_official_center_job_explanation" => "Что делает Nur Art Academy?",
+    "sart_official_center_facebook" => "Страница Nur Art Academy в Facebook",
+    "sart_official_center_whatsapp" => "Аккаунт Nur Art Academy в WhatsApp",
+    "sart_official_center_instagram" => "Аккаунт Nur Art Academy в Instagram",
     "whatsapp_line" => "WhatsApp линия",
     "location" => "Адрес в навигации",
     "turkish" => "Турецкий",
@@ -62,7 +62,7 @@ return [
 
 
     // lip_filler
-    "lip_filler_description" => "Окрашивание губ | S Art Beauty Center",
+    "lip_filler_description" => "Окрашивание губ | Nur Art Academy",
     "lip_filler_title" => "Придайте губам естественный и привлекательный цвет с помощью окрашивания. Запишитесь на прием для длительной красоты!",
     "lip_filler_main_header" => "Окрашивание губ",
     "lip_filler_context_title" => "Перманентный макияж губ - Пудровое напыление",
@@ -76,7 +76,7 @@ return [
     "lip_filler_context_question4" => "4. Кто может сделать окрашивание губ?",
     "lip_filler_context_answer4" => "Окрашивание губ может быть проведено для тех, кто желает подчеркнуть цвет и вид губ. Однако необходимо быть осторожным в случаях, связанных с беременностью, некоторыми проблемами кожи или аллергиями.",
     "lip_filler_context_question5" => "5. Каков процесс восстановления?",
-    "lip_filler_context_answer5" => "После процедуры может возникнуть небольшой отек и покраснение губ. В первые несколько дней потребуется бережный уход, но обычно вы быстро сможете вернуться к повседневной жизни. <br><br> Откройте для себя натуральную и впечатляющую красоту губ с этой процедурой, специально разработанной для вас в S Art Beauty Center.",
+    "lip_filler_context_answer5" => "После процедуры может возникнуть небольшой отек и покраснение губ. В первые несколько дней потребуется бережный уход, но обычно вы быстро сможете вернуться к повседневной жизни. <br><br> Откройте для себя натуральную и впечатляющую красоту губ с этой процедурой, специально разработанной для вас в Nur Art Academy.",
     "lip_filler_slide1_title" => "Натуральные Цвета",
     "lip_filler_slide1_cont" => "Получите естественный цвет ваших губ.",
     "lip_filler_slide2_title" => "Подчеркните Ваши Губы",

@@ -7,7 +7,7 @@ return [
     "contact_us" => "Contact Us",
     "language" => "Language",
 
-    "contact_us_section2_subtitle5" => "S Art Beuty Center Home",
+    "contact_us_section2_subtitle5" => "Nur Art Academy Home",
 
     /*** header subtitle ***/
     "mani_pedi" => "Manicure and Pedicure",
@@ -41,16 +41,16 @@ return [
     "follow_us_on_insta" => "Follow Us on Instagram",
 
     /** default keys **/
-    "sart" => "S ART Beauty Center",
-    "sart_official_center" => "S Art Beauty Center Official Website",
-    "sart_official_center_home" => "S Art Beauty Center Home",
-    "sart_official_center_about" => "S Art Beauty Center About Us Page",
-    "sart_official_center_contact" => "S Art Beauty Center Contact Page",
-    "sart_official_center_lang_options" => "S Art Beauty Center Language Options",
-    "sart_official_center_job_explanation" => "What Does S Art Beauty Center Do?",
-    "sart_official_center_facebook" => "S Art Beauty Center Facebook Account",
-    "sart_official_center_whatsapp" => "S Art Beauty Center Whatsapp Account",
-    "sart_official_center_instagram" => "S Art Beauty Center Instagram Account",
+    "sart" => "Nur Art Academy",
+    "sart_official_center" => "Nur Art Academy Official Website",
+    "sart_official_center_home" => "Nur Art Academy Home",
+    "sart_official_center_about" => "Nur Art Academy About Us Page",
+    "sart_official_center_contact" => "Nur Art Academy Contact Page",
+    "sart_official_center_lang_options" => "Nur Art Academy Language Options",
+    "sart_official_center_job_explanation" => "What Does Nur Art Academy Do?",
+    "sart_official_center_facebook" => "Nur Art Academy Facebook Account",
+    "sart_official_center_whatsapp" => "Nur Art Academy Whatsapp Account",
+    "sart_official_center_instagram" => "Nur Art Academy Instagram Account",
     "whatsapp_line" => "WhatsApp Line",
     "location" => "Our Address on Navigation",
     "turkish" => "Turkish",
@@ -60,8 +60,8 @@ return [
     "ten_min" => "Reading Time",
 
     // highlighted
-    "highlighted_description" => "Hair Highlights | S Art Beauty Center ",
-    "highlighted_title" => "Achieve a natural and attractive look with highlights at S Art Beauty Center. Book your appointment now!",
+    "highlighted_description" => "Hair Highlights | Nur Art Academy ",
+    "highlighted_title" => "Achieve a natural and attractive look with highlights at Nur Art Academy. Book your appointment now!",
     "highlighted_slogan" => "Bring Light to Your Hair: Achieve a Natural and Dynamic Look with Highlights!",
     "highlighted_main_header" => "Highlights",
     "highlighted_context_title" => "Highlights",
@@ -79,7 +79,7 @@ return [
     "highlighted_slide1_title" => "Variety of Colors",
     "highlighted_slide1_cont" => "Highlights add depth to your hair and offer a range of color options that suit your style.",
     "highlighted_slide2_title" => "Add Depth to Your Hair",
-    "highlighted_slide2_cont" => "At S Art Beauty Center, add volume to your hair to make it look fuller and livelier.",
+    "highlighted_slide2_cont" => "At Nur Art Academy, add volume to your hair to make it look fuller and livelier.",
     "highlighted_slide3_title" => "Easy Hair Care",
     "highlighted_slide3_cont" => "Thanks to the natural transitions of highlights, your hair continues to look well-maintained even as the roots become more pronounced.",
     "highlighted_subtitle1" => "What Are Highlights?",

@@ -30,8 +30,8 @@
         <div class="download-brochure m-b30 ">
             <h4 class="text-primary">@lang('brazillian-blow-dry.sart_on_social_media')</h4>
             <p>@lang('brazillian-blow-dry.follow_us_on_insta')</p>
-            <a href="https://www.instagram.com/studio_ceramic_tm" class="site-button"
-                title="@lang('brazillian-blow-dry.sart_official_center_instagram')" target="_blank">Studio.Ceramic.Tm</a>
+            <a href="https://www.instagram.com/s.art.beauty" class="site-button"
+                title="@lang('brazillian-blow-dry.sart_official_center_instagram')" target="_blank">S.ART.BEAUTY</a>
         </div>
     </div>
 </div>

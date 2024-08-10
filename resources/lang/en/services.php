@@ -7,7 +7,7 @@ return [
    "contact_us" => "Contact Us",
    "language" => "Language",
 
-   "contact_us_section2_subtitle5" => "S Art Beuty Center Home",
+   "contact_us_section2_subtitle5" => "Nur Art Academy Home",
 
    /*** header subtitle ***/
    "mani_pedi" => "Manicure and Pedicure",
@@ -41,16 +41,16 @@ return [
    "follow_us_on_insta" => "Follow Us on Instagram",
 
          /** default keys **/
-    "sart" => "S ART Beauty Center",
-    "sart_official_center" => "S Art Beauty Center Official Website",
-    "sart_official_center_home" => "S Art Beauty Center Home",
-    "sart_official_center_about" => "S Art Beauty Center About Us Page",
-    "sart_official_center_contact" => "S Art Beauty Center Contact Page",
-    "sart_official_center_lang_options" => "S Art Beauty Center Language Options",
-    "sart_official_center_job_explanation" => "What Does S Art Beauty Center Do?",
-    "sart_official_center_facebook" => "S Art Beauty Center Facebook Account",
-    "sart_official_center_whatsapp" => "S Art Beauty Center Whatsapp Account",
-    "sart_official_center_instagram" => "S Art Beauty Center Instagram Account",
+    "sart" => "Nur Art Academy",
+    "sart_official_center" => "Nur Art Academy Official Website",
+    "sart_official_center_home" => "Nur Art Academy Home",
+    "sart_official_center_about" => "Nur Art Academy About Us Page",
+    "sart_official_center_contact" => "Nur Art Academy Contact Page",
+    "sart_official_center_lang_options" => "Nur Art Academy Language Options",
+    "sart_official_center_job_explanation" => "What Does Nur Art Academy Do?",
+    "sart_official_center_facebook" => "Nur Art Academy Facebook Account",
+    "sart_official_center_whatsapp" => "Nur Art Academy Whatsapp Account",
+    "sart_official_center_instagram" => "Nur Art Academy Instagram Account",
     "whatsapp_line" => "WhatsApp Line",
     "location" => "Our Address on Navigation",
     "turkish" => "Turkish",
@@ -118,7 +118,7 @@ return [
     "index_section1_services_redirect_button" => "View All Our Services",
 
     // section 2
-    "index_section2_img_alt" => "S Art Beauty Center Photo Gallery",
+    "index_section2_img_alt" => "Nur Art Academy Photo Gallery",
     "index_section2_main_title" => "Our Photo Gallery",
     "index_section2_subtitle" => "Our Photo Gallery - Explore the beauty stories we've prepared for you!",
     "index_section2_link_title1" => "All",
@@ -129,29 +129,29 @@ return [
 
     // section 3
     "index_section3_main_title" => "Our Promo Video",
-    "index_section3_content" => " At S Art Beauty Center, we combine beauty and care to provide our services. In our video, you'll have the opportunity to get to know our expert team who performs various services like lip tinting, silk eyelash application, haircuts, and more with great care. We always stay updated with the latest trends and continue to offer high-quality, customer-focused services in a hygienic environment. ",
-    "index_section3_video_title" => "S Art Beauty Center Promo Video",
+    "index_section3_content" => " At Nur Art Academy, we combine beauty and care to provide our services. In our video, you'll have the opportunity to get to know our expert team who performs various services like lip tinting, silk eyelash application, haircuts, and more with great care. We always stay updated with the latest trends and continue to offer high-quality, customer-focused services in a hygienic environment. ",
+    "index_section3_video_title" => "Nur Art Academy Promo Video",
 
     // section 4
-    "index_section4_img_alt" => "S Art Beauty Center Provides Services with a Professional Team",
+    "index_section4_img_alt" => "Nur Art Academy Provides Services with a Professional Team",
     "index_section4_main_title" => "We are at your service!",
-    "index_section4_cont" => "At S Art Beauty Center, we are here with our experienced and expert team to meet your beauty and care needs. We are always here to provide quality services for hair, skin, nail care, and more.",
+    "index_section4_cont" => "At Nur Art Academy, we are here with our experienced and expert team to meet your beauty and care needs. We are always here to provide quality services for hair, skin, nail care, and more.",
 
     // section 5
     "index_section5_img_alt" => "CUSTOMER REVIEWS",
     "index_section5_main_title" => "What Did They Say About Us?",
-    "index_section5_cont" => "The experiences of our customers are one of the most valuable references for us. At S Art Beauty Center, we are sharing the reviews of our customers who have experienced our beauty and care services.",
-    "index_section5_slide1_cont" => "I feel completely different with the lip coloring service I received at S Art Beauty Center! Thanks to your expert team's meticulous work and smiles, I achieved a natural and impressive result. Thank you!",
+    "index_section5_cont" => "The experiences of our customers are one of the most valuable references for us. At Nur Art Academy, we are sharing the reviews of our customers who have experienced our beauty and care services.",
+    "index_section5_slide1_cont" => "I feel completely different with the lip coloring service I received at Nur Art Academy! Thanks to your expert team's meticulous work and smiles, I achieved a natural and impressive result. Thank you!",
     "index_section5_slide1_cont2" => "Tour Guide",
-    "index_section5_slide2_cont" => "I was amazed by S Art Beauty Center, where I chose silk eyelash application. My eyelashes look both natural and full. Thanks to your professional team, I created a magical effect in my gaze. Thank you very much!",
+    "index_section5_slide2_cont" => "I was amazed by Nur Art Academy, where I chose silk eyelash application. My eyelashes look both natural and full. Thanks to your professional team, I created a magical effect in my gaze. Thank you very much!",
     "index_section5_slide2_cont2" => "Accountant",
-    "index_section5_slide3_cont" => "I am very satisfied with S Art Beauty Center, where I came for a haircut and color. Thanks to your expert stylists, I completely changed my style, and I feel much more confident with my new hair color.",
+    "index_section5_slide3_cont" => "I am very satisfied with Nur Art Academy, where I came for a haircut and color. Thanks to your expert stylists, I completely changed my style, and I feel much more confident with my new hair color.",
     "index_section5_slide3_cont2" => "Homemaker",
     "index_section5_slide4_cont" => "Thanks to your Nail Art design, my nails became a work of art. I appreciate your attention to detail and creative approach. This design on my nails makes me happy every time I look at it. You are amazing!",
     "index_section5_slide4_cont2" => "Designer",
     "index_section5_slide5_cont" => "It was incredible to notice the change in my eyes with your eyelash lifting service. My gaze looks younger and more energetic. Thank you for making me experience this, I definitely recommend it!",
     "index_section5_slide5_cont2" => "Store Manager",
-    "index_section5_slide6_cont" => "With the medical manicure and pedicure service I received at S Art Beauty Center, my hands and feet were reborn! I was impressed by the expertise of the team and their meticulousness about hygiene and quality. Now my nails look both healthy and well-groomed.",
+    "index_section5_slide6_cont" => "With the medical manicure and pedicure service I received at Nur Art Academy, my hands and feet were reborn! I was impressed by the expertise of the team and their meticulousness about hygiene and quality. Now my nails look both healthy and well-groomed.",
     "index_section5_slide6_cont2" => "Lawyer",
 ];
 

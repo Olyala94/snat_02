@@ -8,7 +8,7 @@ return [
     "language" => "язык",
 
     /*** header subtitle ***/
-    "contact_us_section2_subtitle5" => "S Art Beuty Center Главная",
+    "contact_us_section2_subtitle5" => "Nur Art Academy Главная",
 
     /*** header subtitle ***/
     "lazer-epilasyon" => "Лазерная эпиляция",
@@ -42,16 +42,16 @@ return [
     "follow_us_on_insta" => "Подписывайтесь на нас в Instagram",
 
         /** default keys **/
-        "sart" => "S ART Beauty Center",
-        "sart_official_center" => "Официальный сайт S Art Beauty Center",
-        "sart_official_center_home" => "Главная S Art Beauty Center",
-        "sart_official_center_about" => "О S Art Beauty Center",
-        "sart_official_center_contact" => "Контакты S Art Beauty Center",
-        "sart_official_center_lang_options" => "Опции языка S Art Beauty Center",
-        "sart_official_center_job_explanation" => "Что делает S Art Beauty Center?",
-        "sart_official_center_facebook" => "Страница S Art Beauty Center в Facebook",
-        "sart_official_center_whatsapp" => "Аккаунт S Art Beauty Center в WhatsApp",
-        "sart_official_center_instagram" => "Аккаунт S Art Beauty Center в Instagram",
+        "sart" => "Nur Art Academy",
+        "sart_official_center" => "Официальный сайт Nur Art Academy",
+        "sart_official_center_home" => "Главная Nur Art Academy",
+        "sart_official_center_about" => "О Nur Art Academy",
+        "sart_official_center_contact" => "Контакты Nur Art Academy",
+        "sart_official_center_lang_options" => "Опции языка Nur Art Academy",
+        "sart_official_center_job_explanation" => "Что делает Nur Art Academy?",
+        "sart_official_center_facebook" => "Страница Nur Art Academy в Facebook",
+        "sart_official_center_whatsapp" => "Аккаунт Nur Art Academy в WhatsApp",
+        "sart_official_center_instagram" => "Аккаунт Nur Art Academy в Instagram",
         "whatsapp_line" => "WhatsApp линия",
         "location" => "Адрес в навигации",
         "turkish" => "Турецкий",
@@ -60,8 +60,8 @@ return [
         "reading_time" => "Предполагаемое время чтения",
         "ten_min" => "Время чтения",
      // eyebrow_lamination
-     "eyebrow_lamination_description" => "Ламинирование бровей | S Art Beauty Center",
-     "eyebrow_lamination_title" => "Для естественных и выразительных бровей попробуйте ламинирование бровей в S Art Beauty Center! Добейтесь более густых и четких бровей с нашими экспертами.",
+     "eyebrow_lamination_description" => "Ламинирование бровей | Nur Art Academy",
+     "eyebrow_lamination_title" => "Для естественных и выразительных бровей попробуйте ламинирование бровей в Nur Art Academy! Добейтесь более густых и четких бровей с нашими экспертами.",
      "eyebrow_lamination_main_header" => "Ламинирование бровей",
      "eyebrow_lamination_context_title" => "Ламинирование бровей",
      "eyebrow_lamination_context_content" => "Ламинирование бровей придает бровям новую форму и объем, создавая впечатляющий образ.",

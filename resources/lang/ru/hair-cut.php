@@ -8,7 +8,7 @@ return [
     "language" => "язык",
 
     /*** header subtitle ***/
-    "contact_us_section2_subtitle5" => "S Art Beuty Center Главная",
+    "contact_us_section2_subtitle5" => "Nur Art Academy Главная",
 
     /*** header subtitle ***/
     "lazer-epilasyon" => "Лазерная эпиляция",
@@ -41,16 +41,16 @@ return [
     "follow_us_on_insta" => "Подписывайтесь на нас в Instagram",
 
     /** default keys **/
-    "sart" => "S ART Beauty Center",
-    "sart_official_center" => "Официальный сайт S Art Beauty Center",
-    "sart_official_center_home" => "Главная S Art Beauty Center",
-    "sart_official_center_about" => "О S Art Beauty Center",
-    "sart_official_center_contact" => "Контакты S Art Beauty Center",
-    "sart_official_center_lang_options" => "Опции языка S Art Beauty Center",
-    "sart_official_center_job_explanation" => "Что делает S Art Beauty Center?",
-    "sart_official_center_facebook" => "Страница S Art Beauty Center в Facebook",
-    "sart_official_center_whatsapp" => "Аккаунт S Art Beauty Center в WhatsApp",
-    "sart_official_center_instagram" => "Аккаунт S Art Beauty Center в Instagram",
+    "sart" => "Nur Art Academy",
+    "sart_official_center" => "Официальный сайт Nur Art Academy",
+    "sart_official_center_home" => "Главная Nur Art Academy",
+    "sart_official_center_about" => "О Nur Art Academy",
+    "sart_official_center_contact" => "Контакты Nur Art Academy",
+    "sart_official_center_lang_options" => "Опции языка Nur Art Academy",
+    "sart_official_center_job_explanation" => "Что делает Nur Art Academy?",
+    "sart_official_center_facebook" => "Страница Nur Art Academy в Facebook",
+    "sart_official_center_whatsapp" => "Аккаунт Nur Art Academy в WhatsApp",
+    "sart_official_center_instagram" => "Аккаунт Nur Art Academy в Instagram",
     "whatsapp_line" => "WhatsApp линия",
     "location" => "Адрес в навигации",
     "turkish" => "Турецкий",
@@ -60,12 +60,12 @@ return [
     "ten_min" => "Время чтения",
 
     // hair_cut
-    "hair_cut_description" => "Кадыкёй - Стрижка | S Art Beauty Center",
-    "hair_cut_title" => "Подчеркните свой стиль! Добейтесь уникального вида с помощью стрижки в S Art Beauty Center. Запишитесь на прием прямо сейчас!",
+    "hair_cut_description" => "Кадыкёй - Стрижка | Nur Art Academy",
+    "hair_cut_title" => "Подчеркните свой стиль! Добейтесь уникального вида с помощью стрижки в Nur Art Academy. Запишитесь на прием прямо сейчас!",
     "hair_cut_slogan" => "Подчеркните свой стиль: достигните великолепного вида с профессиональной стрижкой волос!",
     "hair_cut_main_header" => "Стрижка волос",
     "hair_cut_context_title" => "Стрижка волос",
-    "hair_cut_context_content" => "Ваша прическа и длина волос отражают ваш стиль. В S Art Beauty Center вы можете достичь желаемого вида волос.",
+    "hair_cut_context_content" => "Ваша прическа и длина волос отражают ваш стиль. В Nur Art Academy вы можете достичь желаемого вида волос.",
     "hair_cut_question1" => "1. Какой стиль стрижки подойдет мне?",
     "hair_cut_answer1" => "Наши эксперты помогут вам выбрать стиль стрижки, который подходит именно вам, учитывая ваш тип волос, форму лица и стиль.",
     "hair_cut_question2" => "2. Как часто следует делать стрижку волос?",
@@ -81,8 +81,8 @@ return [
     "hair_cut_slide2_title" => "Здоровые волосы",
     "hair_cut_slide2_cont" => "избавьтесь от секущихся кончиков и обеспечьте более здоровый рост ваших волос.",
     "hair_cut_slide3_title" => "Почувствуйте обновление",
-    "hair_cut_slide3_cont" => "обновите свой облик с профессиональной стрижкой в S Art Beauty Center.",
+    "hair_cut_slide3_cont" => "обновите свой облик с профессиональной стрижкой в Nur Art Academy.",
     "hair_cut_subtitle1" => "Разнообразие стрижек",
-    "hair_cut_subtitle1_cont" => "В S Art Beauty Center вы можете выбрать из различных стилей стрижек, от прямых до сложных, от коротких до длинных. Наши специалисты рекомендуют вам подходящую стрижку, учитывая ваш тип волос и форму лица.",
+    "hair_cut_subtitle1_cont" => "В Nur Art Academy вы можете выбрать из различных стилей стрижек, от прямых до сложных, от коротких до длинных. Наши специалисты рекомендуют вам подходящую стрижку, учитывая ваш тип волос и форму лица.",
 
 ];

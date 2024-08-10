@@ -8,7 +8,7 @@ return [
     "language" => "язык",
 
     /*** header subtitle ***/
-    "contact_us_section2_subtitle5" => "S Art Beuty Center Главная",
+    "contact_us_section2_subtitle5" => "Nur Art Academy Главная",
 
     /*** header subtitle ***/
     "lazer-epilasyon" => "Лазерная эпиляция",
@@ -41,16 +41,16 @@ return [
     "follow_us_on_insta" => "Подписывайтесь на нас в Instagram",
 
     /** default keys **/
-    "sart" => "S ART Beauty Center",
-    "sart_official_center" => "Официальный сайт S Art Beauty Center",
-    "sart_official_center_home" => "Главная S Art Beauty Center",
-    "sart_official_center_about" => "О S Art Beauty Center",
-    "sart_official_center_contact" => "Контакты S Art Beauty Center",
-    "sart_official_center_lang_options" => "Опции языка S Art Beauty Center",
-    "sart_official_center_job_explanation" => "Что делает S Art Beauty Center?",
-    "sart_official_center_facebook" => "Страница S Art Beauty Center в Facebook",
-    "sart_official_center_whatsapp" => "Аккаунт S Art Beauty Center в WhatsApp",
-    "sart_official_center_instagram" => "Аккаунт S Art Beauty Center в Instagram",
+    "sart" => "Nur Art Academy",
+    "sart_official_center" => "Официальный сайт Nur Art Academy",
+    "sart_official_center_home" => "Главная Nur Art Academy",
+    "sart_official_center_about" => "О Nur Art Academy",
+    "sart_official_center_contact" => "Контакты Nur Art Academy",
+    "sart_official_center_lang_options" => "Опции языка Nur Art Academy",
+    "sart_official_center_job_explanation" => "Что делает Nur Art Academy?",
+    "sart_official_center_facebook" => "Страница Nur Art Academy в Facebook",
+    "sart_official_center_whatsapp" => "Аккаунт Nur Art Academy в WhatsApp",
+    "sart_official_center_instagram" => "Аккаунт Nur Art Academy в Instagram",
     "whatsapp_line" => "WhatsApp линия",
     "location" => "Адрес в навигации",
     "turkish" => "Турецкий",
@@ -61,23 +61,23 @@ return [
 
     /** индекс **/
     // слайд
-    "index_desc" => "Kadıköy Салон красоты | S Art Beauty Center",
-    "index_title" => "В S Art Beauty Center мы предлагаем широкий спектр услуг: от лазерной эпиляции до ухода за ногтями, а также от ухода за кожей до ухода за волосами. ",
+    "index_desc" => "Ashgabat Салон красоты | Nur Art Academy",
+    "index_title" => "В Nur Art Academy мы предлагаем широкий спектр услуг: от лазерной эпиляции до ухода за ногтями, а также от ухода за кожей до ухода за волосами. ",
     "index_slide_1_2" => "Парикмахерская и салон красоты",
     "index_slide_1_3" => "Получите образ своей мечты вместе с нашими опытными специалистами в области красоты.",
     "index_slide_1_contact_button" => "связаться с нами",
-    "index_slide_1_contact_button_title" => "Контакты S Art Beauty Center",
-    "index_slide_1_about_button" => "О S Art Beauty Center",
+    "index_slide_1_contact_button_title" => "Контакты Nur Art Academy",
+    "index_slide_1_about_button" => "О Nur Art Academy",
     "index_slide_2_img_title" => "Нейл-арт",
     "index_slide_2_1" => "Новый тренд для ногтей:",
     "index_slide_2_2" => "Время маникюра!",
     "index_slide_2_3" => "Вы тоже можете иметь привлекательные и ухоженные ногти.",
-    "index_slide_2_services_button" => "Услуги S Art Beauty Center",
+    "index_slide_2_services_button" => "Услуги Nur Art Academy",
     "whatsapp" => "WhatsApp",
     "index_slide_3_1" => "Объемные Ресницы:",
     "index_slide_3_2" => "Ламинирование ресниц",
     "index_slide_3_3" => "Добейтесь естественного и объемного вида с помощью лифтинга ресниц. ",
-    "index_slide_3_navigation_button_title" => "Где находится S Art Beauty Center?",
+    "index_slide_3_navigation_button_title" => "Где находится Nur Art Academy?",
     "index_slide_3_navigation_button" => "Навигация",
     "instagram" => "Instagram",
 
@@ -124,7 +124,7 @@ return [
     "index_section1_services_redirect_button" => "Посмотреть все наши услуги",
 
     // section 2
-    "index_section2_img_alt" => "Фотогалерея S Art Beauty Center",
+    "index_section2_img_alt" => "Фотогалерея Nur Art Academy",
     "index_section2_main_title" => "Наша Фотогалерея",
     "index_section2_subtitle" => "Наша Фотогалерея - Просмотрите истории красоты, которые мы подготовили для вас!",
     "index_section2_link_title1" => "Все",
@@ -136,21 +136,21 @@ return [
     // section 3
     "index_section3_main_title" => "Наши Презентационное Видео ",
     "index_section3_content" => "Как центр красоты S Art, мы предоставляем услуги, сочетая красоту и уход. В нашем видео у вас будет возможность познакомиться с нашими различными услугами, такими как Перманентный макияж ,пудровое напыление, Наращивание ресниц, стрижка волос, а также с нашей командой экспертов, которая выполняет эти процедуры с большой Внимательностью. Мы продолжаем предоставлять качественные и ориентированные на удовлетворение услуги в гигиенической среде, всегда следуя последним тенденциям.",
-    "index_section3_video_title" => "Презентационное Видео S Art Beauty Center",
+    "index_section3_video_title" => "Презентационное Видео Nur Art Academy",
 
     // section 4
-    "index_section4_img_alt" => "S Art Beauty Center с профессиональной командой",
+    "index_section4_img_alt" => "Nur Art Academy с профессиональной командой",
     "index_section4_main_title" => "Мы к вашим услугам!",
-    "index_section4_cont" => "В S Art Beauty Center мы здесь с нашей опытной и Профессиональными мастерами, чтобы удовлетворить все ваши потребности в красоте и уходе. Мы всегда рядом с вами с нашим качественным подходом к услугам для волос, кожи, ногтей и многого другого.",
+    "index_section4_cont" => "В Nur Art Academy мы здесь с нашей опытной и Профессиональными мастерами, чтобы удовлетворить все ваши потребности в красоте и уходе. Мы всегда рядом с вами с нашим качественным подходом к услугам для волос, кожи, ногтей и многого другого.",
 
     // section 4
-    "about_us_client_comments1" => "Когда я посетила S Art Beauty Center, я сделала ламинирование бровей и была очень довольна результатом! Мои брови выглядят более плотными и аккуратными. Профессиональный и дружелюбный коллектив был прекрасным бонусом.",
+    "about_us_client_comments1" => "Когда я посетила Nur Art Academy, я сделала ламинирование бровей и была очень довольна результатом! Мои брови выглядят более плотными и аккуратными. Профессиональный и дружелюбный коллектив был прекрасным бонусом.",
     "about_us_client_job1" => "Учитель",
-    "about_us_client_comments2" => "Для свадебного макияжа мне сделали прическу невесты и наращивание шелковых ресниц. Результат был действительно потрясающим! Я чувствовала себя как принцесса. Спасибо S Art Beauty Center!",
+    "about_us_client_comments2" => "Для свадебного макияжа мне сделали прическу невесты и наращивание шелковых ресниц. Результат был действительно потрясающим! Я чувствовала себя как принцесса. Спасибо Nur Art Academy!",
     "about_us_client_job2" => "Химик",
-    "about_us_client_comments3" => "Когда я решила сменить цвет волос, я пошла в S Art Beauty Center. Благодаря специалистам по окрашиванию, мы прекрасно подобрали нужный оттенок. Очень довольна результатом!",
+    "about_us_client_comments3" => "Когда я решила сменить цвет волос, я пошла в Nur Art Academy. Благодаря специалистам по окрашиванию, мы прекрасно подобрали нужный оттенок. Очень довольна результатом!",
     "about_us_client_job3" => "Студент",
-    "about_us_client_comments4" => "Я выбрала S Art Beauty Center для наращивания ногтей и была очень счастлива результатом. Мои ногти выглядят естественно и долго держатся. Очень рекомендую!",
+    "about_us_client_comments4" => "Я выбрала Nur Art Academy для наращивания ногтей и была очень счастлива результатом. Мои ногти выглядят естественно и долго держатся. Очень рекомендую!",
     "about_us_client_job4" => "Домохозяйка",
     "about_us_client_comments5" => "У меня было наращивание шелковых ресниц, и мои глаза стали более выразительными. Я чувствовала себя очень комфортно благодаря внимательному коллективу и расслабляющей атмосфере.",
     "about_us_client_job5" => "Дизайнер",
@@ -158,18 +158,18 @@ return [
     // section 5
     "index_section5_img_alt" => "ОТЗЫВЫ КЛИЕНТОВ",
     "index_section5_main_title" => "Что о нас говорят клиенты?",
-    "index_section5_cont" => "Опыт наших клиентов является одной из наших самых ценных рекомендаций. В S Art Beauty Center мы делится с вами отзывами наших клиентов, которые испытали наши услуги по красоте и уходу.",
-    "index_section5_slide1_cont" => "Я совершенно изменилась после получения услуги по окрашиванию губ в S Art Beauty Center! Благодаря внимательной работе вашей команды и доброжелательности я достигла естественных и впечатляющих результатов. Спасибо!",
+    "index_section5_cont" => "Опыт наших клиентов является одной из наших самых ценных рекомендаций. В Nur Art Academy мы делится с вами отзывами наших клиентов, которые испытали наши услуги по красоте и уходу.",
+    "index_section5_slide1_cont" => "Я совершенно изменилась после получения услуги по окрашиванию губ в Nur Art Academy! Благодаря внимательной работе вашей команды и доброжелательности я достигла естественных и впечатляющих результатов. Спасибо!",
     "index_section5_slide1_cont2" => "Тургид",
-    "index_section5_slide2_cont" => "Я впечатлен результатами процедуры наращивания шелковых ресниц в S Art Beauty Center. Мои ресницы выглядят как естественные и густые. Благодаря вашей профессиональной команде мой взгляд приобрел волшебное очарование. Спасибо большое!",
+    "index_section5_slide2_cont" => "Я впечатлен результатами процедуры наращивания шелковых ресниц в Nur Art Academy. Мои ресницы выглядят как естественные и густые. Благодаря вашей профессиональной команде мой взгляд приобрел волшебное очарование. Спасибо большое!",
     "index_section5_slide2_cont2" => "Финансовый консультант",
-    "index_section5_slide3_cont" => "Я получила замечательную стрижку и окрашивание волос в S Art Beauty Center. Ваши профессиональные стилисты полностью изменили мой стиль и цвет волос, и теперь я чувствую себя гораздо увереннее.",
+    "index_section5_slide3_cont" => "Я получила замечательную стрижку и окрашивание волос в Nur Art Academy. Ваши профессиональные стилисты полностью изменили мой стиль и цвет волос, и теперь я чувствую себя гораздо увереннее.",
     "index_section5_slide3_cont2" => "Домохозяйка",
     "index_section5_slide4_cont" => "Благодаря вашему дизайну ногтей Nail Art мои ногти стали настоящим произведением искусства. Я ценю вашу внимательность к деталям и креативный подход. Этот дизайн всегда делает меня счастливой. Вы молодцы!",
     "index_section5_slide4_cont2" => "Дизайнер",
     "index_section5_slide5_cont" => "После процедуры по наращиванию ресниц мои глаза преобразились. Теперь мой взгляд выглядит более молодым и энергичным. Я благодарен за этот опыт и определенно рекомендую его!",
     "index_section5_slide5_cont2" => "Менеджер магазина",
-    "index_section5_slide6_cont" => "Медицинский маникюр и педикюр в S Art Beauty Center воскресли мои руки и ноги. Я был впечатлен профессионализмом вашей команды и вниманием к гигиене и качеству. Мои ногти выглядят теперь здоровыми и ухоженными.",
+    "index_section5_slide6_cont" => "Медицинский маникюр и педикюр в Nur Art Academy воскресли мои руки и ноги. Я был впечатлен профессионализмом вашей команды и вниманием к гигиене и качеству. Мои ногти выглядят теперь здоровыми и ухоженными.",
     "index_section5_slide6_cont2" => "Адвокат",
 
 ];

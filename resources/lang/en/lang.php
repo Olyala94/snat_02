@@ -1,16 +1,16 @@
 <?php
 return[
     /** default keys **/
-    "sart" => "S ART Beauty Center",
-    "sart_official_center" => "S Art Beauty Center Official Website",
-    "sart_official_center_home" => "S Art Beauty Center Home",
-    "sart_official_center_about" => "S Art Beauty Center About Us Page",
-    "sart_official_center_contact" => "S Art Beauty Center Contact Page",
-    "sart_official_center_lang_options" => "S Art Beauty Center Language Options",
-    "sart_official_center_job_explanation" => "What Does S Art Beauty Center Do?",
-    "sart_official_center_facebook" => "S Art Beauty Center Facebook Account",
-    "sart_official_center_whatsapp" => "S Art Beauty Center Whatsapp Account",
-    "sart_official_center_instagram" => "S Art Beauty Center Instagram Account",
+    "sart" => "Nur Art Academy",
+    "sart_official_center" => "Nur Art Academy Official Website",
+    "sart_official_center_home" => "Nur Art Academy Home",
+    "sart_official_center_about" => "Nur Art Academy About Us Page",
+    "sart_official_center_contact" => "Nur Art Academy Contact Page",
+    "sart_official_center_lang_options" => "Nur Art Academy Language Options",
+    "sart_official_center_job_explanation" => "What Does Nur Art Academy Do?",
+    "sart_official_center_facebook" => "Nur Art Academy Facebook Account",
+    "sart_official_center_whatsapp" => "Nur Art Academy Whatsapp Account",
+    "sart_official_center_instagram" => "Nur Art Academy Instagram Account",
     "whatsapp_line" => "WhatsApp Line",
     "location" => "Our Address on Navigation",
     "turkish" => "Turkish",
@@ -93,7 +93,7 @@ return[
     "user_policies_main_title3" => "Cookie Policy",
     "latest_update" => "Latest Update",
     "user_policies_subtitle1" => "Your security is important to us. Therefore, your personal data shared with us is carefully protected.",
-    "user_policies_subtitle1_cont" => "As <b>S ART Beauty Center</b>, as the data controller, we aim to inform you about this privacy and personal data protection policy, including the purposes for which your personal data will be processed, who the processed data can be shared with, our data processing methods and legal reasons, and your rights regarding the processed data.",
+    "user_policies_subtitle1_cont" => "As <b>Nur Art Academy</b>, as the data controller, we aim to inform you about this privacy and personal data protection policy, including the purposes for which your personal data will be processed, who the processed data can be shared with, our data processing methods and legal reasons, and your rights regarding the processed data.",
     "user_policies_subtitle2" => "Collected Personal Data, Collection Method, and Legal Basis",
     "user_policies_subtitle2_cont" => "Your IP address and user agent information will be processed automatically or non-automatically, and sometimes obtained, recorded, stored, and updated from third parties such as analytical providers, advertising networks, search information providers, technology providers, etc., through cookies and similar technologies, and will be processed based on the legitimate interest processing condition, within the scope and duration of our service and contractual relationship.",
     "user_policies_subtitle3" => "Purpose of Processing Your Personal Data",
@@ -111,17 +111,17 @@ return[
     "user_policies_subtitle5_li7" => "To request notification of the operations performed as a result of the application of (5) and (6) to third parties to whom personal data has been transferred,",
     "user_policies_subtitle5_li8" => "To object to the occurrence of a result against the individual by exclusively analyzing the processed data through automated systems,",
     "user_policies_subtitle5_li9" => "In case personal data is processed unlawfully, to demand compensation for damages suffered.",
-    "user_policies_subtitle5_cont2" => 'To exercise the above-mentioned rights, you can contact us at "<i>acibademasbeauty@gmail.com</i>."',
+    "user_policies_subtitle5_cont2" => 'To exercise the above-mentioned rights, you can contact us at "<i>nurartacademy@gmail.com</i>."',
     "user_policies_subtitle6" => "Contact",
-    "user_policies_subtitle6_cont" => 'For the purpose of offering you services and conducting analyses, we process only the necessary personal data in accordance with this privacy and personal data processing policy. You are completely free to accept or not accept this. If you continue to use the site, it will be assumed that you have accepted it on our part. Please do not hesitate to contact us via the email address "<i>acibademasbeauty@gmail.com</i>" for more detailed information.',
+    "user_policies_subtitle6_cont" => 'For the purpose of offering you services and conducting analyses, we process only the necessary personal data in accordance with this privacy and personal data processing policy. You are completely free to accept or not accept this. If you continue to use the site, it will be assumed that you have accepted it on our part. Please do not hesitate to contact us via the email address "<i>nurartacademy@gmail.com</i>" for more detailed information.',
     "user_policies_subtitle7_cont1" => "Dear visitor, please read this Terms of Use Agreement carefully before visiting our website www.sartbeauty.com. Your access to the site is entirely subject to your acceptance of this agreement and compliance with the terms set out in this agreement. If you do not accept any of the conditions in this agreement, please terminate your access to the site. If you continue to access the site, it will be assumed that you have unconditionally and unreservedly accepted the entire text of this agreement on our part.",
-    "user_policies_subtitle7_cont2" => "The www.sartbeauty.com website is managed by S ART Beauty Center, hereinafter referred to as the SITE. These Terms of Use related to the site come into effect when they are published. The right to make changes belongs solely to the SITE, and all our users are considered to have accepted these changes to be published on the SITE.",
+    "user_policies_subtitle7_cont2" => "The www.sartbeauty.com website is managed by Nur Art Academy, hereinafter referred to as the SITE. These Terms of Use related to the site come into effect when they are published. The right to make changes belongs solely to the SITE, and all our users are considered to have accepted these changes to be published on the SITE.",
     "user_policies_subtitle8" => "Privacy",
     "user_policies_subtitle8_cont" => "Privacy, to regulate the principles of the processing of your personal data, is available on a separate page. When you use the SITE, it is assumed that the processing of this data is carried out in accordance with the privacy policy.",
     "user_policies_subtitle9" => "Scope of Services",
-    "user_policies_subtitle9_cont" => "S ART Beauty Center is completely free to determine the scope and nature of the services it will provide, within the framework of the laws; changes to the services will come into effect by being published on the SITE.",
+    "user_policies_subtitle9_cont" => "Nur Art Academy is completely free to determine the scope and nature of the services it will provide, within the framework of the laws; changes to the services will come into effect by being published on the SITE.",
     "user_policies_subtitle10" => "Copyrights",
-    "user_policies_subtitle10_cont" => "All text, code, graphics, logos, images, audio files, and software used on the SITE (hereinafter and hereinafter referred to as 'content') are owned by S ART Beauty Center and all rights are reserved. Reproduction or copying of site content is strictly prohibited without written permission.",
+    "user_policies_subtitle10_cont" => "All text, code, graphics, logos, images, audio files, and software used on the SITE (hereinafter and hereinafter referred to as 'content') are owned by Nur Art Academy and all rights are reserved. Reproduction or copying of site content is strictly prohibited without written permission.",
     "user_policies_subtitle11" => "General Provisions",
     "user_policies_subtitle11_li1" => "All users undertake that they will use the SITE only for lawful and personal purposes and will not engage in any activity that may infringe on the rights of third parties. The legal and criminal responsibilities for the actions and activities they perform within the SITE, are their own. The SITE has no direct and/or indirect responsibility for the damages suffered or that may be suffered by third parties due to these actions and activities.",
     "user_policies_subtitle11_li2" => "We make every effort to ensure the accuracy and timeliness of the information available on the SITE. However, despite our efforts, this information may lag behind actual changes and there may be some differences. Therefore, no guarantee is given, and no commitment is made for the accuracy and timeliness of the information on the site.",
@@ -131,7 +131,7 @@ return[
     "user_policies_subtitle12" => "Limitation of Liability",
     "user_policies_subtitle12_cont" => "Our liability for damages arising from the use of the SITE is limited to intent and gross negligence. In cases where the contract is violated, the total compensation that can be claimed is limited to foreseeable damages. The liability limitations mentioned above are not valid in cases of damages to human life, bodily injury, or the health of a person. In the case of events that are considered a force majeure in terms of the law, no compensation obligation will arise for delay, failure to perform, or default.",
     "user_policies_subtitle12_cont2" => "<b>Dispute Resolution:</b> In the resolution of any disputes arising from or in connection with this Agreement, Turkish law shall apply, and Istanbul Courts and Execution Offices shall have jurisdiction.",
-    "user_policies_subtitle13_cont1" => "We, S ART Beauty Center, value your security and aim to briefly inform you about which cookies we use on our website, www.sartbeauty.com, and for what purposes, with this Cookie Policy.",
+    "user_policies_subtitle13_cont1" => "We, Nur Art Academy, value your security and aim to briefly inform you about which cookies we use on our website, www.sartbeauty.com, and for what purposes, with this Cookie Policy.",
     "user_policies_subtitle13_cont2" => "In order to gain a brief insight into what kind of personal data is collected on our website and how it is processed, you can take a look at this Cookie Policy. For more information, you can also take a look at our Privacy Policy or feel free to contact us.",
     "user_policies_subtitle14" => "What Are Cookies?",
     "user_policies_subtitle14_cont" => "Cookies are small files saved to your device that allow users to use websites more efficiently. Since personal information is processed through cookies, it is mandatory to inform users and obtain their consent, in accordance with the Law on the Protection of Personal Data No. 6698.",
@@ -149,29 +149,29 @@ return[
     "user_policies_subtitle20" => "What Are Cookies Used For?",
     "user_policies_subtitle20_cont" => "On our website, cookies are used for the purpose of ensuring security through the detection of suspicious activities, enhancing functionality and performance in line with user preferences, developing and personalizing products and services, facilitating access to these services, and fulfilling contractual and legal obligations. Additionally, advertising cookies are used to connect users with broader service providers and involve sharing information with third parties.",
     "user_policies_subtitle21" => "How Are Cookies Managed?",
-    "user_policies_subtitle21_cont" => 'After all these explanations, the matter of which cookies are used is entirely left to the free will of our users. You can manage your cookie preferences by deleting or blocking them through your browser settings when you first visit our website or at any time in the future. For more detailed information, you can refer to our <a href="#privacy" title="Privacy Policy">Privacy Policy</a> or contact us via the email address <i>acibademasbeauty@gmail.com</i>.',
+    "user_policies_subtitle21_cont" => 'After all these explanations, the matter of which cookies are used is entirely left to the free will of our users. You can manage your cookie preferences by deleting or blocking them through your browser settings when you first visit our website or at any time in the future. For more detailed information, you can refer to our <a href="#privacy" title="Privacy Policy">Privacy Policy</a> or contact us via the email address <i>nurartacademy@gmail.com</i>.',
 
 
 
     /** index **/
     // slide
-    "index_title" => "S Art Beauty Center - Unveil Your Beauty with Us",
-    "index_desc" => "Reflect your style, discover your beauty with us. Highlight your uniqueness with S Art Beauty Center.",
+    "index_title" => "Nur Art Academy - Unveil Your Beauty with Us",
+    "index_desc" => "Reflect your style, discover your beauty with us. Highlight your uniqueness with Nur Art Academy.",
     "index_slide_1_2" => "Beauty and Hair Salon",
     "index_slide_1_3" => "Get the look of your dreams with our expert team in the field of beauty",
     "index_slide_1_contact_button" => "Contact Us",
-    "index_slide_1_contact_button_title" => "S Art Beauty Center Contact",
-    "index_slide_1_about_button" => "About S Art Beauty Center",
+    "index_slide_1_contact_button_title" => "Nur Art Academy Contact",
+    "index_slide_1_about_button" => "About Nur Art Academy",
     "index_slide_2_img_title" => "Nail Art - Nail Art",
     "index_slide_2_1" => "New Nail Trends:",
     "index_slide_2_2" => "It's Nail Art Time!",
     "index_slide_2_3" => "You can also have dazzling and well-groomed nails with nail art.",
-    "index_slide_2_services_button" => "S Art Beauty Center Services",
+    "index_slide_2_services_button" => "Nur Art Academy Services",
     "whatsapp" => "WhatsApp",
     "index_slide_3_1" => "Voluminous Eyelashes:",
     "index_slide_3_2" => "Meet Lash Lifting!",
     "index_slide_3_3" => "Get a natural and voluminous look with eyelash lifting.",
-    "index_slide_3_navigation_button_title" => "Where is S Art Beauty Center?",
+    "index_slide_3_navigation_button_title" => "Where is Nur Art Academy?",
     "index_slide_3_navigation_button" => "Navigation",
     "instagram" => "Instagram",
 
@@ -233,7 +233,7 @@ return[
     "index_section1_services_redirect_button" => "View All Our Services",
 
     // section 2
-    "index_section2_img_alt" => "S Art Beauty Center Photo Gallery",
+    "index_section2_img_alt" => "Nur Art Academy Photo Gallery",
     "index_section2_main_title" => "Our Photo Gallery",
     "index_section2_subtitle" => "Our Photo Gallery - Explore the beauty stories we've prepared for you!",
     "index_section2_link_title1" => "All",
@@ -244,38 +244,38 @@ return[
 
     // section 3
     "index_section3_main_title" => "Our Promo Video",
-    "index_section3_content" => " At S Art Beauty Center, we combine beauty and care to provide our services. In our video, you'll have the opportunity to get to know our expert team who performs various services like lip tinting, silk eyelash application, haircuts, and more with great care. We always stay updated with the latest trends and continue to offer high-quality, customer-focused services in a hygienic environment. ",
-    "index_section3_video_title" => "S Art Beauty Center Promo Video",
+    "index_section3_content" => " At Nur Art Academy, we combine beauty and care to provide our services. In our video, you'll have the opportunity to get to know our expert team who performs various services like lip tinting, silk eyelash application, haircuts, and more with great care. We always stay updated with the latest trends and continue to offer high-quality, customer-focused services in a hygienic environment. ",
+    "index_section3_video_title" => "Nur Art Academy Promo Video",
 
     // section 4
-    "index_section4_img_alt" => "S Art Beauty Center Provides Services with a Professional Team",
+    "index_section4_img_alt" => "Nur Art Academy Provides Services with a Professional Team",
     "index_section4_main_title" => "We are at your service!",
-    "index_section4_cont" => "At S Art Beauty Center, we are here with our experienced and expert team to meet your beauty and care needs. We are always here to provide quality services for hair, skin, nail care, and more.",
+    "index_section4_cont" => "At Nur Art Academy, we are here with our experienced and expert team to meet your beauty and care needs. We are always here to provide quality services for hair, skin, nail care, and more.",
 
     // section 5
     "index_section5_img_alt" => "CUSTOMER REVIEWS",
     "index_section5_main_title" => "What Did They Say About Us?",
-    "index_section5_cont" => "The experiences of our customers are one of the most valuable references for us. At S Art Beauty Center, we are sharing the reviews of our customers who have experienced our beauty and care services.",
-    "index_section5_slide1_cont" => "I feel completely different with the lip coloring service I received at S Art Beauty Center! Thanks to your expert team's meticulous work and smiles, I achieved a natural and impressive result. Thank you!",
+    "index_section5_cont" => "The experiences of our customers are one of the most valuable references for us. At Nur Art Academy, we are sharing the reviews of our customers who have experienced our beauty and care services.",
+    "index_section5_slide1_cont" => "I feel completely different with the lip coloring service I received at Nur Art Academy! Thanks to your expert team's meticulous work and smiles, I achieved a natural and impressive result. Thank you!",
     "index_section5_slide1_cont2" => "Tour Guide",
-    "index_section5_slide2_cont" => "I was amazed by S Art Beauty Center, where I chose silk eyelash application. My eyelashes look both natural and full. Thanks to your professional team, I created a magical effect in my gaze. Thank you very much!",
+    "index_section5_slide2_cont" => "I was amazed by Nur Art Academy, where I chose silk eyelash application. My eyelashes look both natural and full. Thanks to your professional team, I created a magical effect in my gaze. Thank you very much!",
     "index_section5_slide2_cont2" => "Accountant",
-    "index_section5_slide3_cont" => "I am very satisfied with S Art Beauty Center, where I came for a haircut and color. Thanks to your expert stylists, I completely changed my style, and I feel much more confident with my new hair color.",
+    "index_section5_slide3_cont" => "I am very satisfied with Nur Art Academy, where I came for a haircut and color. Thanks to your expert stylists, I completely changed my style, and I feel much more confident with my new hair color.",
     "index_section5_slide3_cont2" => "Homemaker",
     "index_section5_slide4_cont" => "Thanks to your Nail Art design, my nails became a work of art. I appreciate your attention to detail and creative approach. This design on my nails makes me happy every time I look at it. You are amazing!",
     "index_section5_slide4_cont2" => "Designer",
     "index_section5_slide5_cont" => "It was incredible to notice the change in my eyes with your eyelash lifting service. My gaze looks younger and more energetic. Thank you for making me experience this, I definitely recommend it!",
     "index_section5_slide5_cont2" => "Store Manager",
-    "index_section5_slide6_cont" => "With the medical manicure and pedicure service I received at S Art Beauty Center, my hands and feet were reborn! I was impressed by the expertise of the team and their meticulousness about hygiene and quality. Now my nails look both healthy and well-groomed.",
+    "index_section5_slide6_cont" => "With the medical manicure and pedicure service I received at Nur Art Academy, my hands and feet were reborn! I was impressed by the expertise of the team and their meticulousness about hygiene and quality. Now my nails look both healthy and well-groomed.",
     "index_section5_slide6_cont2" => "Lawyer",
 
     /*** about_us ***/
-    "about_us_description" => "At S Art Beauty Center, we take pride in providing the highest quality beauty and hairdressing services to our valued customers in Istanbul, Kadikoy.",
-    "about_us_title" => "S Art Beauty Center - About Us",
+    "about_us_description" => "At Nur Art Academy, we take pride in providing the highest quality beauty and hairdressing services to our valued customers in Istanbul, Kadikoy.",
+    "about_us_title" => "Nur Art Academy - About Us",
 
     // section 1
     "about_us_section1_subtitle" => "Refresh with Our Beauty Services ",
-    "about_us_section1_cont" => "At S ART Beauty Center in Istanbul Kadıköy, we are delighted to provide you with services in the fields of hairdressing and beauty, with our expert team.",
+    "about_us_section1_cont" => "At Nur Art Academy in Istanbul Ashgabat, we are delighted to provide you with services in the fields of hairdressing and beauty, with our expert team.",
 
     // section2
     "about_us_section2_title" => "Our Mission and Vision",
@@ -284,29 +284,29 @@ return[
 
     // section 3
     "about_us_section3_title" => "What Did They Say About Us?",
-    "about_us_section3_cont" => 'What did our customers say about us? <br> For more, visit our <a href="https://www.google.com/maps/place/Sart+Beauty+Sa%C3%A7+Tasar%C4%B1m/@41.002914,29.038749,14z/data=!4m8!3m7!1s0x14cab9651709e8f9:0x9552484cb55df7fc!8m2!3d41.0014885!4d29.038792!9m1!1b1!16s%2Fg%2F11stjbbl8s?hl=tr&entry=ttu" target="_blank" title="S Art Beuty Center Google Reviews" rel="nofollow">GOOGLE Page </a>.',
+    "about_us_section3_cont" => 'What did our customers say about us? <br> For more, visit our <a href="https://www.google.com/maps/place/Sart+Beauty+Sa%C3%A7+Tasar%C4%B1m/@41.002914,29.038749,14z/data=!4m8!3m7!1s0x14cab9651709e8f9:0x9552484cb55df7fc!8m2!3d41.0014885!4d29.038792!9m1!1b1!16s%2Fg%2F11stjbbl8s?hl=tr&entry=ttu" target="_blank" title="Nur Art Academy Google Reviews" rel="nofollow">GOOGLE Page </a>.',
 
     // section 4
-    "about_us_client_comments1" => "When I went to S Art Beauty Center, I had eyebrow lamination, and I'm very pleased with the result! My eyebrows look fuller and more organized. The professional team's friendly approach was wonderful.",
+    "about_us_client_comments1" => "When I went to Nur Art Academy, I had eyebrow lamination, and I'm very pleased with the result! My eyebrows look fuller and more organized. The professional team's friendly approach was wonderful.",
     "about_us_client_job1" => "Teacher",
-    "about_us_client_comments2" => "I had a bridal bun and silk eyelash application for my wedding makeup. The result was truly amazing! I felt like a princess. Thanks, S Art Beauty Center.",
+    "about_us_client_comments2" => "I had a bridal bun and silk eyelash application for my wedding makeup. The result was truly amazing! I felt like a princess. Thanks, Nur Art Academy.",
     "about_us_client_job2" => "Chemist",
-    "about_us_client_comments3" => "When I wanted to change my hair color, I visited S Art Beauty Center. Thanks to the color experts, we achieved the perfect shade I wanted. It's definitely my favorite hair salon!",
+    "about_us_client_comments3" => "When I wanted to change my hair color, I visited Nur Art Academy. Thanks to the color experts, we achieved the perfect shade I wanted. It's definitely my favorite hair salon!",
     "about_us_client_job3" => "Student",
-    "about_us_client_comments4" => "I chose S Art Beauty Center for acrylic nail application, and I'm very happy with the result. My nails look natural and last a long time. I highly recommend it!",
+    "about_us_client_comments4" => "I chose Nur Art Academy for acrylic nail application, and I'm very happy with the result. My nails look natural and last a long time. I highly recommend it!",
     "about_us_client_job4" => "Homemaker",
     "about_us_client_comments5" => "I had a silk eyelash application, and my eyes look much more prominent. Thanks to the meticulous work of the expert team and the relaxing environment, I felt very comfortable.",
     "about_us_client_job5" => "Designer",
 
     /****  contact_us  ****/
     "contact_us_description" => "Feel free to contact us with your questions, appointment requests, or feedback. We'll be happy to assist you as soon as possible.",
-    "contact_us_title" => "Get in Touch - S Art Beauty Center",
+    "contact_us_title" => "Get in Touch - Nur Art Academy",
     "contact_us_section1_title" => "Contact Information",
     "contact_us_section1_cont" => "You can trust us for beauty and skincare. Don't hesitate to reach out to us with your questions, appointment requests, or feedback. We'll be delighted to assist you as soon as possible.",
     "contact_us_section1_subtitle1" => "Address",
-    "contact_us_section1_subtitle1_cont" => "Acıbadem, Lise Yolu Sk. no:9/B, 34718 Kadıköy/İstanbul",
+    "contact_us_section1_subtitle1_cont" => 'Ashgabat, Gurtly "Bagt gül" söwda Merkezi',
     "contact_us_section1_subtitle2" => "Email",
-    "contact_us_section1_subtitle2_cont" => "acibademasbeauty@gmail.com",
+    "contact_us_section1_subtitle2_cont" => "nurartacademy@gmail.com",
     "contact_us_section1_subtitle3" => "Phone",
     "contact_us_section1_subtitle3_cont" => "+993 61 21 27 83",
     "contact_us_section2_title" => "Send Us a Message",
@@ -320,8 +320,8 @@ return[
     "sart_on_social_media" => "Find Us on Social Media",
     "follow_us_on_insta" => "Follow Us on Instagram",
     // lazer-epilasyon
-    "lazer_description" => " Ice Laser Hair Removal- S Art Beauty Center Painless and Effective Hair Removal",
-    "lazer_title" => "Experience painless and effective hair removal treatment for the entire body with S Art Beauty Center's Ice Laser Hair Removal.",
+    "lazer_description" => " Ice Laser Hair Removal- Nur Art Academy Painless and Effective Hair Removal",
+    "lazer_title" => "Experience painless and effective hair removal treatment for the entire body with Nur Art Academy's Ice Laser Hair Removal.",
     "lazer_main_header" => "Ice Laser Hair Removal",
     "lazer_context_title" => "Ice Laser Hair Removal",
     "lazer_context_content" => "Laser hair removal is the fastest and safest way to get rid of unwanted hair.",
@@ -341,8 +341,8 @@ return[
     "lazer_subtitle1_cont" => " Diode laser is considered the 'Gold Standard' in hair removal. One of its most significant advantages is that it combines a broad energy spectrum with maximum safety for the human body, ensuring highly efficient destruction of hair follicles.",
 
     // selülit-masajı
-    "selülit_description" => "En etkili G5 selülit masajı ile S Art Beauty Center 'da bölgesel incelme ve cilt sıkılaştırma deneyimi yaşayın.",
-    "selülit_title" => "Experience regional slimming and skin tightening with the most effective G5 cellulite massage at S Art Beauty Center.",
+    "selülit_description" => "En etkili G5 selülit masajı ile Nur Art Academy 'da bölgesel incelme ve cilt sıkılaştırma deneyimi yaşayın.",
+    "selülit_title" => "Experience regional slimming and skin tightening with the most effective G5 cellulite massage at Nur Art Academy.",
     "selülit_main_header" => "G5 Cellulite Massage",
     "selülit_context_title" => "G5 Cellulite Massage",
     "selülit_context_content" => "It is an ideal method to combat cellulite at all stages.",
@@ -362,8 +362,8 @@ return[
     "selülit_subtitle1_cont" => "G5 massage is a type of massage performed using a special device. This device provides a skin tightening and cellulite reduction effect through rapid vibrations. G5 massage is particularly used for cellulite treatment and localized slimming. It is also highly effective in relieving muscle lactic acid buildup, reducing edema, and treating spasms.",
 
     // brezilya-fönü
-    "brasil-fön_description" => "Achieve naturally looking, straight, and shiny hair with the Brazilian blowout at S Art Beauty Center.",
-    "brasil-fön_title" => "Brazilian Blowout - Permanent Straight and Shiny Hair at S Art Beauty Center",
+    "brasil-fön_description" => "Achieve naturally looking, straight, and shiny hair with the Brazilian blowout at Nur Art Academy.",
+    "brasil-fön_title" => "Brazilian Blowout - Permanent Straight and Shiny Hair at Nur Art Academy",
     "brasil-fön_main_header" => "Brazilian Blowout",
     "brasil-fön_context_title" => "Brazilian Blowout",
     "brasil-fön_context_content" => "If you're tired of constantly blow-drying your hair, Brazilian Blowout can be a great option.",
@@ -383,8 +383,8 @@ return[
     "brasil-fön_subtitle1_cont" => "The Brazilian Blowout process allows for hair straightening. This procedure is performed by applying a protein layer called keratin to the hair and then setting it into the hair with the help of heat.",
 
     // roll-shape
-    "roll-shape_description" => "Roll Shape Body Firming- Say Goodbye to Cellulite with S Art Beauty Center.",
-    "roll-shape_title" => "Reduce cellulite and firm your skin with Roll Shape at S Art Beauty Center.",
+    "roll-shape_description" => "Roll Shape Body Firming- Say Goodbye to Cellulite with Nur Art Academy.",
+    "roll-shape_title" => "Reduce cellulite and firm your skin with Roll Shape at Nur Art Academy.",
     "roll-shape_main_header" => "Roll Shape Application",
     "roll-shape_context_title" => "Roll Shape Application",
     "roll-shape_context_content" => "The primary goal of the Roller Shape is to reduce fat tissue and make the body appear slimmer.",
@@ -402,8 +402,8 @@ return[
     "roll-shape_subtitle1_cont" => "Roll Shape is designed for body massage using infrared technology. This treatment aims to eliminate cellulite and support achieving a slimmer body shape. With regular use, Roll Shape helps visibly reduce cellulite, tighten the skin, and diminish body imperfections.",
 
     // cilt-bakımı
-    "skin-care_description" => "Professional Skin Care Services – S Art Beauty Center",
-    "skin-care_title" => "Gain health and vitality for your skin with professional skin care services offered at S Art Beauty Center. Learn more about our treatments applied for skin cleansing, smoothness, and a healthy appearance, and schedule an appointment.",
+    "skin-care_description" => "Professional Skin Care Services – Nur Art Academy",
+    "skin-care_title" => "Gain health and vitality for your skin with professional skin care services offered at Nur Art Academy. Learn more about our treatments applied for skin cleansing, smoothness, and a healthy appearance, and schedule an appointment.",
     "skin-care_main_header" => "Professional Skin Care",
     "skin-care_context_title" => "Professional Skin Care",
     "skin-care_context_content" => "With permanent eyeliner application, your eyelashes will appear thicker and darker, and your gaze will be more natural, brighter, and more meaningful.",
@@ -424,7 +424,7 @@ return[
 
     // dipliner
     "dipliner_description" => "Enhance your eyes and achieve a stunning gaze with our dipliner applications. Elevate your eye makeup with our expert team.",
-    "dipliner_title" => "Accentuate Your Eyes with Dipliner Applications - S Art Beauty Center",
+    "dipliner_title" => "Accentuate Your Eyes with Dipliner Applications - Nur Art Academy",
     "dipliner_main_header" => "Permanent Eyeliner and Dip Eyeliner",
     "dipliner_context_title" => "Permanent Eyeliner and Dip Eyeliner",
     "dipliner_context_content" => "With permanent eyeliner application, your eyelashes will appear thicker and darker, and your gaze will be more natural, brighter, and more meaningful.",
@@ -467,8 +467,8 @@ return[
     "dipliner_slide4_sub_title" => "Eyeliner always provides a well-groomed and lively look.",
 
     // lip_filler
-    "lip_filler_description" => "Discover a personalized solution for natural and stunning lips with lip coloring at S Art Beauty Center.",
-    "lip_filler_title" => "Highlight Natural Beauty: Permanent Lip Coloring at S Art Beauty Center",
+    "lip_filler_description" => "Discover a personalized solution for natural and stunning lips with lip coloring at Nur Art Academy.",
+    "lip_filler_title" => "Highlight Natural Beauty: Permanent Lip Coloring at Nur Art Academy",
     "lip_filler_main_header" => "Lip Coloring",
     "lip_filler_context_title" => "Permanent Makeup - Lip Tinting",
     "lip_filler_context_content" => "Lip Tinting will make your lips appear more vibrant, healthy, and full. If you're tired of constantly reapplying lipstick, you can achieve consistently lively and bright lips with lip tinting.",
@@ -483,7 +483,7 @@ return[
     "lip_filler_context_question5" => "5. What Is the Recovery Process Like?",
     "lip_filler_context_answer5" => "After the procedure, there may be mild swelling and redness in the lips. The initial few days may require careful care, but generally, you can return to your daily life quickly.
                 <br><br>
-                Discover a personalized solution for natural and stunning lips with lip coloring at S Art Beauty Center.",
+                Discover a personalized solution for natural and stunning lips with lip coloring at Nur Art Academy.",
     "lip_filler_slide1_title" => "Natural Colors",
     "lip_filler_slide1_cont" => "Achieve a natural look on your lips.",
     "lip_filler_slide2_title" => "Accentuate Your Lips",
@@ -498,8 +498,8 @@ return[
     "lip_filler_subtitle1_cont" => "Lip coloring is a beauty procedure that enhances the natural lip color and defines your lip lines. It helps rejuvenate faded or pale lip colors while giving you fuller and more youthful-looking lips.",
 
     // bridal_hair
-    "bridal_hair_description" => "Achieve a captivating look with a bridal updo on your most special day. Crown your wedding with specially crafted bridal updo designs at S Art Beauty Center.",
-    "bridal_hair_title" => "Impressive Bridal Updo Models for Your Most Special Day - S Art Beauty Center",
+    "bridal_hair_description" => "Achieve a captivating look with a bridal updo on your most special day. Crown your wedding with specially crafted bridal updo designs at Nur Art Academy.",
+    "bridal_hair_title" => "Impressive Bridal Updo Models for Your Most Special Day - Nur Art Academy",
     "bridal_hair_main_header" => "Bridal Updo",
     "bridal_hair_context_title" => "Bridal Updo",
     "bridal_hair_context_content" => "Another detail as important as the wedding dress is the choice of hairstyle for the wedding day. The bridal updo is a hairstyle that contributes to the elegant appearance of brides, offering both classic and modern design options.",
@@ -514,7 +514,7 @@ return[
     "bridal_hair_context_question5" => "5. What Hair Length and Type Are Suitable for a Bridal Updo?",
     "bridal_hair_context_answer5" => "A bridal updo can be adapted to different hair types. It's ideal for medium to long hair. However, for short hair, a bridal updo can be created using hair extensions.
         		<br><br>
-        		Achieve a captivating look with a bridal updo on your most special day. Crown your wedding with specially crafted bridal updo designs at S Art Beauty Center.",
+        		Achieve a captivating look with a bridal updo on your most special day. Crown your wedding with specially crafted bridal updo designs at Nur Art Academy.",
     "bridal_hair_slide3_title" => "Complete Your Style",
     "bridal_hair_slide3_cont" => "Choose the one that suits your style from the most beloved updos of the season.",
     "bridal_hair_slide4_title" => "Special Updo Styles",
@@ -527,8 +527,8 @@ return[
 
 
     // silk_eyelash
-    "silk_eyelash_description" => "Contact the expert beauty professionals at S Art Beauty Center to have glamorous looks with silk eyelash application.",
-    "silk_eyelash_title" => "Silk Eyelash Application for Glamorous Looks - S Art Beauty Center",
+    "silk_eyelash_description" => "Contact the expert beauty professionals at Nur Art Academy to have glamorous looks with silk eyelash application.",
+    "silk_eyelash_title" => "Silk Eyelash Application for Glamorous Looks - Nur Art Academy",
     "silk_eyelash_main_header" => "Silk Lash Applications",
     "silk_eyelash_context_title" => "Silk Lash Application",
     "silk_eyelash_context_content" => "Silk eyelash application enhances the length and thickness of eyelashes, giving the eyes a more aesthetic appearance.",
@@ -552,8 +552,8 @@ return[
     "silk_eyelash_subtitle2_1_cont" => "Silk Eyelashes extensions are a popular cosmetic procedure for lengthening and adding volume to natural eyelashes by attaching synthetic fibers with a special adhesive. The procedure can be performed by a cosmetologist, makeup artist, or a lashmaker.",
 
     // eyebrow_lamination
-    "eyebrow_lamination_description" => "Make an appointment with expert beauty professionals at S Art Beauty Center to have natural and defined eyebrows with eyebrow lamination.",
-    "eyebrow_lamination_title" => "Eyebrow Lamination for Natural and Defined Eyebrows - S Art Beauty Center",
+    "eyebrow_lamination_description" => "Make an appointment with expert beauty professionals at Nur Art Academy to have natural and defined eyebrows with eyebrow lamination.",
+    "eyebrow_lamination_title" => "Eyebrow Lamination for Natural and Defined Eyebrows - Nur Art Academy",
     "eyebrow_lamination_main_header" => "Eyebrow Lamination",
     "eyebrow_lamination_context_title" => "Eyebrow Lamination",
     "eyebrow_lamination_context_content" => "Eyebrow lamination provides a new shape and volume to the eyebrows, creating an impressive look.",
@@ -580,8 +580,8 @@ return[
     "eyebrow_lamination_subtitle2_3_cont" => "Eyebrow lamination is carried out by our experts. First, shaping is done to suit the natural structure of your eyebrows, and then they are properly fixed using special products.",
 
     // perminant_nail_polish
-    "perminant_nail_polish_description" => "Give your nails long-lasting color and elegance with permanent nail polish at S Art Beauty Center. Highlight your nails with trendy colors and professional application.",
-    "perminant_nail_polish_title" => "Add Color and Elegance to Your Nails with Permanent Nail Polish Application - S Art Beauty Center",
+    "perminant_nail_polish_description" => "Give your nails long-lasting color and elegance with permanent nail polish at Nur Art Academy. Highlight your nails with trendy colors and professional application.",
+    "perminant_nail_polish_title" => "Add Color and Elegance to Your Nails with Permanent Nail Polish Application - Nur Art Academy",
     "perminant_nail_polish_main_header" => "Permanent Nail Polish",
     "perminant_nail_polish_context_title" => "Permanent Nail Polish",
     "perminant_nail_polish_context_content" => "Permanent nail polish application is ideal for those with a busy work schedule and no time for applying nail polish or getting regular manicures.",
@@ -596,7 +596,7 @@ return[
     "perminant_nail_polish_context_question5" => "5. Who Can Get Permanent Nail Polish?",
     "perminant_nail_polish_context_answer5" => "Generally, anyone can get permanent nail polish. However, it is recommended to seek expert consultation for those with nail diseases or allergies.",
     "perminant_nail_polish_slide1_title" => "Highlight Your Nails!",
-    "perminant_nail_polish_slide1_cont" => "Choose your desired colors and patterns for your nails at S Art Beauty Center.",
+    "perminant_nail_polish_slide1_cont" => "Choose your desired colors and patterns for your nails at Nur Art Academy.",
     "perminant_nail_polish_slide2_title" => "Trendy Colors",
     "perminant_nail_polish_slide2_cont" => "Achieve a sleek, smooth, and shiny appearance.",
     "perminant_nail_polish_slide3_title" => "Long-Lasting Effect on Nails",
@@ -606,8 +606,8 @@ return[
     "perminant_nail_polish_subtitle2_1_cont" => "Permanent nail polish is a specially formulated type of nail polish that cures under UV light. This allows you to achieve long-lasting color and shine on your nails. Permanent nail polish stays on your nails for an extended period without chipping, peeling, or fading.",
 
     // keratin_care
-    "keratin_care_description" => "Achieve shiny, healthy, and strong hair with the nourishing care of the keratin treatment, providing your hair with the care it needs. Discover the effect of keratin care at S Art Beauty Center.",
-    "keratin_care_title" => "Revitalize Your Hair: Renew Your Hair with Keratin Care - S Art Beauty Center",
+    "keratin_care_description" => "Achieve shiny, healthy, and strong hair with the nourishing care of the keratin treatment, providing your hair with the care it needs. Discover the effect of keratin care at Nur Art Academy.",
+    "keratin_care_title" => "Revitalize Your Hair: Renew Your Hair with Keratin Care - Nur Art Academy",
     "keratin_care_main_header" => "Keratin Care",
     "keratin_care_context_title" => "Cold Spa Keratin Treatment",
     "keratin_care_context_content" => "Keratin treatment is one of the most effective methods for hair to shine with health and maintain its strength. Try the keratin process to give your hair the flexibility and shine it needs.",
@@ -628,7 +628,7 @@ return[
     "keratin_care_slide3_title" => "Keratin Support",
     "keratin_care_slide3_cont" => "Prevents static and frizz, helps with hair growth.",
     "keratin_care_subtitle1" => "The Secret to Strong Hair: Rediscover Your Hair with Keratin Care!",
-    "keratin_care_subtitle1_cont" => "Visit S Art Beauty Center to nourish your hair in the best way possible.",
+    "keratin_care_subtitle1_cont" => "Visit Nur Art Academy to nourish your hair in the best way possible.",
     "keratin_care_subtitle2" => "Revitalize Your Hair: Renew Your Hair with Keratin Care",
     "keratin_care_subtitle2_1" => "What is Cold Spa Keratin Treatment?",
     "keratin_care_subtitle2_1_cont" => "Keratin treatment is a hair care method that harnesses the power of keratin protein to improve hair health.",
@@ -636,8 +636,8 @@ return[
     "keratin_care_subtitle2_3_cont" => " Keratin treatment is performed by our experts. Suitable products for your hair type are determined and applied to the hair strands for processing.",
 
     // eyelash_lifting
-    "eyelash_lifting_description" => "Achieve natural and striking looks with eyelash lifting. Lift your lashes with the touch of experts at S Art Beauty Center and get an eye-catching appearance.",
-    "eyelash_lifting_title" => "Highlight Your Natural Beauty with Eyelash Lifting for Striking Looks - S Art Beauty Center",
+    "eyelash_lifting_description" => "Achieve natural and striking looks with eyelash lifting. Lift your lashes with the touch of experts at Nur Art Academy and get an eye-catching appearance.",
+    "eyelash_lifting_title" => "Highlight Your Natural Beauty with Eyelash Lifting for Striking Looks - Nur Art Academy",
     "eyelash_lifting_main_header" => "Eyelash Lifting",
     "eyelash_lifting_context_title" => "Eyelash Lifting",
     "eyelash_lifting_context_content" => "Eyelash lifting is a preferred choice for those who want to achieve voluminous and full eyelashes.",
@@ -664,8 +664,8 @@ return[
     "eyelash_lifting_subtitle2_2_cont" => "Eyelash lifting is performed by our beauty experts. Eyelash lifting is done by placing pads under the eyes and sterile silicone shields. Nourishing vitamins and tinting are applied to enhance the curl of the eyelashes.",
 
     // mani_pedi
-    "mani_pedi_description" => "Take care of the beauty and care of your hands and feet. At S Art Beauty Center, achieve freshness and elegance with professional manicure and pedicure services.",
-    "mani_pedi_title" => "Elegance and Care for Your Hands and Feet: Manicure and Pedicure - S Art Beauty Center",
+    "mani_pedi_description" => "Take care of the beauty and care of your hands and feet. At Nur Art Academy, achieve freshness and elegance with professional manicure and pedicure services.",
+    "mani_pedi_title" => "Elegance and Care for Your Hands and Feet: Manicure and Pedicure - Nur Art Academy",
     "mani_pedi_main_header" => "Manicure and Pedicure",
     "mani_pedi_context_title" => "Manicure and Pedicure",
     "mani_pedi_context_content" => "Manicure and pedicure are important for maintaining nail health and achieving well-groomed and beautiful nails.",
@@ -680,18 +680,18 @@ return[
     "mani_pedi_context_question5" => "5. When Is It Recommended?",
     "mani_pedi_context_answer5" => "Manicure and pedicure are ideal for regular maintenance and special occasions. They are also suitable for addressing issues such as nail breakage, cracking, or dry skin.",
     "mani_pedi_slide1_title" => "Radiance of Your Hands and Feet: Pamper Yourself with Manicure and Pedicure!",
-    "mani_pedi_slide1_cont" => "Achieve freshness and elegance for your hands and feet with professional manicure and pedicure at S Art Beauty Center.",
+    "mani_pedi_slide1_cont" => "Achieve freshness and elegance for your hands and feet with professional manicure and pedicure at Nur Art Academy.",
     "mani_pedi_slide2_title" => "Well-Groomed Hands and Feet: Highlight Your Natural Beauty with Manicure and Pedicure!",
     "mani_pedi_slide2_cont" => "You're in the right place for the beauty and care of your hands and feet. Emphasize your natural beauty with manicure and pedicure.",
     "mani_pedi_slide3_title" => "Elegance from Fingertips to Toes: Professional Manicure and Pedicure Services!",
-    "mani_pedi_slide3_cont" => "Achieve elegance by providing special care for your nails and skin at S Art Beauty Center.",
+    "mani_pedi_slide3_cont" => "Achieve elegance by providing special care for your nails and skin at Nur Art Academy.",
     "mani_pedi_subtitle2" => "Manicure and Pedicure: Hand and Foot Care",
     "mani_pedi_subtitle2_1" => "What Is Manicure and Pedicure?",
     "mani_pedi_subtitle2_1_cont" => "Manicure involves a series of procedures such as softening the skin, shaping, polishing, applying nail polish, pushing back cuticles, removing dead skin from the nail bed, filing nails, and hand massage. In pedicure, the same procedures are applied to the feet and toenails as in manicure treatment.",
 
     // microblading
-    "microblading_description" => "Discover the Microblading procedure to design your eyebrows in the most natural and impressive way. Reshape your eyebrows with experts at S Art Beauty Center.",
-    "microblading_title" => "Meet Microblading for Natural and Impressive Eyebrows - S Art Beauty Center",
+    "microblading_description" => "Discover the Microblading procedure to design your eyebrows in the most natural and impressive way. Reshape your eyebrows with experts at Nur Art Academy.",
+    "microblading_title" => "Meet Microblading for Natural and Impressive Eyebrows - Nur Art Academy",
     "microblading_main_header" => "Microblading",
     "microblading_context_title" => "Microblading",
     "microblading_context_content" => "If you're tired of your eyebrow care routine, you can save yourself the trouble and enhance your eyebrows with microblading.",
@@ -716,8 +716,8 @@ return[
     "microblading_subtitle2_1_cont" => "Microblading is a process where eyebrow hairs are manually drawn with a semi-permanent pigment using a special hand tool. This method gives the eyebrows a fuller and more natural appearance.",
 
     // nail_art
-    "nail_art_description" => "Bring your nails into the colorful and creative world. At S Art Beauty Center, give your nails a unique and eye-catching look with nail art.",
-    "nail_art_title" => "Transform Your Nails into Art: Nail Art for a Unique Look - S Art Beauty Center",
+    "nail_art_description" => "Bring your nails into the colorful and creative world. At Nur Art Academy, give your nails a unique and eye-catching look with nail art.",
+    "nail_art_title" => "Transform Your Nails into Art: Nail Art for a Unique Look - Nur Art Academy",
     "nail_art_main_header" => "Nail Art ",
     "nail_art_context_title" => "Nail Art ",
     "nail_art_context_content" => "Add various colors and patterns to your nails to create a different look.",
@@ -744,8 +744,8 @@ return[
     "nail_art_subtitle2_3_cont" => "In Nail Art Application, high-pigment polishes applied by our experts and special fine-tipped brushes are used to ensure precision and perfection in designs.",
 
     // perm
-    "perm_description" => "Discover the perming application at S Art Beauty Center to add movement and volume to your hair. It's time to have naturally wavy hair.",
-    "perm_title" => "Voluminous and Wavy Hair Look: Meet Perming - S Art Beauty Center",
+    "perm_description" => "Discover the perming application at Nur Art Academy to add movement and volume to your hair. It's time to have naturally wavy hair.",
+    "perm_title" => "Voluminous and Wavy Hair Look: Meet Perming - Nur Art Academy",
     "perm_main_header" => "Perming",
     "perm_context_title" => "Perming",
     "perm_context_content" => "Don't you want to have voluminous, wavy, and natural-looking hair? Add vitality to your hair with a perm.",
@@ -772,8 +772,8 @@ return[
     "perm_subtitle2_2_cont" => "The Perm process is carried out by our experts. Perm application involves applying a special perm solution to the hair. After the solution is applied, the hair is wrapped, and the shaping process begins.",
 
     // prosthetic_nail
-    "prosthetic_nail_description" => "At S Art Beauty Center, we offer aesthetic and durability for your nails with prosthetic nails, allowing you to choose the desired length, shape, and color.",
-    "prosthetic_nail_title" => "Combining Aesthetics and Durability: Embrace Elegance with Prosthetic Nails - S Art Beauty Center",
+    "prosthetic_nail_description" => "At Nur Art Academy, we offer aesthetic and durability for your nails with prosthetic nails, allowing you to choose the desired length, shape, and color.",
+    "prosthetic_nail_title" => "Combining Aesthetics and Durability: Embrace Elegance with Prosthetic Nails - Nur Art Academy",
     "prosthetic_nail_slogan" => "Custom Aesthetics for Your Nails: Embrace Elegance with Prosthetic Nails!",
     "prosthetic_nail_context_title" => "Prosthetic Nails",
     "prosthetic_nail_context_content" => "Discover artificial nails that strengthen your nails and provide an aesthetic appearance.",
@@ -799,8 +799,8 @@ return[
     "prosthetic_nail_subtitle2_1" => "Artificial nails are created by our experts using gel materials.",
 
     // highlighted
-    "highlighted_description" => "At S Art Beauty Center, we add a dynamic and natural play of colors to your hair with highlights. Bring radiance and movement to your hair.",
-    "highlighted_title" => "Bring Light to Your Hair: Achieve a Natural and Dynamic Look with Highlights - S Art Beauty Center",
+    "highlighted_description" => "At Nur Art Academy, we add a dynamic and natural play of colors to your hair with highlights. Bring radiance and movement to your hair.",
+    "highlighted_title" => "Bring Light to Your Hair: Achieve a Natural and Dynamic Look with Highlights - Nur Art Academy",
     "highlighted_slogan" => "Bring Light to Your Hair: Achieve a Natural and Dynamic Look with Highlights!",
     "highlighted_main_header" => "Highlights",
     "highlighted_context_title" => "Highlights",
@@ -818,7 +818,7 @@ return[
     "highlighted_slide1_title" => "Variety of Colors",
     "highlighted_slide1_cont" => "Highlights add depth to your hair and offer a range of color options that suit your style.",
     "highlighted_slide2_title" => "Add Depth to Your Hair",
-    "highlighted_slide2_cont" => "At S Art Beauty Center, add volume to your hair to make it look fuller and livelier.",
+    "highlighted_slide2_cont" => "At Nur Art Academy, add volume to your hair to make it look fuller and livelier.",
     "highlighted_slide3_title" => "Easy Hair Care",
     "highlighted_slide3_cont" => "Thanks to the natural transitions of highlights, your hair continues to look well-maintained even as the roots become more pronounced.",
     "highlighted_subtitle1" => "What Are Highlights?",
@@ -827,7 +827,7 @@ return[
     "highlighted_subtitle2_cont" => "During the Highlight procedure performed by our experts, the tone of the highlights to be created on the hair is determined first. Depending on your preference, this tone can create natural or sharp transitions.",
 
     // hair_dye
-    "hair_dye_description" => "At S Art Beauty Center, we bring the colors you imagine to your hair with hair dye. We invite you to express yourself and experience a colorful transformation.",
+    "hair_dye_description" => "At Nur Art Academy, we bring the colors you imagine to your hair with hair dye. We invite you to express yourself and experience a colorful transformation.",
     "hair_dye_title" => "Illuminate Your Colorful World: Rediscover Yourself with Hair Dye",
     "hair_dye_slogan" => "Reflect Your Style",
     "hair_dye_main_header" => "Hair Dye",
@@ -838,24 +838,24 @@ return[
     "hair_dye_question2" => "2. Is Hair Dye Harmful?",
     "hair_dye_answer2" => "When applied by experts using the right products and techniques, hair dye is not harmful. Hair health should be taken into account.",
     "hair_dye_question3" => "3. How to Choose a Color Suitable for My Natural Hair Color?",
-    "hair_dye_answer3" => "S Art Beauty Center experts will assist you in determining color options that match your natural hair color.",
+    "hair_dye_answer3" => "Nur Art Academy experts will assist you in determining color options that match your natural hair color.",
     "hair_dye_question4" => "4. Which Colors Last Longer?",
     "hair_dye_answer4" => "Darker colors generally last longer, while lighter colors may require more frequent touch-ups.",
     "hair_dye_question5" => "5. Is Home Hair Dye Application Safe?",
     "hair_dye_answer5" => "Our experts recommend that hair dye application is safer and more likely to achieve the desired results when done by professionals.",
     "hair_dye_slide1_title" => "Natural Shades",
-    "hair_dye_slide1_cont" => "S Art Beauty Center provides a refreshed look with natural shades that will add vibrancy to your hair.",
+    "hair_dye_slide1_cont" => "Nur Art Academy provides a refreshed look with natural shades that will add vibrancy to your hair.",
     "hair_dye_slide2_title" => "Emphasize Your Beauty",
     "hair_dye_slide2_cont" => "Achieve an easy-to-maintain and elegant style; highlight your beauty.",
     "hair_dye_slide3_title" => "Reflect Your Style",
-    "hair_dye_slide3_cont" => "Come to S.Art Beauty Center to achieve the hair color of your dreams.",
+    "hair_dye_slide3_cont" => "Come to S.Art Nur Art Academy to achieve the hair color of your dreams.",
     "hair_dye_subtitle1" => "What Is Hair Dye?",
     "hair_dye_subtitle1_cont" => "Hair dye is a chemical product used to change or enhance the color of hair. It offers a wide range of colors to create different styles",
 
 
     // hair_dip_dye
-    "hair_dip_dye_description" => "Refresh your roots and add vitality to your hair with hair dip dye at S Art Beauty Center. We invite you to achieve a new look.",
-    "hair_dip_dye_title" => "Revitalize with Hair Dip Dye - S Art Beauty Center",
+    "hair_dip_dye_description" => "Refresh your roots and add vitality to your hair with hair dip dye at Nur Art Academy. We invite you to achieve a new look.",
+    "hair_dip_dye_title" => "Revitalize with Hair Dip Dye - Nur Art Academy",
     "hair_dip_dye_slogan" => "More Well-Groomed Hair",
     "hair_dip_dye_main_header" => "Hair Dip Dye",
     "hair_dip_dye_context_title" => "Hair Dip Dye",
@@ -881,12 +881,12 @@ return[
         The coloring process applied to the roots of the hair is called hair dip dye. Our experts apply the hair dye prepared by them to completely cover the natural color. After the ideal waiting time, the hair is washed, and if necessary, a gloss application can be done.",
 
     // hair_cut
-    "hair_cut_description" => "Show your style with a professional hair cut at S Art Beauty Center. Step into your dream look with our experts.",
+    "hair_cut_description" => "Show your style with a professional hair cut at Nur Art Academy. Step into your dream look with our experts.",
     "hair_cut_title" => "Reshape Your Style: Reflect Yourself with a Professional Hair Cut",
     "hair_cut_slogan" => "Reflect Your Style with Your Haircut",
     "hair_cut_main_header" => "Hair Cut",
     "hair_cut_context_title" => "Hair Cut",
-    "hair_cut_context_content" => "The shape and length of your hair reflect your style. At S Art Beauty Center, you can achieve the hair you desire.",
+    "hair_cut_context_content" => "The shape and length of your hair reflect your style. At Nur Art Academy, you can achieve the hair you desire.",
     "hair_cut_question1" => "1. Which Hair Cut Style Is Suitable for Me?",
     "hair_cut_answer1" => "Our experts will guide you to determine the hair cut style that suits your hair type, facial features, and style.",
     "hair_cut_question2" => "2. How Often Should I Get a Hair Cut?",
@@ -902,17 +902,17 @@ return[
     "hair_cut_slide2_title" => "Healthy Hair",
     "hair_cut_slide2_cont" => "Get rid of split ends and promote healthier hair growth.",
     "hair_cut_slide3_title" => "Feel Renewed",
-    "hair_cut_slide3_cont" => "Refresh your look with a professional haircut at S Art Beauty Center.",
+    "hair_cut_slide3_cont" => "Refresh your look with a professional haircut at Nur Art Academy.",
     "hair_cut_subtitle1" => "Different Haircuts",
-    "hair_cut_subtitle1_cont" => "At S Art Beauty Center, you can choose from different hair cutting styles, including straight cuts, layered cuts, short hair, and long hair. Our experts will recommend the most suitable haircut for you, taking into consideration your hair type and facial features.",
+    "hair_cut_subtitle1_cont" => "At Nur Art Academy, you can choose from different hair cutting styles, including straight cuts, layered cuts, short hair, and long hair. Our experts will recommend the most suitable haircut for you, taking into consideration your hair type and facial features.",
 
     // hair_extension
-    "hair_extension_description" => "Achieve the length and volume you dream of with hair extensions at S Art Beauty Center. Reshape your hair with our experts.",
+    "hair_extension_description" => "Achieve the length and volume you dream of with hair extensions at Nur Art Academy. Reshape your hair with our experts.",
     "hair_extension_title" => "Renewal with Hair Extensions: Longer Hair",
     "hair_extension_slogan" => "Add Volume to Your Hair: Express Yourself with Professional Hair Extensions!",
     "hair_extension_main_header" => "Hair Extension Application",
     "hair_extension_context_title" => "Hair Extension Application",
-    "hair_extension_context_content" => "The volume and length of your hair are significant factors that define your style. You can add a new dimension to your hair with hair extension services at S Art Beauty Center.",
+    "hair_extension_context_content" => "The volume and length of your hair are significant factors that define your style. You can add a new dimension to your hair with hair extension services at Nur Art Academy.",
     "hair_extension_context_question1" => "1. Which Hair Extension Method Is Most Suitable?",
     "hair_extension_context_answer1" => "Our experts will recommend the most suitable hair extension method for you based on your hair type, desired length, and hair structure.",
     "hair_extension_context_question2" => "2. How Long Does Hair Extension Last?",
@@ -924,7 +924,7 @@ return[
     "hair_extension_context_question5" => "5. Are Hair Extensions Harmful?",
     "hair_extension_context_answer5" => "Hair extensions, when applied by our experts using the correct methods, do not damage your hair. You can safely get hair extensions by leaving it to professional hands.",
     "hair_extension_slide1_title" => "Long and Voluminous Hair",
-    "hair_extension_slide1_cont" => "At S Art Beauty Center, you can make your hair longer and more voluminous.",
+    "hair_extension_slide1_cont" => "At Nur Art Academy, you can make your hair longer and more voluminous.",
     "hair_extension_slide2_title" => "Equalize Your Hair Length",
     "hair_extension_slide2_cont" => "Even out the differences in your hair length.",
     "hair_extension_slide3_title" => "Colorful and Vibrant Hair",
@@ -933,12 +933,12 @@ return[
     "hair_extension_subtitle1_cont" => "You can choose from different hair extension methods such as keratin fusion, micro ring, tape-in, and more to find the one that suits you. Hair extension application is carried out by our expert team. High-quality keratin bonds, carefully selected for each hair strand, are used in the process. These bonds seamlessly blend with your hair, providing a natural look.",
 
     // solarium
-    "solarium_description" => "Enjoy the radiance of a sun-kissed glow on your skin with safe and effective solarium services at S Art Beauty Center. Feel the warmth of the sun on your skin with our experts.",
+    "solarium_description" => "Enjoy the radiance of a sun-kissed glow on your skin with safe and effective solarium services at Nur Art Academy. Feel the warmth of the sun on your skin with our experts.",
     "solarium_title" => "Feel the Sunshine on Your Skin: Professional Solarium Services",
-    "solarium_slogan" => "Safe Tanning with S Art Beauty",
+    "solarium_slogan" => "Safe Tanning with Nur Art Academy",
     "solarium_main_header" => "Solarium",
     "solarium_context_title" => "Solarium",
-    "solarium_context_content" => "The warm rays of the sun represent the glow of a tan on our skin. At S Art Beauty Center, we are at your service with healthy and safe solarium services to capture this radiance on your skin.",
+    "solarium_context_content" => "The warm rays of the sun represent the glow of a tan on our skin. At Nur Art Academy, we are at your service with healthy and safe solarium services to capture this radiance on your skin.",
     "solarium_context_question1" => "1. How Does Solarium Affect the Skin?",
     "solarium_context_answer1" => "Solarium emits ultraviolet rays similar to sunlight to encourage tanning of the skin. However, excessive use can harm the skin.",
     "solarium_context_question2" => "2. How Many Sessions of Solarium Should Be Applied?",
@@ -952,13 +952,13 @@ return[
     "solarium_slide1_title" => "Natural Skin Tone",
     "solarium_slide1_cont" => "Provides an even and natural bronzed look to the entire body.",
     "solarium_slide2_title" => "Healthy Tan",
-    "solarium_slide2_cont" => "S Art Beauty Center offers a quality and safe tanning experience without harming your skin.",
+    "solarium_slide2_cont" => "Nur Art Academy offers a quality and safe tanning experience without harming your skin.",
     "solarium_slide3_title" => "New Solarium Lamps",
     "solarium_slide3_cont" => "They help you achieve your desired look quickly.",
     "solarium_subtitle1" => "What is Solarium?",
     "solarium_subtitle1_cont" => "Tanning, one of the easiest and fastest ways to get a tan, refers to the process of entering a machine filled with ultraviolet rays to darken the skin tone",
     "solarium_subtitle2" => "Our Experts' Professional Experience",
-    "solarium_subtitle2_cont" => "At S Art Beauty Center, we use a solarium equipped with new lamps that help you achieve a healthy tan without harming your skin",
+    "solarium_subtitle2_cont" => "At Nur Art Academy, we use a solarium equipped with new lamps that help you achieve a healthy tan without harming your skin",
 
     // wax
     "wax_description" => "Enjoy permanent smoothness with waxing. Discover our professional waxing service and explore your natural beauty.",
@@ -966,7 +966,7 @@ return[
     "wax_main_slogan" => "Waxing for Smooth Skin",
     "wax_main_header" => " Wax Application",
     "wax_context_title" => "Waxing",
-    "wax_context_content" => "Waxing is an effective method for both short-term and long-term hair removal, making your skin smooth and causing hair to grow back finer. You can benefit from our waxing services at S Art Beauty Center.",
+    "wax_context_content" => "Waxing is an effective method for both short-term and long-term hair removal, making your skin smooth and causing hair to grow back finer. You can benefit from our waxing services at Nur Art Academy.",
     "wax_context_question1" => "1. What is wax?",
     "wax_context_answer1" => "Wax is a completely natural and hypoallergenic type of wax. It removes hair from the root, nourishes the skin, and makes it smooth.",
     "wax_context_question2" => "2. How is it different from other waxing methods?",

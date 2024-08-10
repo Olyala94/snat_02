@@ -10,13 +10,13 @@ return [
 
     /**** contact_us ****/
     "contact_us_description" => "Ваши вопросы, запросы на запись и отзывы всегда приветствуются. Мы с удовольствием вам поможем в кратчайшие сроки.",
-    "contact_us_title" => "Свяжитесь с нами - Студия Керамики для детей и для взрослых",
+    "contact_us_title" => "Свяжитесь с нами - Nur Art Academy",
     "contact_us_section1_title" => "Контактная информация",
     "contact_us_section1_cont" => "Не стесняйтесь связаться с нами для задания вопросов, записи на услуги или отправки обратной связи. Мы всегда готовы помочь вам как можно скорее.",
     "contact_us_section1_subtitle1" => "Адрес",
-    "contact_us_section1_subtitle1_cont" => "Культурный Центр Нефтегазового комплекса",
+    "contact_us_section1_subtitle1_cont" => "Аджыбадем, ул. Лисе Йолу, д. 9 / Б, 34718 Кадыкёй / Стамбул",
     "contact_us_section1_subtitle2" => "Электронная почта",
-    "contact_us_section1_subtitle2_cont" => "studioceramiktm@gmail.com",
+    "contact_us_section1_subtitle2_cont" => "nurartacademy@gmail.com",
     "contact_us_section1_subtitle3" => "Телефон",
     "contact_us_section1_subtitle3_cont" => "+993 61 21 27 83",
     "contact_us_section2_title" => "Напишите нам",
@@ -26,7 +26,7 @@ return [
     "contact_us_section2_subtitle4" => "Отправить",
 
     /*** header subtitle ***/
-    "contact_us_section2_subtitle5" => "Студия Керамики для детей и для взрослых Главная",
+    "contact_us_section2_subtitle5" => "Nur Art Academy Главная",
 
     /*** header subtitle ***/
     "lazer-epilasyon" => "Лазерная эпиляция",

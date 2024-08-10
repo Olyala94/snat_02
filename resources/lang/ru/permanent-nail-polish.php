@@ -8,7 +8,7 @@ return [
     "language" => "язык",
 
     /*** header subtitle ***/
-    "contact_us_section2_subtitle5" => "S Art Beuty Center Главная",
+    "contact_us_section2_subtitle5" => "Nur Art Academy Главная",
 /*** header subtitle ***/
 "lazer-epilasyon" => "Лазерная эпиляция",
 "cellulite-massage" => "Массаж G5 (целлюлитный массаж)",
@@ -41,16 +41,16 @@ return [
     "follow_us_on_insta" => "Подписывайтесь на нас в Instagram",
 
     /** default keys **/
-    "sart" => "S ART Beauty Center",
-    "sart_official_center" => "Официальный сайт S Art Beauty Center",
-    "sart_official_center_home" => "Главная S Art Beauty Center",
-    "sart_official_center_about" => "О S Art Beauty Center",
-    "sart_official_center_contact" => "Контакты S Art Beauty Center",
-    "sart_official_center_lang_options" => "Опции языка S Art Beauty Center",
-    "sart_official_center_job_explanation" => "Что делает S Art Beauty Center?",
-    "sart_official_center_facebook" => "Страница S Art Beauty Center в Facebook",
-    "sart_official_center_whatsapp" => "Аккаунт S Art Beauty Center в WhatsApp",
-    "sart_official_center_instagram" => "Аккаунт S Art Beauty Center в Instagram",
+    "sart" => "Nur Art Academy",
+    "sart_official_center" => "Официальный сайт Nur Art Academy",
+    "sart_official_center_home" => "Главная Nur Art Academy",
+    "sart_official_center_about" => "О Nur Art Academy",
+    "sart_official_center_contact" => "Контакты Nur Art Academy",
+    "sart_official_center_lang_options" => "Опции языка Nur Art Academy",
+    "sart_official_center_job_explanation" => "Что делает Nur Art Academy?",
+    "sart_official_center_facebook" => "Страница Nur Art Academy в Facebook",
+    "sart_official_center_whatsapp" => "Аккаунт Nur Art Academy в WhatsApp",
+    "sart_official_center_instagram" => "Аккаунт Nur Art Academy в Instagram",
     "whatsapp_line" => "WhatsApp линия",
     "location" => "Адрес в навигации",
     "turkish" => "Турецкий",
@@ -61,8 +61,8 @@ return [
 
 
     // perminant_nail_polish
-    "perminant_nail_polish_description" => "Перманентный лак | S Art Beauty Center",
-    "perminant_nail_polish_title" => "Ногти выглядят элегантно с перманентным лаком в S Art Beauty Center! Откройте для себя наши приложения с широким выбором цветов.",
+    "perminant_nail_polish_description" => "Перманентный лак | Nur Art Academy",
+    "perminant_nail_polish_title" => "Ногти выглядят элегантно с перманентным лаком в Nur Art Academy! Откройте для себя наши приложения с широким выбором цветов.",
     "perminant_nail_polish_main_header" => "Покрытие Гель Лак",
     "perminant_nail_polish_context_title" => "Покрытие Гель Лак",
     "perminant_nail_polish_context_content" => "Применение Гель лак идеально подходит для людей с интенсивным рабочим графиком, у которых нет времени на нанесение обычного лака и посещение маникюра.",
@@ -77,7 +77,7 @@ return [
     "perminant_nail_polish_context_question5" => "5. Кто может воспользоваться постоянным лаком для ногтей?",
     "perminant_nail_polish_context_answer5" => "Обычно каждый может воспользоваться качественным гель-лаком. Однако при наличии заболеваний ногтей или аллергии на них рекомендуется получить консультацию у специалиста.",
     "perminant_nail_polish_slide1_title" => "Выделите Ваши Ногти!",
-    "perminant_nail_polish_slide1_cont" => "В S Art Beauty Center выберите желаемые цвета и узоры для ваших ногтей.",
+    "perminant_nail_polish_slide1_cont" => "В Nur Art Academy выберите желаемые цвета и узоры для ваших ногтей.",
     "perminant_nail_polish_slide2_title" => "Модные Цвета!",
     "perminant_nail_polish_slide2_cont" => "Добейтесь гладкого, ровного и блестящего вида!",
     "perminant_nail_polish_slide3_title" => "Долговременный Эффект на Ногтях!",

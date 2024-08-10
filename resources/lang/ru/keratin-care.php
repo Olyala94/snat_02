@@ -8,7 +8,7 @@ return [
     "language" => "язык",
 
     /*** header subtitle ***/
-    "contact_us_section2_subtitle5" => "S Art Beuty Center Главная",
+    "contact_us_section2_subtitle5" => "Nur Art Academy Главная",
 
     /*** header subtitle ***/
     "lazer-epilasyon" => "Лазерная эпиляция",
@@ -42,16 +42,16 @@ return [
     "follow_us_on_insta" => "Подписывайтесь на нас в Instagram",
 
     /** default keys **/
-    "sart" => "S ART Beauty Center",
-    "sart_official_center" => "Официальный сайт S Art Beauty Center",
-    "sart_official_center_home" => "Главная S Art Beauty Center",
-    "sart_official_center_about" => "О S Art Beauty Center",
-    "sart_official_center_contact" => "Контакты S Art Beauty Center",
-    "sart_official_center_lang_options" => "Опции языка S Art Beauty Center",
-    "sart_official_center_job_explanation" => "Что делает S Art Beauty Center?",
-    "sart_official_center_facebook" => "Страница S Art Beauty Center в Facebook",
-    "sart_official_center_whatsapp" => "Аккаунт S Art Beauty Center в WhatsApp",
-    "sart_official_center_instagram" => "Аккаунт S Art Beauty Center в Instagram",
+    "sart" => "Nur Art Academy",
+    "sart_official_center" => "Официальный сайт Nur Art Academy",
+    "sart_official_center_home" => "Главная Nur Art Academy",
+    "sart_official_center_about" => "О Nur Art Academy",
+    "sart_official_center_contact" => "Контакты Nur Art Academy",
+    "sart_official_center_lang_options" => "Опции языка Nur Art Academy",
+    "sart_official_center_job_explanation" => "Что делает Nur Art Academy?",
+    "sart_official_center_facebook" => "Страница Nur Art Academy в Facebook",
+    "sart_official_center_whatsapp" => "Аккаунт Nur Art Academy в WhatsApp",
+    "sart_official_center_instagram" => "Аккаунт Nur Art Academy в Instagram",
     "whatsapp_line" => "WhatsApp линия",
     "location" => "Адрес в навигации",
     "turkish" => "Турецкий",
@@ -61,8 +61,8 @@ return [
     "ten_min" => "Время чтения",
 
     // keratin_care
-    "keratin_care_description" => "Кератиновое выпрямление | S Art Beauty Center",
-    "keratin_care_title" => "Особое прикосновение к вашим волосам: обеспечьте глубокий уход для ваших сухих и поврежденных волос с помощью кератинового лечения в S Art Beauty Center.",
+    "keratin_care_description" => "Кератиновое выпрямление | Nur Art Academy",
+    "keratin_care_title" => "Особое прикосновение к вашим волосам: обеспечьте глубокий уход для ваших сухих и поврежденных волос с помощью кератинового лечения в Nur Art Academy.",
     "keratin_care_main_header" => "Кератиновый Уход",
     "keratin_care_context_title" => "SPA Кератиновый уход",
     "keratin_care_context_content" => "SPA Кератиновый уход - один из самых эффективных методов для придания волосам здорового блеска и сохранения их силы. Попробуйте кератиновую процедуру, чтобы придать вашим волосам необходимую эластичность и блеск.",
@@ -83,7 +83,7 @@ return [
     "keratin_care_slide3_title" => "Поддержка Кератином",
     "keratin_care_slide3_cont" => "Предотвращает электризацию и пушение волос, способствует их росту.",
     "keratin_care_subtitle1" => "Секрет крепких волос: Откройте для себя восстановление волос с кератиновым уходом!",
-    "keratin_care_subtitle1_cont" => "Посетите S Art Beauty Center, чтобы наилучшим образом позаботиться о своих волосах.",
+    "keratin_care_subtitle1_cont" => "Посетите Nur Art Academy, чтобы наилучшим образом позаботиться о своих волосах.",
     "keratin_care_subtitle2" => "Привнесите жизнь в ваши волосы: Восстановление волос с помощью кератинового ухода",
     "keratin_care_subtitle2_1" => "Что такое SPA Кератиновый Уход?",
     "keratin_care_subtitle2_1_cont" => "Кератиновый уход - это вид ухода за волосами, который использует силу кератинового белка для улучшения здоровья волос.",

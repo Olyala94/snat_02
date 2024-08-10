@@ -8,7 +8,7 @@ return [
     "language" => "язык",
 
     /*** header subtitle ***/
-    "contact_us_section2_subtitle5" => "S Art Beuty Center Главная",
+    "contact_us_section2_subtitle5" => "Nur Art Academy Главная",
 
     /*** header subtitle ***/
     "lazer-epilasyon" => "Лазерная эпиляция",
@@ -42,16 +42,16 @@ return [
     "follow_us_on_insta" => "Подписывайтесь на нас в Instagram",
 
     /** default keys **/
-    "sart" => "S ART Beauty Center",
-    "sart_official_center" => "Официальный сайт S Art Beauty Center",
-    "sart_official_center_home" => "Главная S Art Beauty Center",
-    "sart_official_center_about" => "О S Art Beauty Center",
-    "sart_official_center_contact" => "Контакты S Art Beauty Center",
-    "sart_official_center_lang_options" => "Опции языка S Art Beauty Center",
-    "sart_official_center_job_explanation" => "Что делает S Art Beauty Center?",
-    "sart_official_center_facebook" => "Страница S Art Beauty Center в Facebook",
-    "sart_official_center_whatsapp" => "Аккаунт S Art Beauty Center в WhatsApp",
-    "sart_official_center_instagram" => "Аккаунт S Art Beauty Center в Instagram",
+    "sart" => "Nur Art Academy",
+    "sart_official_center" => "Официальный сайт Nur Art Academy",
+    "sart_official_center_home" => "Главная Nur Art Academy",
+    "sart_official_center_about" => "О Nur Art Academy",
+    "sart_official_center_contact" => "Контакты Nur Art Academy",
+    "sart_official_center_lang_options" => "Опции языка Nur Art Academy",
+    "sart_official_center_job_explanation" => "Что делает Nur Art Academy?",
+    "sart_official_center_facebook" => "Страница Nur Art Academy в Facebook",
+    "sart_official_center_whatsapp" => "Аккаунт Nur Art Academy в WhatsApp",
+    "sart_official_center_instagram" => "Аккаунт Nur Art Academy в Instagram",
     "whatsapp_line" => "WhatsApp линия",
     "location" => "Адрес в навигации",
     "turkish" => "Турецкий",
@@ -64,7 +64,7 @@ return [
 
     // selülit-masajı
     "selülit_description" => "Испытайте региональное похудение и укрепление кожи с помощью самого эффективного массажа G5 против целлюлита в [Название Вашей Клиники]. Избавьтесь от целлюлита с нашим безболезненным и эффективным лечением и добейтесь более упругой кожи. Запишитесь на прием уже сегодня!",
-    "selülit_title" => "Массаж G5 (целлюлитный массаж)- Терапия похудения и укрепления в S Art Beauty Center",
+    "selülit_title" => "Массаж G5 (целлюлитный массаж)- Терапия похудения и укрепления в Nur Art Academy",
     "selülit_main_header" => "Массаж G5 (целлюлитный массаж)",
     "selülit_context_title" => "Массаж G5 (целлюлитный массаж)",
     "selülit_context_content" => "Является идеальным способом борьбы с целлюлитом на всех стадиях его проявления.",

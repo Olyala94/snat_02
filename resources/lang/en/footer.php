@@ -1,12 +1,12 @@
 <?php
 return [
     /**  footer  **/
-    "sart" => "S ART Beauty Center",
+    "sart" => "Nur Art Academy",
     "user_policies" => "Our User Policies",
     "user_policies_subtitle6" => "Contact",
 
     /** default keys **/
-    "sart_official_center_contact" => "S Art Beauty Center Contact Page",
-    "sart_official_center_whatsapp" => "S Art Beauty Center Whatsapp Account",
-    "sart_official_center_instagram" => "S Art Beauty Center Instagram Account",
+    "sart_official_center_contact" => "Nur Art Academy Contact Page",
+    "sart_official_center_whatsapp" => "Nur Art Academy Whatsapp Account",
+    "sart_official_center_instagram" => "Nur Art Academy Instagram Account",
 ];

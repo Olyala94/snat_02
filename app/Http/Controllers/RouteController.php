@@ -47,15 +47,25 @@ class RouteController extends Controller
         'bridal-hair',
     ];
 
+    public $educationSlugs = [
+        'our-courses',
+        'silk-eyelash-academy',
+        'prosthetic-nails-academy',
+        'hair-extension-academy',
+        'beauty-master-academy',
+        'permanent-makeup-academy',
+    ];
+
     public function index($lang, $route = null)
     {
-        $route = $route ?? '/'; ///Bu satır: $route değişkenine değer atanmış mı diye kontrol eder. Eğer atanmışsa o değeri kullanır, atanmış değilse / değerini atar. Bu, $route değişkeninin null olup olmadığını kontrol etmek için kullanılır.
+        $route = $route ?? '/';
+
         if (in_array($lang, config('app.langs'))) {
             App::setLocale($lang);
+            // dd($lang);
         } else {
             App::setLocale(config('app.fallback_locale'));
         }
-
 
         $route = Routes::where('slug', $route)
             ->where('lang', $lang)
@@ -72,7 +82,8 @@ class RouteController extends Controller
                 }
             );
 
-            return view('pages.default', ['route' => $route, 'page' => $page, 'serviceSlugs' => $this->serviceSlugs, 'snippets' => $this->snippets]);
+            // return view('pages.default', ['route' => $route, 'page' => $page, 'serviceSlugs' => $this->serviceSlugs, 'snippets' => $this->snippets]);
+            return view('pages.default', ['route' => $route, 'page' => $page, 'educationSlugs' => $this->educationSlugs, 'snippets' => $this->snippets]);
         } else {
             return view('pages.404');
         }

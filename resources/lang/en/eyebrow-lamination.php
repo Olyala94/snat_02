@@ -7,7 +7,7 @@ return [
     "contact_us" => "Contact Us",
     "language" => "Language",
 
-    "contact_us_section2_subtitle5" => "S Art Beuty Center Home",
+    "contact_us_section2_subtitle5" => "Nur Art Academy Home",
 
     /*** header subtitle ***/
     "mani_pedi" => "Manicure and Pedicure",
@@ -41,16 +41,16 @@ return [
     "follow_us_on_insta" => "Follow Us on Instagram",
 
     /** default keys **/
-    "sart" => "S ART Beauty Center",
-    "sart_official_center" => "S Art Beauty Center Official Website",
-    "sart_official_center_home" => "S Art Beauty Center Home",
-    "sart_official_center_about" => "S Art Beauty Center About Us Page",
-    "sart_official_center_contact" => "S Art Beauty Center Contact Page",
-    "sart_official_center_lang_options" => "S Art Beauty Center Language Options",
-    "sart_official_center_job_explanation" => "What Does S Art Beauty Center Do?",
-    "sart_official_center_facebook" => "S Art Beauty Center Facebook Account",
-    "sart_official_center_whatsapp" => "S Art Beauty Center Whatsapp Account",
-    "sart_official_center_instagram" => "S Art Beauty Center Instagram Account",
+    "sart" => "Nur Art Academy",
+    "sart_official_center" => "Nur Art Academy Official Website",
+    "sart_official_center_home" => "Nur Art Academy Home",
+    "sart_official_center_about" => "Nur Art Academy About Us Page",
+    "sart_official_center_contact" => "Nur Art Academy Contact Page",
+    "sart_official_center_lang_options" => "Nur Art Academy Language Options",
+    "sart_official_center_job_explanation" => "What Does Nur Art Academy Do?",
+    "sart_official_center_facebook" => "Nur Art Academy Facebook Account",
+    "sart_official_center_whatsapp" => "Nur Art Academy Whatsapp Account",
+    "sart_official_center_instagram" => "Nur Art Academy Instagram Account",
     "whatsapp_line" => "WhatsApp Line",
     "location" => "Our Address on Navigation",
     "turkish" => "Turkish",
@@ -60,8 +60,8 @@ return [
     "ten_min" => "Reading Time",
 
     // eyebrow_lamination
-    "eyebrow_lamination_description" => "Eyebrow Lamination | S Art Beauty Center",
-    "eyebrow_lamination_title" => "For natural and striking eyebrows, try brow lamination at S Art Beauty Center! Achieve fuller and more defined brows with our experts.",
+    "eyebrow_lamination_description" => "Eyebrow Lamination | Nur Art Academy",
+    "eyebrow_lamination_title" => "For natural and striking eyebrows, try brow lamination at Nur Art Academy! Achieve fuller and more defined brows with our experts.",
     "eyebrow_lamination_main_header" => "Eyebrow Lamination",
     "eyebrow_lamination_context_title" => "Eyebrow Lamination",
     "eyebrow_lamination_context_content" => "Eyebrow lamination provides a new shape and volume to the eyebrows, creating an impressive look.",
