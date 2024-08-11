@@ -128,6 +128,7 @@
                                                 <li><a href="{{ uniqRt('hair-extension-academy') }}" class="dez-page" title="@lang('header.hair_extension')">@lang('header.hair_extension')</a></li>
                                                 <li><a href="{{ uniqRt('beauty-master-academy') }}" class="dez-page" title="@lang('header.beauty_master')">@lang('header.beauty_master')</a></li>
                                                 <li><a href="{{ uniqRt('permanent-makeup-academy') }}" class="dez-page" title="@lang('header.permanent_makeup')">@lang('header.permanent_makeup')</a></li>
+                                                <li><a href="{{ uniqRt('permanent-makeup-academy') }}" class="dez-page" title="@lang('header.date_pottery')">@lang('header.date_pottery')</a></li>
                                             </ul>
                                         </li>
 

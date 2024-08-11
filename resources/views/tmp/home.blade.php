@@ -12,12 +12,12 @@
                         <li data-index="rs-300" data-transition="fade" data-slotamount="default"
                             data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default"
                             data-easeout="default" data-masterspeed="300"
-                            data-thumb="{{ asset('images/nur-art-img/nur-art-02.png') }}" data-rotate="0" data-saveperformance="off"
+                            data-thumb="{{ asset('images/nur-art-img/ceramics-children-01.webp') }}" data-rotate="0" data-saveperformance="off"
                             data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4=""
                             data-param5="" data-param6="" data-param7="" data-param8="" data-param9=""
                             data-param10="" data-description="">
                             <!-- MAIN IMAGE -->
-                            <img src="{{ asset('images/nur-art-img/nur-art-02.png') }}" alt="eyelash_lifting"
+                            <img src="{{ asset('images/nur-art-img/ceramics-children-01.webp') }}" alt="eyelash_lifting"
                                 data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
                                 class="rev-slidebg" data-no-retina style="opacity: 0.7;">
                             <div class="tp-caption tp-shape  tp-shapewrapper bg-primary tp-resizeme"
@@ -308,7 +308,7 @@
                     <div class="item">
                         <div class="service-box text-center">
                             <div class="service-images m-b15">
-                                <img width="300" height="300" src="{{ asset('images/nur-art-img/nur-art-024.png') }}"
+                                <img width="300" height="300" src="{{ asset('images/nur-art-img/nur-art-09.png') }}"
                                     alt="@lang('home.index_section1_slide1_alt_academy')" />
                                 <i class="flaticon-woman-1"></i>
                             </div>
@@ -325,7 +325,7 @@
                      <div class="item">
                         <div class="service-box text-center">
                             <div class="service-images m-b15">
-                                <img width="300" height="300" src="{{ asset('images/nur-art-img/nur-art-09.png') }}"
+                                <img width="300" height="300" src="{{ asset('images/nur-art-img/date-pottery-02.png') }}"
                                     alt="@lang('home.index_section1_slide3_alt_academy')" />
                                 <i class="flaticon-lotus"></i>
                             </div>
