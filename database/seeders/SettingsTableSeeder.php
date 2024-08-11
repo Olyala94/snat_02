@@ -85,7 +85,7 @@ class SettingsTableSeeder extends Seeder
                     'alt' => 'S Art Beauty Center Instagram Account',
                 ],
                 'whatsapp' => [
-                    'href' => 'https://api.whatsapp.com/send?phone=905335085191',
+                    'href' => 'https://api.whatsapp.com/send?phone=99365675732',
                     'alt' => 'S Art Beauty Center Whatsapp Account',
                 ],
             ],
@@ -262,7 +262,7 @@ class SettingsTableSeeder extends Seeder
                     'alt' => 'S Art Beauty Center Instagram Hesabı',
                 ],
                 'whatsapp' => [
-                    'href' => 'https://api.whatsapp.com/send?phone=99361212783',
+                    'href' => 'https://api.whatsapp.com/send?phone=99365675732',
                     'alt' => 'S Art Beauty Center Whatsapp Hesabı',
                 ],
             ],
@@ -439,7 +439,7 @@ class SettingsTableSeeder extends Seeder
                     'alt' => 'Аккаунт Instagram S Art Beauty Center',
                 ],
                 'whatsapp' => [
-                    'href' => 'https://api.whatsapp.com/send?phone=905335085191',
+                    'href' => 'https://api.whatsapp.com/send?phone=99365675732',
                     'alt' => 'Аккаунт Whatsapp S Art Beauty Cente',
                 ],
             ],

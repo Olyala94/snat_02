@@ -82,7 +82,7 @@
                     <div class="row d-flex justify-content-between">
                         <div class="dlab-topbar-left">
                             <ul>
-                                <li><i class="fa fa-phone m-r5"></i> <a href="https://api.whatsapp.com/send?phone=905335085191" target="_blank" title="@lang('header.whatsapp_line')" rel="nofollow">@lang('header.contact_us_section1_subtitle3_cont_academy')</a></li>
+                                <li><i class="fa fa-phone m-r5"></i> <a href="https://api.whatsapp.com/send?phone=99365675732" target="_blank" title="@lang('header.whatsapp_line')" rel="nofollow">@lang('header.contact_us_section1_subtitle3_cont_academy')</a></li>
                                 <li><i class="fa fa-map-marker m-r5"></i><a href="https://goo.gl/maps/MLkCjkQovNnJvqrw6" target="_blank" title="location" rel="nofollow">@lang('header.contact_us_section1_subtitle1_cont_academy')</a></li>
                             </ul>
                         </div>
@@ -122,97 +122,97 @@
                                 <!-- Sapaklarymyz -->
                                    <li class="@if (isset($route) && in_array($route['uniq_slug'], $educationSlugs ?? [])) active @endif">
                                     <a href="#" onclick="toggleSubMenu(event, 'sub-menu-3')" title="@lang('header.sart_official_center_job_explanation_academy')"><span>@lang('header.our_courses')</span><i class="fa fa-chevron-down"></i></a>
-                                            <ul id="sub-menu-3" class="sub-menu">
-                                                <li><a href="{{ uniqRt('silk-eyelash-academy') }}" class="dez-page" title="@lang('header.silk_eyelash')">@lang('header.silk_eyelash')</a></li>
-                                                <li><a href="{{ uniqRt('prosthetic-nails-academy') }}" class="dez-page" title="@lang('header.prosthetic_nail')">@lang('header.prosthetic_nail')</a></li>
-                                                <li><a href="{{ uniqRt('hair-extension-academy') }}" class="dez-page" title="@lang('header.hair_extension')">@lang('header.hair_extension')</a></li>
-                                                <li><a href="{{ uniqRt('beauty-master-academy') }}" class="dez-page" title="@lang('header.beauty_master')">@lang('header.beauty_master')</a></li>
-                                                <li><a href="{{ uniqRt('permanent-makeup-academy') }}" class="dez-page" title="@lang('header.permanent_makeup')">@lang('header.permanent_makeup')</a></li>
-                                                <li><a href="{{ uniqRt('permanent-makeup-academy') }}" class="dez-page" title="@lang('header.date_pottery')">@lang('header.date_pottery')</a></li>
-                                            </ul>
-                                        </li>
+                                                <ul id="sub-menu-3" class="sub-menu">
+                                                    <li><a href="{{ uniqRt('silk-eyelash-academy') }}" class="dez-page" title="@lang('header.silk_eyelash')">@lang('header.silk_eyelash')</a></li>
+                                                    <li><a href="{{ uniqRt('prosthetic-nails-academy') }}" class="dez-page" title="@lang('header.prosthetic_nail')">@lang('header.prosthetic_nail')</a></li>
+                                                    <li><a href="{{ uniqRt('hair-extension-academy') }}" class="dez-page" title="@lang('header.hair_extension')">@lang('header.hair_extension')</a></li>
+                                                    <li><a href="{{ uniqRt('beauty-master-academy') }}" class="dez-page" title="@lang('header.beauty_master')">@lang('header.beauty_master')</a></li>
+                                                    <li><a href="{{ uniqRt('permanent-makeup-academy') }}" class="dez-page" title="@lang('header.permanent_makeup')">@lang('header.permanent_makeup')</a></li>
+                                                    <li><a href="{{ uniqRt('permanent-makeup-academy') }}" class="dez-page" title="@lang('header.date_pottery')">@lang('header.date_pottery')</a></li>
+                                                </ul>
+                                            </li>
 
-                                        {{-- <!-- Расписание -->
+                                            {{-- <!-- Расписание -->
                                         <li class="@if (isset($route) && $route['uniq_slug'] == 'contact-us') active @endif">
                                             <a href="{{ uniqRt('contact-us') }}" class="dez-page" title="@lang('header.schedule')">@lang('header.schedule')</a>
                                         </li> --}}
 
-                                        <!-- Галерея -->
-                                        <li class="@if (isset($route) && $route['uniq_slug'] == 'galery') active @endif">
-                                            <a href="{{ uniqRt('galery') }}" class="dez-page" title="@lang('header.galery')">@lang('header.galery')</a>
-                                        </li>
+                                            <!-- Галерея -->
+                                            <li class="@if (isset($route) && $route['uniq_slug'] == 'galery') active @endif">
+                                                <a href="{{ uniqRt('galery') }}" class="dez-page" title="@lang('header.galery')">@lang('header.galery')</a>
+                                            </li>
 
-                                        <!-- Блог -->
-                                        <li class="@if (isset($route) && $route['uniq_slug'] == 'blog') active @endif">
-                                            <a href="{{ uniqRt('blog') }}" class="dez-page" title="@lang('header.blog')">@lang('header.blog')</a>
-                                        </li>
+                                            <!-- Блог -->
+                                            <li class="@if (isset($route) && $route['uniq_slug'] == 'blog') active @endif">
+                                                <a href="{{ uniqRt('blog') }}" class="dez-page" title="@lang('header.blog')">@lang('header.blog')</a>
+                                            </li>
 
-                                        <!-- Отзывы -->
-                                        <li class="@if (isset($route) && $route['uniq_slug'] == 'testimonials') active @endif">
-                                            <a href="{{ uniqRt('testimonials') }}" class="dez-page" title="@lang('header.testimonials')">@lang('header.testimonials')</a>
-                                        </li>
+                                            <!-- Отзывы -->
+                                            <li class="@if (isset($route) && $route['uniq_slug'] == 'testimonials') active @endif">
+                                                <a href="{{ uniqRt('testimonials') }}" class="dez-page" title="@lang('header.testimonials')">@lang('header.testimonials')</a>
+                                            </li>
 
-                                         <!-- Расписание -->
-                                         <li class="@if (isset($route) && $route['uniq_slug'] == 'contact-us') active @endif">
-                                            <a href="{{ uniqRt('contact-us') }}" class="dez-page" title="@lang('header.contact_us')">@lang('header.contact_us')</a>
-                                        </li>
+                                             <!-- Расписание -->
+                                             <li class="@if (isset($route) && $route['uniq_slug'] == 'contact-us') active @endif">
+                                                <a href="{{ uniqRt('contact-us') }}" class="dez-page" title="@lang('header.contact_us')">@lang('header.contact_us')</a>
+                                            </li>
 
-                                        <li>
-                                            <a href="javascript:void(0);" class="dez-page" title="{{ __('header.sart_official_center_lang_options_academy') }}">
-                                                <i class="fa fa-globe fa-3x globe-fs-20"></i>
-                                                <span class="current-lang">({{ app()->getLocale() }})</span>
-                                                <i class="fa fa-chevron-down"></i>
-                                            </a>
+                                            <li>
+                                                <a href="javascript:void(0);" class="dez-page" title="{{ __('header.sart_official_center_lang_options_academy') }}">
+                                                    <i class="fa fa-globe fa-3x globe-fs-20"></i>
+                                                    <span class="current-lang">({{ app()->getLocale() }})</span>
+                                                    <i class="fa fa-chevron-down"></i>
+                                                </a>
 
-                                            <ul class="sub-menu">
-                                                <li class="@if (app()->getLocale() == 'tk') selected @endif">
-                                                    <a href="{{ langRt('tk', $route['uniq_slug'] ?? 'index') }}" class="dez-page" title="{{ __('header.turkish') }}">
-                                                        <img src="/images/tk.webp" class="lang-img" alt="{{ __('header.turkish') }}"> TK
-                                                    </a>
-                                                </li>
-                                                <li class="@if (app()->getLocale() == 'ru') selected @endif">
-                                                    <a href="{{ langRt('ru', $route['uniq_slug'] ?? 'index') }}" class="dez-page" title="{{ __('header.russian') }}">
-                                                        <img src="/images/ru.webp" class="lang-img" alt="{{ __('header.russian') }}"> RU
-                                                    </a>
-                                                </li>
-                                                <li class="@if (app()->getLocale() == 'en') selected @endif">
-                                                    <a href="{{ langRt('en', $route['uniq_slug'] ?? 'index') }}" class="dez-page" title="{{ __('header.english') }}">
-                                                        <img src="/images/us.webp" class="lang-img" alt="{{ __('header.english') }}"> EN
-                                                    </a>
-                                                </li>
-                                            </ul>
+                                                <ul class="sub-menu">
+                                                    <li class="@if (app()->getLocale() == 'tk') selected @endif">
+                                                        <a href="{{ langRt('tk', $route['uniq_slug'] ?? 'index') }}" class="dez-page" title="{{ __('header.turkish') }}">
+                                                            <img src="/images/tk.webp" class="lang-img" alt="{{ __('header.turkish') }}"> TK
+                                                        </a>
+                                                    </li>
+                                                    <li class="@if (app()->getLocale() == 'ru') selected @endif">
+                                                        <a href="{{ langRt('ru', $route['uniq_slug'] ?? 'index') }}" class="dez-page" title="{{ __('header.russian') }}">
+                                                            <img src="/images/ru.webp" class="lang-img" alt="{{ __('header.russian') }}"> RU
+                                                        </a>
+                                                    </li>
+                                                    <li class="@if (app()->getLocale() == 'en') selected @endif">
+                                                        <a href="{{ langRt('en', $route['uniq_slug'] ?? 'index') }}" class="dez-page" title="{{ __('header.english') }}">
+                                                            <img src="/images/us.webp" class="lang-img" alt="{{ __('header.english') }}"> EN
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </li>
                                         </li>
-                                    </li>
+                                    </div>
+                                    <!-- MENÜ END-->
                                 </div>
-                                <!-- MENÜ END-->
                             </div>
                         </div>
-                    </div>
-                    <!-- main header END -->
-                </header>
-                <!-- header END -->
-            </div>
+                        <!-- main header END -->
+                    </header>
+                    <!-- header END -->
+                </div>
 
-            <script>
-                function toggleSubMenu(event, subMenuId) {
-                    event.preventDefault(); // Varsayılan link davranışını engelle
-                    const subMenu = document.getElementById(subMenuId);
-                    if (subMenu) {
-                        subMenu.style.display = subMenu.style.display === 'none' || subMenu.style.display === '' ? 'block' : 'none';
+                <script>
+                    function toggleSubMenu(event, subMenuId) {
+                        event.preventDefault(); // Varsayılan link davranışını engelle
+                        const subMenu = document.getElementById(subMenuId);
+                        if (subMenu) {
+                            subMenu.style.display = subMenu.style.display === 'none' || subMenu.style.display === '' ? 'block' : 'none';
+                        }
                     }
-                }
 
 
-                function setActive(event) {
-                    // Tüm aktif sınıfları kaldır
-                    document.querySelectorAll('.dez-page.active').forEach(function(element) {
-                        element.classList.remove('active');
-                    });
+                    function setActive(event) {
+                        // Tüm aktif sınıfları kaldır
+                        document.querySelectorAll('.dez-page.active').forEach(function(element) {
+                            element.classList.remove('active');
+                        });
 
-                    // Tıklanan öğeye aktif sınıfını ekle
-                    event.currentTarget.classList.add('active');
-                }
-            </script>
-        </body>
+                        // Tıklanan öğeye aktif sınıfını ekle
+                        event.currentTarget.classList.add('active');
+                    }
+                </script>
+            </body>
 
-        </html>
+            </html>)
