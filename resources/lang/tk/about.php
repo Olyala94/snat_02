@@ -27,7 +27,7 @@ return [
     /*** about_us ***/
     "about_us_description" => "Nur Art Akademiýasy, döredijilik we estetikanyň duşuşýan sungat söýüjileri üçin ylham berýän bilim merkezi hökmünde döredildi. Biziň maksadymyz dürli ýaşdaky we derejeli okuwçylara çeper zehinini ýüze çykarmaga we ösdürmäge we özboluşly eserleri döretmäge mümkinçilik bermek.",
     "about_us_title" => "Biz Hakda | Nur Art Academy",
-    'sart_academy' => 'Nur Art Akademiýasy',
+    'sart_academy' => 'Nur Art',
 
 
     /*** header subtitle ***/

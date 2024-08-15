@@ -81,10 +81,10 @@
                 <div class="container">
                     <div class="row d-flex justify-content-between">
                         <div class="dlab-topbar-left">
-                            <ul>
+                            {{-- <ul>
                                 <li><i class="fa fa-phone m-r5"></i> <a href="https://api.whatsapp.com/send?phone=99365675732" target="_blank" title="@lang('header.whatsapp_line')" rel="nofollow">@lang('header.contact_us_section1_subtitle3_cont_academy')</a></li>
                                 <li><i class="fa fa-map-marker m-r5"></i><a href="https://goo.gl/maps/MLkCjkQovNnJvqrw6" target="_blank" title="location" rel="nofollow">@lang('header.contact_us_section1_subtitle1_cont_academy')</a></li>
-                            </ul>
+                            </ul> --}}
                         </div>
                         <div class="dlab-topbar-right topbar-social">
                             <ul>

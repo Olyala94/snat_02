@@ -3,8 +3,17 @@
     <div class="footer-bottom">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-6 text-center text-md-left"> <span>Copyright © -
-                        @lang('footer.sart')</span></div>
+
+                <div class="col-lg-6 col-md-6 col-sm-6 text-center text-md-left">
+
+                    <span><div class="dlab-topbar-left">
+                        <ul>
+                            <li><i class="fa fa-phone m-r5"></i> <a href="https://api.whatsapp.com/send?phone=99365675732" target="_blank" title="@lang('header.whatsapp_line')" rel="nofollow">@lang('header.contact_us_section1_subtitle3_cont_academy')</a></li>
+                            <li><i class="fa fa-map-marker m-r5"></i><a href="https://goo.gl/maps/MLkCjkQovNnJvqrw6" target="_blank" title="location" rel="nofollow">@lang('header.contact_us_section1_subtitle1_cont_academy')</a></li>
+                        </ul>
+                    </div>
+                </span>
+                </div>
                 <div class="col-lg-6 col-md-6 col-sm-6 text-center text-md-right ">
                     <div class="widget-link ">
                         <ul>
@@ -14,6 +23,7 @@
                                     target="_self">@lang('footer.user_policies_subtitle6')</a>
                             </li>
                         </ul>
+                        <span>Copyright © - @lang('footer.sart')</span>
                     </div>
                 </div>
             </div>

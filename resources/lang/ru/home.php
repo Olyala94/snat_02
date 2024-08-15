@@ -94,6 +94,7 @@ return [
     "russian" => "Русский",
     "reading_time" => "Предполагаемое время чтения",
     "ten_min" => "Время чтения",
+    'sart_academy' => 'Nur Art'
 
     // // section 3
     // "index_section3_main_title" => "Tanıtım Videomuz",

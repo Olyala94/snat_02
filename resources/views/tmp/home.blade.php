@@ -401,16 +401,14 @@
                          </div>
                      </div>
                  </div>
-
                  <div class="text-center">
                      <a href="{{ uniqRt('our-courses') }}" class="site-button outline focus-white"
                          title="@lang('home.sart_official_center_job_explanation_academy')" target="_self">@lang('home.index_section1_services_redirect_button_academy')</a>
                  </div>
-
              </div>
          </div>
          <!-- Why Chose Us -->
-         <div class="section-full content-inner-2 our-portfolio">
+         {{-- <div class="section-full content-inner-2 our-portfolio">
              <div class="container">
                  <div class="section-head text-black text-center m-b20">
                      <div class="dlab-separator-outer m-b0">
@@ -558,7 +556,7 @@
                      });
                  </script>
              </div>
-         </div>
+         </div> --}}
          <!-- Why Chose Us End -->
          <!-- Our Professional Team -->
          <div class="section-full content-inner-2 overlay-white-middle"

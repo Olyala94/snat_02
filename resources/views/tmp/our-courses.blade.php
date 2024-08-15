@@ -7,8 +7,8 @@
             <div class="container">
                 <div class="section-head text-black text-center">
                     <div class="dlab-separator-outer m-b0">
-                        <div class="dlab-separator text-primary style-icon"><img src="/images/sart/logo_fav.png"
-                                alt="@lang('our-courses.sart')">
+                        <div class="dlab-separator text-primary style-icon"><img
+                                src="/images/nur-art-logos/nur-art-logo-06.png" alt="@lang('our-courses.sart')">
                         </div>
                     </div>
                     <h2 class="text-primary m-b10">@lang('our-courses.index_section1_main_title_academy')</h2>
@@ -16,12 +16,14 @@
                     <p>@lang('our-courses.index_section1_content1_academy')</p>
                 </div>
 
-                <div class="img-carousel owl-carousel owl-theme owl-none owl-dots-primary-big owl-btn-center-lr owl-loade m-b30">
+                <div
+                    class="img-carousel owl-carousel owl-theme owl-none owl-dots-primary-big owl-btn-center-lr owl-loade m-b30">
                     <!-- Surat çekmek Sapagy-->
                     <div class="item">
                         <div class="service-box text-center">
                             <div class="service-images m-b15">
-                                <img width="300" height="300" src="{{ asset('images/sart_academy/silk_eyelesh/kirpik_lifting_uygulama.webp') }}"
+                                <img width="300" height="300"
+                                    src="{{ asset('images/sart_academy/silk_eyelesh/kirpik_lifting_uygulama.webp') }}"
                                     alt="@lang('our-courses.index_section1_slide1_alt_academy')" />
                                 <i class="flaticon-woman-1"></i>
                             </div>
@@ -34,12 +36,12 @@
                             </div>
                         </div>
                     </div>
-                     <!-- Heýkel Sapagy -->
-                     <div class="item">
+                    <!-- Heýkel Sapagy -->
+                    <div class="item">
                         <div class="service-box text-center">
                             <div class="service-images m-b15">
-                                <img width="300" height="300" src="{{ asset('images/nur-art-img/nur-art-09.png') }}"
-                                    alt="@lang('our-courses.index_section1_slide3_alt_academy')" />
+                                <img width="300" height="300"
+                                    src="{{ asset('images/nur-art-img/nur-art-09.png') }}" alt="@lang('our-courses.index_section1_slide3_alt_academy')" />
                                 <i class="flaticon-lotus"></i>
                             </div>
                             <div class="service-content">
@@ -55,8 +57,8 @@
                     <div class="item">
                         <div class="service-box text-center">
                             <div class="service-images m-b15">
-                                <img width="300" height="300" src="{{ asset('images/nur-art-img/nur-art-011.png') }}"
-                                    alt="@lang('our-courses.index_section1_slide7_alt_academy')" />
+                                <img width="300" height="300"
+                                    src="{{ asset('images/nur-art-img/nur-art-011.png') }}" alt="@lang('our-courses.index_section1_slide7_alt_academy')" />
                                 <i class="flaticon-candle"></i>
                             </div>
                             <div class="service-content">
@@ -72,8 +74,8 @@
                     <div class="item">
                         <div class="service-box text-center">
                             <div class="service-images m-b15">
-                                <img width="300" height="300" src="{{ asset('images/nur-art-img/nur-art-022.png') }}"
-                                    alt="@lang('our-courses.index_section1_slide8_alt_academy')" />
+                                <img width="300" height="300"
+                                    src="{{ asset('images/nur-art-img/nur-art-022.png') }}" alt="@lang('our-courses.index_section1_slide8_alt_academy')" />
                                 <i class="flaticon-candle-1"></i>
                             </div>
                             <div class="service-content">
@@ -89,8 +91,8 @@
                     <div class="item">
                         <div class="service-box text-center">
                             <div class="service-images m-b15">
-                                <img width="300" height="300" src="{{ asset('images/nur-art-img/nur-art-017.png') }}"
-                                    alt="@lang('our-courses.index_section1_slide5_alt_academy')" />
+                                <img width="300" height="300"
+                                    src="{{ asset('images/nur-art-img/nur-art-017.png') }}" alt="@lang('our-courses.index_section1_slide5_alt_academy')" />
                                 <i class="flaticon-candle"></i>
                             </div>
                             <div class="service-content">
@@ -282,8 +284,8 @@
             <div class="container">
                 <div class="section-head text-black text-center">
                     <div class="dlab-separator-outer m-b0">
-                        <div class="dlab-separator text-primary style-icon"><img src="/images/sart/logo_fav.png"
-                                alt="@lang('our-courses.index_section4_img_alt')"></div>
+                        <div class="dlab-separator text-primary style-icon"><img
+                                src="/images/nur-art-logos/nur-art-logo-06.png" alt="@lang('our-courses.index_section4_img_alt')"></div>
                     </div>
                     <h2 class="text-primary m-b10">@lang('our-courses.index_section4_main_title')</h2>
                     <p>@lang('our-courses.index_section4_cont')</p>
@@ -375,7 +377,7 @@
                 <div class="section-head text-black text-center">
                     <div class="dlab-separator-outer m-b0">
                         <div class="dlab-separator text-primary style-icon"><img
-                                src="/images/sart/logo-transparent.png" alt="@lang('our-courses.index_section5_img_alt')"></div>
+                                src="/images/nur-art-logos/nur-art-logo-06.png" alt="@lang('our-courses.index_section5_img_alt')"></div>
                     </div>
                     <h2 class="text-white m-b10">@lang('our-courses.index_section5_main_title')</h2>
                     <p>@lang('our-courses.index_section5_cont')</p>

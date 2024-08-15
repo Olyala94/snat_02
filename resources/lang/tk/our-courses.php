@@ -3,7 +3,7 @@ return [
 // || -------------------------  Academy Web Sitesi için  ------------------------- || //
 
     /** default keys **/
-    "sart_academy" => "Nur Art Academy",
+    "sart_academy" => "Nur Art",
     "sart_official_center" => "Nur Art Academy Resmi Web Sitesi",
     "sart_official_center_home" => "Nur Art Academy Baş Sahypa",
     "sart_official_center_about" => "Nur Art Academy Biz Hakda Sayfası",

@@ -6,8 +6,8 @@
             <div class="container">
                 <div class="section-head text-black text-center">
                     <div class="dlab-separator-outer m-b0">
-                        <div class="dlab-separator text-primary style-icon"><img src="/images/sart/logo_fav.png"
-                                alt="@lang('services.sart')"></div>
+                        <div class="dlab-separator text-primary style-icon"><img
+                                src="/images/nur-art-logos/nur-art-logo-06.png" alt="@lang('services.sart')"></div>
                     </div>
                     <h2 class="text-primary m-b10">@lang('services.services')</h2>
                     <h6 class="m-b10">@lang('services.index_section1_subtitle')</h6>
@@ -227,8 +227,8 @@
             <div class="container">
                 <div class="section-head text-black text-center m-b20">
                     <div class="dlab-separator-outer m-b0">
-                        <div class="dlab-separator text-primary style-icon"><img src="/images/sart/logo_fav.png"
-                                alt="@lang('services.index_section2_img_alt')"></div>
+                        <div class="dlab-separator text-primary style-icon"><img
+                                src="/images/nur-art-logos/nur-art-logo-06.png" alt="@lang('services.index_section2_img_alt')"></div>
                     </div>
                     <h2 class="text-primary m-b10">@lang('services.index_section2_main_title')</h2>
                     <p class="m-b0">@lang('services.index_section2_subtitle')</p>
@@ -383,8 +383,8 @@
             <div class="container">
                 <div class="section-head text-black text-center">
                     <div class="dlab-separator-outer m-b0">
-                        <div class="dlab-separator text-primary style-icon"><img src="/images/sart/logo_fav.png"
-                                alt="@lang('services.index_section4_img_alt')"></div>
+                        <div class="dlab-separator text-primary style-icon"><img
+                                src="/images/nur-art-logos/nur-art-logo-06.png" alt="@lang('services.index_section4_img_alt')"></div>
                     </div>
                     <h2 class="text-primary m-b10">@lang('services.index_section4_main_title')</h2>
                     <p>@lang('services.index_section4_cont')</p>
@@ -476,7 +476,7 @@
                 <div class="section-head text-black text-center">
                     <div class="dlab-separator-outer m-b0">
                         <div class="dlab-separator text-primary style-icon"><img
-                                src="/images/sart/logo-transparent.png" alt="@lang('services.index_section5_img_alt')"></div>
+                                src="/images/nur-art-logos/nur-art-logo-06.png" alt="@lang('services.index_section5_img_alt')"></div>
                     </div>
                     <h2 class="text-white m-b10">@lang('services.index_section5_main_title')</h2>
                     <p>@lang('services.index_section5_cont')</p>
