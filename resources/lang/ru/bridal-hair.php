@@ -9,7 +9,7 @@ return [
     "language" => "язык",
 
     /*** header subtitle ***/
-    "contact_us_section2_subtitle5" => "S Art Beuty Center Главная",
+    "contact_us_section2_subtitle5" => "Nur Art Academy Главная",
 
     /*** header subtitle ***/
     "lazer-epilasyon" => "Лазерная эпиляция",
@@ -43,16 +43,16 @@ return [
     "follow_us_on_insta" => "Подписывайтесь на нас в Instagram",
 
     /** default keys **/
-    "sart" => "S ART Beauty Center",
-    "sart_official_center" => "Официальный сайт S Art Beauty Center",
-    "sart_official_center_home" => "Главная S Art Beauty Center",
-    "sart_official_center_about" => "О S Art Beauty Center",
-    "sart_official_center_contact" => "Контакты S Art Beauty Center",
-    "sart_official_center_lang_options" => "Опции языка S Art Beauty Center",
-    "sart_official_center_job_explanation" => "Что делает S Art Beauty Center?",
-    "sart_official_center_facebook" => "Страница S Art Beauty Center в Facebook",
-    "sart_official_center_whatsapp" => "Аккаунт S Art Beauty Center в WhatsApp",
-    "sart_official_center_instagram" => "Аккаунт S Art Beauty Center в Instagram",
+    "sart" => "Nur Art Academy",
+    "sart_official_center" => "Официальный сайт Nur Art Academy",
+    "sart_official_center_home" => "Главная Nur Art Academy",
+    "sart_official_center_about" => "О Nur Art Academy",
+    "sart_official_center_contact" => "Контакты Nur Art Academy",
+    "sart_official_center_lang_options" => "Опции языка Nur Art Academy",
+    "sart_official_center_job_explanation" => "Что делает Nur Art Academy?",
+    "sart_official_center_facebook" => "Страница Nur Art Academy в Facebook",
+    "sart_official_center_whatsapp" => "Аккаунт Nur Art Academy в WhatsApp",
+    "sart_official_center_instagram" => "Аккаунт Nur Art Academy в Instagram",
     "whatsapp_line" => "WhatsApp линия",
     "location" => "Адрес в навигации",
     "turkish" => "Турецкий",
@@ -62,8 +62,8 @@ return [
     "ten_min" => "Время чтения",
 
     // bridal_hair
-    "bridal_hair_description" => "Создайте завораживающий образ с гребнем невесты в самый особенный день. Ознакомьтесь с уникальными дизайнами гребней невесты, специально разработанными для вас в S Art Beauty Center.",
-    "bridal_hair_title" => "Впечатляющие модели гребней невесты для самого особенного дня - S Art Beauty Center",
+    "bridal_hair_description" => "Создайте завораживающий образ с гребнем невесты в самый особенный день. Ознакомьтесь с уникальными дизайнами гребней невесты, специально разработанными для вас в Nur Art Academy.",
+    "bridal_hair_title" => "Впечатляющие модели гребней невесты для самого особенного дня - Nur Art Academy",
     "bridal_hair_main_header" => "Свадебный пучок",
     "bridal_hair_context_title" => "Свадебный пучок",
     "bridal_hair_context_content" => "Еще одной важной деталью, наряду с свадебным платьем, является прическа, которую выберет невеста в день свадьбы. Свадебный пучок - это прическа, которая добавляет изысканности образу невесты, предлагая как классические, так и современные варианты дизайна.",
@@ -78,7 +78,7 @@ return [
     "bridal_hair_context_question5" => "5. Какая длина и тип волос подходит для гребня невесты?",
     "bridal_hair_context_answer5" => "Гребень невесты подходит для разных типов волос. Он идеально смотрится на средней или длинной длине волос. Однако для коротких волос можно использовать накладные волосы, чтобы создать гребень невесты.
         <br><br>
-        Создайте завораживающий образ с гребнем невесты в самый особенный день. Ознакомьтесь с уникальными дизайнами гребней невесты, специально разработанными для вас в S Art Beauty Center.",
+        Создайте завораживающий образ с гребнем невесты в самый особенный день. Ознакомьтесь с уникальными дизайнами гребней невесты, специально разработанными для вас в Nur Art Academy.",
     "bridal_hair_slide3_title" => "Дополните Свой Стиль",
     "bridal_hair_slide3_cont" => " Выберите подходящий вашему стилю причёски из самых популярных моделей сезона.",
     "bridal_hair_slide4_title" => "Special Updo Styles",

@@ -10,21 +10,77 @@ class RoutesTableSeeder extends Seeder
 {
     public $routes = [
         // TODO: -------------------------------- EN -------------------------- //
+        // Sart Academy için eklenenler
+        [
+            'lang' => 'en', 'slug' => 'our-courses',
+            'uniq_slug' => 'our-courses',
+            "meta_information" => [
+                "title" => "Ashgabat | Nur Art Academy",
+                "description" => " Kariyerinize Başlamak İçin En İyi Seçim: Sart Beauty Academy ",
+            ]
+        ],
+        [
+            'lang' => 'en',
+            'slug' => 'our-courses/silk-eyelash',
+            'uniq_slug' => 'silk-eyelash-academy',
+            "meta_information" => [
+                "title" => "Nur Art Academy Sapaklarymyz | Nur Art Academy",
+                "description" => "Kariyerinize Başlamak İçin En İyi Seçim: Sart Beauty Academy.",
+            ]
+        ],
+        [
+            'lang' => 'en',
+            'slug' => 'our-courses/prosthetic-nails',
+            'uniq_slug' => 'prosthetic-nails-academy',
+            "meta_information" => [
+                "title" => "Nur Art Academy Sapaklarymyz | Nur Art Academy",
+                "description" => " Kariyerinize Başlamak İçin En İyi Seçim: Sart Beauty Academy.",
+            ]
+        ],
+        [
+            'lang' => 'en',
+            'slug' => 'our-courses/hair-extension',
+            'uniq_slug' => 'hair-extension-academy',
+            "meta_information" => [
+                "title" => "Nur Art Academy Sapaklarymyz | Nur Art Academy",
+                "description" => " Kariyerinize Başlamak İçin En İyi Seçim: Sart Beauty Academy.",
+            ]
+        ],
+        [
+            'lang' => 'en',
+            'slug' => 'our-courses/beauty-master',
+            'uniq_slug' => 'beauty-master-academy',
+            "meta_information" => [
+                "title" => "Nur Art Academy Sapaklarymyz | Nur Art Academy",
+                "description" => " Kariyerinize Başlamak İçin En İyi Seçim: Sart Beauty Academy.",
+            ]
+        ],
+        [
+            'lang' => 'en',
+            'slug' => 'our-courses/permanent-makeup',
+            'uniq_slug' => 'permanent-makeup-academy',
+            "meta_information" => [
+                "title" => "Nur Art Academy Sapaklarymyz | Nur Art Academy",
+                "description" => " Kariyerinize Başlamak İçin En İyi Seçim: Sart Beauty Academy.",
+            ]
+        ],
+        // End egitim için eklenen
         [
             'lang' => 'en',
             'slug' => 'services',
             'uniq_slug' => 'services',
             "meta_information" => [
-                "title" => "Our Services | S Art Beauty Center",
-                "description" => "Discover our services at S Art Beauty Center in Kadıköy. Visit us for skin care, epilation, hair design, and more.",
+                "title" => "Our Services | Nur Art Academy",
+                "description" => "Discover our services at Nur Art Academy in Ashgabat. Visit us for skin care, epilation, hair design, and more.",
             ]
         ],
         [
-            'lang' => 'en', 'slug' => '/',
+            'lang' => 'en',
+            'slug' => '/',
             'uniq_slug' => 'index',
             "meta_information" => [
-                "title" => "Kadıköy - Beauty Center | S Art Beauty Center",
-                "description" => "At S Art Beauty Center, we offer a wide range of services, from ice laser epilation to nail care, and from skin care to hair care services.",
+                "title" => "Ashgabat - Nur Art Academy | Nur Art Academy",
+                "description" => "At Nur Art Academy, we offer a wide range of services, from ice laser epilation to nail care, and from skin care to hair care services.",
             ]
         ],
         [
@@ -32,8 +88,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'about-us',
             'uniq_slug' => 'about-us',
             "meta_information" => [
-                "title" => "Kadıköy Beauty Center | S Art Beauty Center",
-                "description" => "At S Art Beauty Center, we offer a wide range of services, from ice laser epilation to nail care, and from skin care to hair care services.",
+                "title" => "Ashgabat Nur Art Academy | Nur Art Academy",
+                "description" => "At Nur Art Academy, we offer a wide range of services, from ice laser epilation to nail care, and from skin care to hair care services.",
             ]
         ],
         [
@@ -41,8 +97,38 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'contact-us',
             'uniq_slug' => 'contact-us',
             "meta_information" => [
-                "title" => "About | S Art Beauty Center",
-                "description" => "At S Art Beauty, we provide the best service to our customers with our expert team and wide range of services.",
+                "title" => "About | Nur Art Academy",
+                "description" => "At Nur Art Academy, we provide the best service to our customers with our expert team and wide range of services.",
+
+            ]
+        ],
+        [
+            'lang' => 'en',
+            'slug' => 'galery',
+            'uniq_slug' => 'galery',
+            "meta_information" => [
+                "title" => "About | Nur Art Academy",
+                "description" => "At Nur Art Academy, we provide the best service to our customers with our expert team and wide range of services.",
+
+            ]
+        ],
+        [
+            'lang' => 'en',
+            'slug' => 'blog',
+            'uniq_slug' => 'blog',
+            "meta_information" => [
+                "title" => "About | Nur Art Academy",
+                "description" => "At Nur Art Academy, we provide the best service to our customers with our expert team and wide range of services.",
+
+            ]
+        ],
+        [
+            'lang' => 'en',
+            'slug' => 'otzywy',
+            'uniq_slug' => 'testimonials',
+            "meta_information" => [
+                "title" => "About | Nur Art Academy",
+                "description" => "At Nur Art Academy, we provide the best service to our customers with our expert team and wide range of services.",
 
             ]
         ],
@@ -51,8 +137,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'services/ice-laser-hair-removal',
             'uniq_slug' => 'ice-laser-hair-removal',
             "meta_information" => [
-                "title" => "Kadıköy - Ice Laser Epilation | S Art Beauty Center",
-                "description" => "Say goodbye to unwanted hair with ice laser epilation at S Art Beauty Center! Achieve smooth skin with this effective method tailored to your skin type.",
+                "title" => "Ashgabat - Ice Laser Epilation | Nur Art Academy",
+                "description" => "Say goodbye to unwanted hair with ice laser epilation at Nur Art Academy! Achieve smooth skin with this effective method tailored to your skin type.",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -96,8 +182,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'services/cellulite-massage',
             'uniq_slug' => 'cellulite-massage',
             "meta_information" => [
-                "title" => "Kadıköy - G5 Cellulite Massage | S Art Beauty Center",
-                "description" => "Do you want to get rid of cellulite appearance? At S Art Beauty Center, you can reliably and effectively reduce the appearance of cellulite with G5 Cellulite Massage!",
+                "title" => "Ashgabat - G5 Cellulite Massage | Nur Art Academy",
+                "description" => "Do you want to get rid of cellulite appearance? At Nur Art Academy, you can reliably and effectively reduce the appearance of cellulite with G5 Cellulite Massage!",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -141,7 +227,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'services/roll-shape',
             'uniq_slug' => 'roll-shape',
             "meta_information" => [
-                "title" => "Kadıköy - Roll Shape | S Art Beauty Center",
+                "title" => "Ashgabat - Roll Shape | Nur Art Academy",
                 "description" => "Rollshape combines traditional Far Eastern massage with modern technology to boost circulation and reduce cellulite.",
                 "snippets" => [
                     "faqs" => [
@@ -178,7 +264,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'services/brazillian-blow-dry',
             'uniq_slug' => 'brazillian-blow-dry',
             "meta_information" => [
-                "title" => "Kadıköy - Brazilian Blowout | S Art Beauty Center",
+                "title" => "Ashgabat - Brazilian Blowout | Nur Art Academy",
                 "description" => "Pamper your hair with Brazilian Blowout Treatment! Strengthen your hair and achieve a healthier look with our expert team.",
                 "snippets" => [
                     "faqs" => [
@@ -223,8 +309,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'services/skin-care',
             'uniq_slug' => 'skin-care',
             "meta_information" => [
-                "title" => "Kadıköy - Skin Care | S Art Beauty Center",
-                "description" => "Rejuvenate your skin with professional skin care at S Art Beauty Center! Refresh your skin with our experienced estheticians.",
+                "title" => "Ashgabat - Skin Care | Nur Art Academy",
+                "description" => "Rejuvenate your skin with professional skin care at Nur Art Academy! Refresh your skin with our experienced estheticians.",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -268,8 +354,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'services/deepliner',
             'uniq_slug' => 'deepliner',
             "meta_information" => [
-                "title" => "Kadıköy - Eyeliner and Dip Eyeliner | S Art Beauty Center",
-                "description" => "A permanent touch for your eyes: Achieve a perfect look with permanent eyeliner and dipliner application at S Art Beauty Center!",
+                "title" => "Ashgabat - Eyeliner and Dip Eyeliner | Nur Art Academy",
+                "description" => "A permanent touch for your eyes: Achieve a perfect look with permanent eyeliner and dipliner application at Nur Art Academy!",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -329,7 +415,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'services/lip-coloring',
             'uniq_slug' => 'lip-coloring',
             "meta_information" => [
-                "title" => "Kadıköy - Lip Coloring | S Art Beauty Center",
+                "title" => "Ashgabat - Lip Coloring | Nur Art Academy",
                 "description" => "Enhance your lips with a natural and attractive color through our lip tinting application. Book your appointment now for lasting beauty!",
                 "snippets" => [
                     "faqs" => [
@@ -390,7 +476,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'services/bridal-hair',
             'uniq_slug' => 'bridal-hair',
             "meta_information" => [
-                "title" => "Kadıköy - Bridal Hair | S Art Beauty Center",
+                "title" => "Ashgabat - Bridal Hair | Nur Art Academy",
                 "description" => "Look stunning on your special day with beautiful bridal hairstyles! Discover your dream bridal hair with our experts.",
                 "snippets" => [
                     "faqs" => [
@@ -451,8 +537,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'services/silk-eyelash',
             'uniq_slug' => 'silk-eyelash',
             "meta_information" => [
-                "title" => "Kadıköy - Silk Eyelash | S Art Beauty Center",
-                "description" => "Achieve a lasting and natural look with silk eyelash extensions at S Art Beauty Center. Add value to your beauty!",
+                "title" => "Ashgabat - Silk Eyelash | Nur Art Academy",
+                "description" => "Achieve a lasting and natural look with silk eyelash extensions at Nur Art Academy. Add value to your beauty!",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -512,8 +598,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'services/eyebrow-lamination',
             'uniq_slug' => 'eyebrow-lamination',
             "meta_information" => [
-                "title" => "Kadıköy - Eyebrow Lamination | S Art Beauty Center",
-                "description" => "For natural and striking eyebrows, try brow lamination at S Art Beauty Center! Achieve fuller and more defined brows with our experts.",
+                "title" => "Ashgabat - Eyebrow Lamination | Nur Art Academy",
+                "description" => "For natural and striking eyebrows, try brow lamination at Nur Art Academy! Achieve fuller and more defined brows with our experts.",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -573,8 +659,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'services/permanent-nail-polish',
             'uniq_slug' => 'permanent-nail-polish',
             "meta_information" => [
-                "title" => "Kadıköy - Permanent Nail Polish | S Art Beauty Center",
-                "description" => "Add elegance to your nails with permanent nail polish at S Art Beauty Center! Discover our permanent nail polish applications featuring a wide range of colors.",
+                "title" => "Ashgabat - Permanent Nail Polish | Nur Art Academy",
+                "description" => "Add elegance to your nails with permanent nail polish at Nur Art Academy! Discover our permanent nail polish applications featuring a wide range of colors.",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -634,8 +720,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'services/keratin-care',
             'uniq_slug' => 'keratin-care',
             "meta_information" => [
-                "title" => "Kadıköy - Keratin Care | S Art Beauty Center ",
-                "description" => "A special touch for your hair: Provide deep care for your dry and damaged hair with keratin treatment at S Art Beauty Center.",
+                "title" => "Ashgabat - Keratin Care | Nur Art Academy ",
+                "description" => "A special touch for your hair: Provide deep care for your dry and damaged hair with keratin treatment at Nur Art Academy.",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -695,7 +781,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'services/eyelash-lifting',
             'uniq_slug' => 'eyelash-lifting',
             "meta_information" => [
-                "title" => "Kadıköy - Eyelash Lifting | S Art Beauty Center ",
+                "title" => "Ashgabat - Eyelash Lifting | Nur Art Academy ",
                 "description" => "Highlight Your Eyes: Achieve a Natural and Stunning Look with Lash Lifting! Book your appointment now!",
                 "snippets" => [
                     "faqs" => [
@@ -756,7 +842,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'services/manicure-pedicure',
             'uniq_slug' => 'manicure-pedicure',
             "meta_information" => [
-                "title" => "Kadıköy - Manicure and Pedicure | S Art Beauty Center ",
+                "title" => "Ashgabat - Manicure and Pedicure | Nur Art Academy ",
                 "description" => "Strengthen your nails and complete your elegance with a manicure and pedicure. Call now to book your appointment.",
                 "snippets" => [
                     "faqs" => [
@@ -801,7 +887,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'services/microblading',
             'uniq_slug' => 'microblading',
             "meta_information" => [
-                "title" => "Kadıköy - Microblading | S Art Beauty Center ",
+                "title" => "Ashgabat - Microblading | Nur Art Academy ",
                 "description" => "Achieve permanent and natural-looking eyebrows that suit your face with microblading. Book your appointment now!",
                 "snippets" => [
                     "faqs" => [
@@ -846,8 +932,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'services/nail-art',
             'uniq_slug' => 'nail-art',
             "meta_information" => [
-                "title" => "Kadıköy - Nail Art | S Art Beauty Center ",
-                "description" => "Add color to your nails at S Art Beauty Center! Create unique nail designs with nail art alongside our experts. Book your appointment now!",
+                "title" => "Ashgabat - Nail Art | Nur Art Academy ",
+                "description" => "Add color to your nails at Nur Art Academy! Create unique nail designs with nail art alongside our experts. Book your appointment now!",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -883,7 +969,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'services/perming',
             'uniq_slug' => 'perming',
             "meta_information" => [
-                "title" => "Kadıköy - Perm Hairstyle| S Art Beauty Center ",
+                "title" => "Ashgabat - Perm Hairstyle| Nur Art Academy ",
                 "description" => "Achieve Wavy and Voluminous Hair with a Perm! Book Your Appointment Now and Get the Hair of Your Dreams!",
                 "snippets" => [
                     "faqs" => [
@@ -920,8 +1006,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'services/prosthetic-nails',
             'uniq_slug' => 'prosthetic-nails',
             "meta_information" => [
-                "title" => "Kadıköy - Prosthetic Nails | S Art Beauty Center ",
-                "description" => "Create a unique style for your nails with prosthetic nail designs at S Art Beauty Center. Achieve custom-designed nails with our experts.",
+                "title" => "Ashgabat - Prosthetic Nails | Nur Art Academy ",
+                "description" => "Create a unique style for your nails with prosthetic nail designs at Nur Art Academy. Achieve custom-designed nails with our experts.",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -957,8 +1043,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'services/hair-color-highlights',
             'uniq_slug' => 'hair-color-highlights',
             "meta_information" => [
-                "title" => "Kadıköy - Hair Highlights | S Art Beauty Center ",
-                "description" => "Achieve a natural and attractive look with highlights at S Art Beauty Center. Book your appointment now!",
+                "title" => "Ashgabat - Hair Highlights | Nur Art Academy ",
+                "description" => "Achieve a natural and attractive look with highlights at Nur Art Academy. Book your appointment now!",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -994,8 +1080,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'services/hair-dye',
             'uniq_slug' => 'hair-dye',
             "meta_information" => [
-                "title" => "Kadıköy - Hair Dye | S Art Beauty Center",
-                "description" => "Various hair dye options for your hair at S Art Beauty Center! Book your appointment now.",
+                "title" => "Ashgabat - Hair Dye | Nur Art Academy",
+                "description" => "Various hair dye options for your hair at Nur Art Academy! Book your appointment now.",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -1031,8 +1117,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'services/hair-dip-dye',
             'uniq_slug' => 'hair-dip-dye',
             "meta_information" => [
-                "title" => "Kadıköy - Hair Dip Dye | S Art Beauty Center  ",
-                "description" => "Add vibrancy to your hair with root touch-up at S Art Beauty Center. Trust our experts to achieve a natural and attractive look.",
+                "title" => "Ashgabat - Hair Dip Dye | Nur Art Academy  ",
+                "description" => "Add vibrancy to your hair with root touch-up at Nur Art Academy. Trust our experts to achieve a natural and attractive look.",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -1068,8 +1154,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'services/hair-cut',
             'uniq_slug' => 'hair-cut',
             "meta_information" => [
-                "title" => "Kadıköy - Hair Cut | S Art Beauty Center ",
-                "description" => "Highlight your style! Achieve a unique look with a haircut at S Art Beauty Center. Book your appointment now!",
+                "title" => "Ashgabat - Hair Cut | Nur Art Academy ",
+                "description" => "Highlight your style! Achieve a unique look with a haircut at Nur Art Academy. Book your appointment now!",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -1077,7 +1163,7 @@ class RoutesTableSeeder extends Seeder
                             "name" => "Different Haircuts",
                             "acceptedAnswer" => [
                                 "type" => "Answer",
-                                "text" => "At S Art Beauty Center, you can choose from different hair cutting styles, including straight cuts, layered cuts, short hair, and long hair. Our experts will recommend the most suitable haircut for you, taking into consideration your hair type and facial features.",
+                                "text" => "At Nur Art Academy, you can choose from different hair cutting styles, including straight cuts, layered cuts, short hair, and long hair. Our experts will recommend the most suitable haircut for you, taking into consideration your hair type and facial features.",
                             ]
                         ],
                         [
@@ -1105,7 +1191,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'services/hair-extension',
             'uniq_slug' => 'hair-extension',
             "meta_information" => [
-                "title" => "Kadıköy - Hair Extension | S Art Beauty Center ",
+                "title" => "Ashgabat - Hair Extension | Nur Art Academy ",
                 "description" => "A special touch for your hair! Achieve your desired style with hair extensions. Call now to book your appointment.",
                 "snippets" => [
                     "faqs" => [
@@ -1142,8 +1228,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'services/wax-application',
             'uniq_slug' => 'wax-application',
             "meta_information" => [
-                "title" => "Kadıköy - Wax | S Art Beauty Center ",
-                "description" => "Experience smooth, hair-free skin with professional waxing services at S Art Beauty Center. Book your appointment now!",
+                "title" => "Ashgabat - Wax | Nur Art Academy ",
+                "description" => "Experience smooth, hair-free skin with professional waxing services at Nur Art Academy. Book your appointment now!",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -1183,30 +1269,86 @@ class RoutesTableSeeder extends Seeder
                 "description" => "Privacy Policy, Terms of Use, and Cookie Policys",
             ]
         ],
-        // TODO: ---------------------------- TK ---------------------------- //
+        // TODO: ---------------------------- tk ---------------------------- //
+        // Sart Academy için eklenenler
         [
-            'lang' => 'tk', 'slug' => 'hizmetlerimiz',
-            'uniq_slug' => 'services',
+            'lang' => 'tk', 'slug' => 'egitimlerimiz',
+            'uniq_slug' => 'our-courses',
             "meta_information" => [
-                "title" => "Kadıköy Güzellik Salonu Hizmetlerimiz | S Art Beauty Center",
-                "description" => "Kadıköy güzellik merkezi olarak, profesyonel cilt bakımı, lazer epilasyon, masaj, saç bakımı ve makyaj hizmetlerimizle güzelliğinize değer katıyoruz.",
-            ]
-        ],
-        [
-            'lang' => 'tk', 'slug' => '/',
-            'uniq_slug' => 'index',
-            "meta_information" => [
-                "title" => "Kadıköy Güzellik Merkezi | S Art Beauty Center",
-                "description" => "S Art Beauty Güzellik Merkezi'nde buz lazer epilasyondan tırnak bakımına, cilt bakımından saç bakım hizmetlerine kadar geniş bir yelpazede hizmet sunuyoruz.",
+                "title" => "Ashgabat  Salonu Hizmetlerimiz | Nur Art Academy",
+                "description" => " Kariyerinize Başlamak İçin En İyi Seçim: Sart Beauty Academy ",
             ]
         ],
         [
             'lang' => 'tk',
-            'slug' => 'hakkimizda',
+            'slug' => 'egitimlerimiz/ipek-kirpik',
+            'uniq_slug' => 'silk-eyelash-academy',
+            "meta_information" => [
+                "title" => "Nur Art Academy Sapaklarymyz | Nur Art Academy",
+                "description" => " Kariyerinize Başlamak İçin En İyi Seçim: Sart Beauty Academy.",
+            ]
+        ],
+        [
+            'lang' => 'tk',
+            'slug' => 'egitimlerimiz/protez-tirnak',
+            'uniq_slug' => 'prosthetic-nails-academy',
+            "meta_information" => [
+                "title" => "Nur Art Academy Sapaklarymyz | Nur Art Academy",
+                "description" => " Kariyerinize Başlamak İçin En İyi Seçim: Sart Beauty Academy.",
+            ]
+        ],
+        [
+            'lang' => 'tk',
+            'slug' => 'egitimlerimiz/sac-kaynak',
+            'uniq_slug' => 'hair-extension-academy',
+            "meta_information" => [
+                "title" => "Nur Art Academy Sapaklarymyz | Nur Art Academy",
+                "description" => " Kariyerinize Başlamak İçin En İyi Seçim: Sart Beauty Academy.",
+            ]
+        ],
+        [
+            'lang' => 'tk',
+            'slug' => 'egitimlerimiz/guzellik-uzmani',
+            'uniq_slug' => 'beauty-master-academy',
+            "meta_information" => [
+                "title" => "Nur Art Academy Sapaklarymyz | Nur Art Academy",
+                "description" => " Kariyerinize Başlamak İçin En İyi Seçim: Sart Beauty Academy.",
+            ]
+        ],
+        [
+            'lang' => 'tk',
+            'slug' => 'egitimlerimiz/kalici-makiyaj',
+            'uniq_slug' => 'permanent-makeup-academy',
+            "meta_information" => [
+                "title" => "Nur Art Academy Sapaklarymyz | Nur Art Academy",
+                "description" => " Kariyerinize Başlamak İçin En İyi Seçim: Sart Beauty Academy.",
+            ]
+        ],
+        // End egitim için eklenen
+        [
+            'lang' => 'tk', 'slug' => 'hizmetlerimiz',
+            'uniq_slug' => 'services',
+            "meta_information" => [
+                "title" => "Ashgabat  Salonu Hizmetlerimiz | Nur Art Academy",
+                "description" => "Ashgabat  merkezi olarak, profesyonel cilt bakımı, lazer epilasyon, masaj, saç bakımı ve makyaj hizmetlerimizle güzelliğinize değer katıyoruz.",
+            ]
+        ],
+        [
+            'lang' => 'tk',
+            'slug' => '/',
+            'uniq_slug' => 'index',
+            "meta_information" => [
+                "title" => "Nur Art Academy | Nur Art Academy",
+                "description" => "Nur Art Academy  Merkezi'nde buz lazer epilasyondan tırnak bakımına, cilt bakımından saç bakım hizmetlerine kadar geniş bir yelpazede hizmet sunuyoruz.",
+            ]
+        ],
+        [
+            'lang' => 'tk',
+            'slug' => 'biz_hakda',
             'uniq_slug' => 'about-us',
             "meta_information" => [
-                "title" => "Hakkımızda | S Art Beauty Center",
-                "description" => "S Art Beauty olarak, uzman kadromuz ve geniş hizmet yelpazemizle, müşterilerimize en iyi hizmeti sunmaktayız.",
+                "title" => "Biz Hakda | Nur Art Academy",
+                "description" => "Nur Art Akademiýasy, döredijilik we estetikanyň duşuşýan sungat söýüjileri üçin ylham berýän bilim merkezi hökmünde döredildi. Biziň maksadymyz dürli ýaşdaky we derejeli okuwçylara çeper zehinini ýüze çykarmaga we ösdürmäge we özboluşly eserleri döretmäge mümkinçilik bermek.",
             ]
         ],
         [
@@ -1214,8 +1356,37 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'iletisim',
             'uniq_slug' => 'contact-us',
             "meta_information" => [
-                "title" => "Kadıköy - İletişim | S Art Beauty Center",
+                "title" => "Ashgabat - İletişim | Nur Art Academy",
                 "description" => "İletişim sayfamız üzerinden bize mesaj göndererek, randevu talebinde bulunabilir veya hizmetlerimiz hakkında daha fazla bilgi alabilirsiniz.",
+            ]
+        ],
+        [
+            'lang' => 'tk',
+            'slug' => 'galereyamyz',
+            'uniq_slug' => 'galery',
+            "meta_information" => [
+                "title" => "Ashgabat - İletişim | Nur Art Academy",
+                "description" => "İletişim sayfamız üzerinden bize mesaj göndererek, randevu talebinde bulunabilir veya hizmetlerimiz hakkında daha fazla bilgi alabilirsiniz.",
+            ]
+        ],
+        [
+            'lang' => 'tk',
+            'slug' => 'blog',
+            'uniq_slug' => 'blog',
+            "meta_information" => [
+                "title" => "About | Nur Art Academy",
+                "description" => "At Nur Art Academy, we provide the best service to our customers with our expert team and wide range of services.",
+
+            ]
+        ],
+        [
+            'lang' => 'tk',
+            'slug' => 'otzywy',
+            'uniq_slug' => 'testimonials',
+            "meta_information" => [
+                "title" => "About | Nur Art Academy",
+                "description" => "At Nur Art Academy, we provide the best service to our customers with our expert team and wide range of services.",
+
             ]
         ],
         [
@@ -1223,8 +1394,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'hizmetlerimiz/buz-lazer-epilasyon',
             'uniq_slug' => 'ice-laser-hair-removal',
             "meta_information" => [
-                "title" => "Kadıköy - Buz Lazer Epilasyon | S Art Beauty Center",
-                "description" => "S Art Beauty Center'da buz lazer epilasyon ile tüylerle vedalaşın! Cilt tipinize uygun olarak uygulanan bu etkili yöntemle pürüzsüz bir cilde sahip olun. ",
+                "title" => "Ashgabat - Buz Lazer Epilasyon | Nur Art Academy",
+                "description" => "Nur Art Academy'da buz lazer epilasyon ile tüylerle vedalaşın! Cilt tipinize uygun olarak uygulanan bu etkili yöntemle pürüzsüz bir cilde sahip olun. ",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -1260,8 +1431,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'hizmetlerimiz/selulit-masaji',
             'uniq_slug' => 'cellulite-massage',
             "meta_information" => [
-                "title" => "Kadıköy - G5 Selülit Masajı | S Art Beauty Center",
-                "description" => "Selülit görünümünden kurtulmak mı istiyorsunuz? S Art Beauty Center'da G5 Selülit Masajı ile selülit görünümünü güvenilir ve etkili bir şekilde azaltabilirsiniz!",
+                "title" => "Ashgabat - G5 Selülit Masajı | Nur Art Academy",
+                "description" => "Selülit görünümünden kurtulmak mı istiyorsunuz? Nur Art Academy'da G5 Selülit Masajı ile selülit görünümünü güvenilir ve etkili bir şekilde azaltabilirsiniz!",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -1305,7 +1476,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'roll-shape',
             'uniq_slug' => 'roll-shape',
             "meta_information" => [
-                "title" => "Kadıköy - Roll Shape  | S Art Beauty Center",
+                "title" => "Ashgabat - Roll Shape  | Nur Art Academy",
                 "description" => "Geleneksel Uzakdoğu masaj tekniğinin modern teknolojiyle birleştiği Rollshape, kan dolaşımını hızlandırarak, rahatlama ve selülit giderme etkileri sunar.",
                 "snippets" => [
                     "faqs" => [
@@ -1342,7 +1513,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'hizmetlerimiz/brezilya-fonu',
             'uniq_slug' => 'brazillian-blow-dry',
             "meta_information" => [
-                "title" => "Kadıköy - Brezilya Fönü Set Bakımı | S Art Beauty Center",
+                "title" => "Ashgabat - Brezilya Fönü Set Bakımı | Nur Art Academy",
                 "description" => "Saçlarınıza Brezilya Fönü Set Bakımı ile özen gösterin! Uzman ekibimizle, saçlarınızı güçlendirin ve daha sağlıklı bir görünüm elde edin.",
                 "snippets" => [
                     "faqs" => [
@@ -1387,8 +1558,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'hizmetlerimiz/cilt-bakimi',
             'uniq_slug' => 'skin-care',
             "meta_information" => [
-                "title" => "Kadıköy - Profesyonel Cilt Bakımı | S Art Beauty Center",
-                "description" => "S Art Beauty Center'da profesyonel cilt bakımı ile cildinizi yeniden canlandırın! Deneyimli estetisyenlerimizle birlikte cildinizini yenileyin.",
+                "title" => "Ashgabat - Profesyonel Cilt Bakımı | Nur Art Academy",
+                "description" => "Nur Art Academy'da profesyonel cilt bakımı ile cildinizi yeniden canlandırın! Deneyimli estetisyenlerimizle birlikte cildinizini yenileyin.",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -1432,8 +1603,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'hizmetlerimiz/dipliner',
             'uniq_slug' => 'deepliner',
             "meta_information" => [
-                "title" => "Kadıköy - Kalıcı Eyeliner ve Dipliner | S Art Beauty Center",
-                "description" => "Gözlerinize kalıcı bir dokunuş: S Art Beauty Center'da kalıcı eyeliner ve dipliner uygulaması ile mükemmel bir görünüm elde edin!",
+                "title" => "Ashgabat - Kalıcı Eyeliner ve Dipliner | Nur Art Academy",
+                "description" => "Gözlerinize kalıcı bir dokunuş: Nur Art Academy'da kalıcı eyeliner ve dipliner uygulaması ile mükemmel bir görünüm elde edin!",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -1441,7 +1612,7 @@ class RoutesTableSeeder extends Seeder
                             "name" => "Kalıcı Dipliner Nedir?",
                             "acceptedAnswer" => [
                                 "type" => "Answer",
-                                "text" => "Kalıcı Dipliner kirpikleri ve kirpik diplerini daha belirgin hale getirmek için uygulanan bir kalıcı makyaj yöntemidir. Dipliner ile kalıcı olarak daha etkileyici, daha belirgin ve daha güzel bakışlar elde edebilmek mümkündür.",
+                                "text" => "Kalıcı Dipliner kirpikleri ve kirpik diplerini daha belirgin hale getirmek için uygulanan bir Heýkel yöntemidir. Dipliner ile kalıcı olarak daha etkileyici, daha belirgin ve daha güzel bakışlar elde edebilmek mümkündür.",
                             ]
                         ],
                         [
@@ -1493,8 +1664,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'hizmetlerimiz/dudak-renklendirme',
             'uniq_slug' => 'lip-coloring',
             "meta_information" => [
-                "title" => "Kadıköy - Dudak Renklendirme | S Art Beauty Center",
-                "description" => "Dudak renklendirme uygulamasıyla dudaklarınıza doğal ve çekici bir renk kazandırın. Kalıcı güzellik için hemen randevunuzu alın! ",
+                "title" => "Ashgabat - Dudak Renklendirme | Nur Art Academy",
+                "description" => "Dudak renklendirme uygulamasıyla dudaklarınıza doğal ve çekici bir renk kazandırın. Kalıcı  için hemen randevunuzu alın! ",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -1555,7 +1726,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'hizmetlerimiz/gelin-topuzu',
             'uniq_slug' => 'bridal-hair',
             "meta_information" => [
-                "title" => "Kadıköy - Gelin Saç Modelleri | S Art Beauty Center",
+                "title" => "Ashgabat - Gelin Saç Modelleri | Nur Art Academy",
                 "description" => "Muhteşem gelin saç modelleriyle özel gününüzde muhteşem görünün! Uzmanlarımızla birlikte hayalinizdeki gelin saçını keşfedin.",
                 "snippets" => [
                     "faqs" => [
@@ -1606,7 +1777,7 @@ class RoutesTableSeeder extends Seeder
                                 "type" => "Answer",
                                 "text" => "Gelin topuzu farklı saç tiplerine uyar. Orta uzunlukta veya uzun saçlar için idealdir. Ancak kısa saçlar için saç ekleri kullanarak da gelin topuzu oluşturulabilir.
 
-                                En özel gününüzde gelin topuzu ile büyüleyici bir görünüm elde edin. S Art Beauty Center'da size özel hazırlanan gelin topuzu tasarımlarıyla düğününüzü taçlandırın.",
+                                En özel gününüzde gelin topuzu ile büyüleyici bir görünüm elde edin. Nur Art Academy'da size özel hazırlanan gelin topuzu tasarımlarıyla düğününüzü taçlandırın.",
                             ]
                         ]
                     ]
@@ -1618,24 +1789,24 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'hizmetlerimiz/ipek-kirpik',
             'uniq_slug' => 'silk-eyelash',
             "meta_information" => [
-                "title" => "Kadıköy - İpek Kirpik Uygulamaları | S Art Beauty Center",
-                "description" => "S Art Beauty Center'da ipek kirpik uygulamalarıyla kalıcı ve doğal bir görünüm elde edin. Güzelliğinize değer katın!",
+                "title" => "Ashgabat - Surat çekmek Uygulamaları | Nur Art Academy",
+                "description" => "Nur Art Academy'da ipek kirpik uygulamalarıyla kalıcı ve doğal bir görünüm elde edin. Güzelliğinize değer katın!",
                 "snippets" => [
                     "faqs" => [
                         [
                             "@type" => "Question",
-                            "name" => "İpek Kirpik Nedir?",
+                            "name" => "Surat çekmek Nedir?",
                             "acceptedAnswer" => [
                                 "type" => "Answer",
-                                "text" => "İpek Kirpik, doğal kirpiklerin uzunluğunu ve hacmini artırmak için sentetik tüylerin özel bir yapıştırıcı ile yapıştırılması yoluyla gerçekleştirilen popüler bir kozmetik işlemdir. Bu işlemi bir kozmetolog, makyaj artisti veya bir kirpik uzmanı (lashmaker) yapabilir.",
+                                "text" => "Surat çekmek, doğal kirpiklerin uzunluğunu ve hacmini artırmak için sentetik tüylerin özel bir yapıştırıcı ile yapıştırılması yoluyla gerçekleştirilen popüler bir kozmetik işlemdir. Bu işlemi bir kozmetolog, makyaj artisti veya bir kirpik uzmanı (lashmaker) yapabilir.",
                             ]
                         ],
                         [
                             "@type" => "Question",
-                            "name" => "İpek Kirpik Uygulaması Ağrılı mıdır?",
+                            "name" => "Surat çekmek Uygulaması Ağrılı mıdır?",
                             "acceptedAnswer" => [
                                 "type" => "Answer",
-                                "text" => "İpek kirpik uygulaması genellikle ağrısız ve rahat bir süreçtir. Uzman bir estetisyen tarafından profesyonelce yapılırsa rahatlıkla uygulanabilir.",
+                                "text" => "Surat çekmek uygulaması genellikle ağrısız ve rahat bir süreçtir. Uzman bir estetisyen tarafından profesyonelce yapılırsa rahatlıkla uygulanabilir.",
                             ]
                         ],
                         [
@@ -1651,7 +1822,7 @@ class RoutesTableSeeder extends Seeder
                             "name" => "Ne Kadar Süre Dayanır?",
                             "acceptedAnswer" => [
                                 "type" => "Answer",
-                                "text" => "İpek kirpikler genellikle 3-4 hafta boyunca kalıcılık gösterir. Doğal kirpiklerin dökülme döngüsüne bağlı olarak bakım süreleri farklılık gösterebilir.",
+                                "text" => "Surat çekmekler genellikle 3-4 hafta boyunca kalıcılık gösterir. Doğal kirpiklerin dökülme döngüsüne bağlı olarak bakım süreleri farklılık gösterebilir.",
                             ]
                         ],
                         [
@@ -1659,15 +1830,15 @@ class RoutesTableSeeder extends Seeder
                             "name" => "Hangi Kirpik Stilleri Tercih Edilebilir?",
                             "acceptedAnswer" => [
                                 "type" => "Answer",
-                                "text" => "İpek kirpiklerde doğal, dramatik veya kedi gözü gibi farklı stiller tercih edilebilir. Uzmanınızla konuşarak size en uygun stilinizi belirleyebilirsiniz.",
+                                "text" => "Surat çekmeklerde doğal, dramatik veya kedi gözü gibi farklı stiller tercih edilebilir. Uzmanınızla konuşarak size en uygun stilinizi belirleyebilirsiniz.",
                             ]
                         ],
                         [
                             "@type" => "Question",
-                            "name" => "Kimler İpek Kirpik Yaptırabilir?",
+                            "name" => "Kimler Surat çekmek Yaptırabilir?",
                             "acceptedAnswer" => [
                                 "type" => "Answer",
-                                "text" => "İpek kirpikler hemen hemen herkese uygulanabilir. Ancak göz alerjisi veya enfeksiyon durumları olanlar için uzman bir danışmanlık önerilir.",
+                                "text" => "Surat çekmekler hemen hemen herkese uygulanabilir. Ancak göz alerjisi veya enfeksiyon durumları olanlar için uzman bir danışmanlık önerilir.",
                             ]
                         ],
                     ]
@@ -1679,8 +1850,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'hizmetlerimiz/kas-laminasyon',
             'uniq_slug' => 'eyebrow-lamination',
             "meta_information" => [
-                "title" => "Kadıköy - Kaş Laminasyonu | S Art Beauty Center",
-                "description" => "Doğal ve çarpıcı kaşlar için S Art Beauty Center'da kaş laminasyonu! Uzmanlarımızla birlikte kaşlarınıza daha dolgun ve düzgün bir görünüm kazandırın.",
+                "title" => "Ashgabat - Kaş Laminasyonu | Nur Art Academy",
+                "description" => "Doğal ve çarpıcı kaşlar için Nur Art Academy'da kaş laminasyonu! Uzmanlarımızla birlikte kaşlarınıza daha dolgun ve düzgün bir görünüm kazandırın.",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -1732,8 +1903,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'hizmetlerimiz/kalici-oje',
             'uniq_slug' => 'permanent-nail-polish',
             "meta_information" => [
-                "title" => "Kadıköy - Kalıcı Oje Modelleri | S Art Beauty Center",
-                "description" => "S Art Beauty Center'da kalıcı oje modelleriyle tırnaklarınıza şıklık katın! Geniş renk seçenekleriyle öne çıkan kalıcı oje uygulamalarımızı keşfedin. ",
+                "title" => "Ashgabat - Kalıcı Oje Modelleri | Nur Art Academy",
+                "description" => "Nur Art Academy'da kalıcı oje modelleriyle tırnaklarınıza şıklık katın! Geniş renk seçenekleriyle öne çıkan kalıcı oje uygulamalarımızı keşfedin. ",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -1785,8 +1956,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'hizmetlerimiz/keratin-bakimi',
             'uniq_slug' => 'keratin-care',
             "meta_information" => [
-                "title" => "Kadıköy - Keratin Bakımı | S Art Beauty Center ",
-                "description" => "Saçlarınıza özel bir dokunuş: S Art Beauty Center'da keratin bakımı ile kuru ve yıpranmış saçlarınıza derinlemesine bakım yapın.",
+                "title" => "Ashgabat - Keratin Bakımı | Nur Art Academy ",
+                "description" => "Saçlarınıza özel bir dokunuş: Nur Art Academy'da keratin bakımı ile kuru ve yıpranmış saçlarınıza derinlemesine bakım yapın.",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -1838,7 +2009,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'hizmetlerimiz/kirpik-lifting',
             'uniq_slug' => 'eyelash-lifting',
             "meta_information" => [
-                "title" => "Kadıköy - Kirpik Lifting | S Art Beauty Center ",
+                "title" => "Ashgabat - Kirpik Lifting | Nur Art Academy ",
                 "description" => "Gözlerinizi Ön Plana Çıkarın: Kirpik Lifting ile Doğal ve Etkileyici Bir Görünüm! Hemen randevunuzu alın! ",
                 "snippets" => [
                     "faqs" => [
@@ -1899,7 +2070,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'hizmetlerimiz/manikur-ve-pedikur',
             'uniq_slug' => 'manicure-pedicure',
             "meta_information" => [
-                "title" => "Kadıköy - Manikür ve Pedikür | S Art Beauty Center ",
+                "title" => "Ashgabat - Manikür ve Pedikür | Nur Art Academy ",
                 "description" => "Manikür ve pedikür ile tırnaklarınızı güçlendirin ve şıklığınızı tamamlayın. Randevu için hemen arayın.",
                 "snippets" => [
                     "faqs" => [
@@ -1952,7 +2123,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'hizmetlerimiz/microblading',
             'uniq_slug' => 'microblading',
             "meta_information" => [
-                "title" => "Kadıköy - Microblading | S Art Beauty Center ",
+                "title" => "Ashgabat - Microblading | Nur Art Academy ",
                 "description" => "Microblading ile yüzünüze uygun, kalıcı ve doğal görünümlü kaşlara sahip olun. Randevunuzu hemen alın!",
                 "snippets" => [
                     "faqs" => [
@@ -2013,8 +2184,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'hizmetlerimiz/nail-art',
             'uniq_slug' => 'nail-art',
             "meta_information" => [
-                "title" => "Kadıköy - Nail Art Modelleri | S Art Beauty Center ",
-                "description" => "S Art Beauty Center'da tırnaklarınıza renk katın! Uzmanlarımızla birlikte nail art ile benzersiz tırnak tasarımları yaratın. Şimdi randevunuzu alın!",
+                "title" => "Ashgabat - Nail Art Modelleri | Nur Art Academy ",
+                "description" => "Nur Art Academy'da tırnaklarınıza renk katın! Uzmanlarımızla birlikte nail art ile benzersiz tırnak tasarımları yaratın. Şimdi randevunuzu alın!",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -2050,7 +2221,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'hizmetlerimiz/perma',
             'uniq_slug' => 'perming',
             "meta_information" => [
-                "title" => "Kadıköy - Perma Saç Modelleri | S Art Beauty Center ",
+                "title" => "Ashgabat - Perma Saç Modelleri | Nur Art Academy ",
                 "description" => "Perma Saç ile Dalgalı ve Hacimli Saçlara Sahip Olun! Hemen Randevunuzu Alın ve Hayalini Kurduğunuz Saçlara Sahip Olun!",
                 "snippets" => [
                     "faqs" => [
@@ -2087,32 +2258,32 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'hizmetlerimiz/protez-tirnak',
             'uniq_slug' => 'prosthetic-nails',
             "meta_information" => [
-                "title" => "Kadıköy - Protez Tırnak Modelleri | S Art Beauty Center ",
-                "description" => "S Art Beauty Center'da protez tırnak modelleri ile tırnaklarınızda benzersiz bir tarz yaratın. Uzmanlarımızla birlikte özel tasarım tırnaklara sahip olun.",
+                "title" => "Ashgabat - Aýdym-Saz  Modelleri | Nur Art Academy ",
+                "description" => "Nur Art Academy'da Aýdym-Saz  modelleri ile tırnaklarınızda benzersiz bir tarz yaratın. Uzmanlarımızla birlikte özel tasarım tırnaklara sahip olun.",
                 "snippets" => [
                     "faqs" => [
                         [
                             "@type" => "Question",
-                            "name" => "Protez Tırnak Nedir?",
+                            "name" => "Aýdym-Saz  Nedir?",
                             "acceptedAnswer" => [
                                 "type" => "Answer",
-                                "text" => "Protez tırnaklar, tırnakların uzatılması, şekillendirilmesi ve güçlendirilmesi için kullanılan yapay tırnaklardır.",
+                                "text" => "Aýdym-Saz lar, tırnakların uzatılması, şekillendirilmesi ve güçlendirilmesi için kullanılan yapay tırnaklardır.",
                             ]
                         ],
                         [
                             "@type" => "Question",
-                            "name" => "Protez Tırnaklar Gerçekçi mi Durur?",
+                            "name" => "Aýdym-Saz lar Gerçekçi mi Durur?",
                             "acceptedAnswer" => [
                                 "type" => "Answer",
-                                "text" => "Evet, protez tırnaklar doğal tırnak görünümüne uygun olarak hazırlanır ve gerçekçi bir görünüm sunar.",
+                                "text" => "Evet, Aýdym-Saz lar doğal tırnak görünümüne uygun olarak hazırlanır ve gerçekçi bir görünüm sunar.",
                             ]
                         ],
                         [
                             "@type" => "Question",
-                            "name" => " Protez Tırnaklar Ne Kadar Süre Kalıcıdır?",
+                            "name" => " Aýdym-Saz lar Ne Kadar Süre Kalıcıdır?",
                             "acceptedAnswer" => [
                                 "type" => "Answer",
-                                "text" => "Protez tırnaklar genellikle 2 ila 4 hafta arasında kalıcıdır. Süre, tırnak büyüme hızına bağlı olarak değişebilir.",
+                                "text" => "Aýdym-Saz lar genellikle 2 ila 4 hafta arasında kalıcıdır. Süre, tırnak büyüme hızına bağlı olarak değişebilir.",
                             ]
                         ],
                     ]
@@ -2124,8 +2295,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'hizmetlerimiz/rofle',
             'uniq_slug' => 'hair-color-highlights',
             "meta_information" => [
-                "title" => "Kadıköy - Röfle Saç Modelleri | S Art Beauty Center ",
-                "description" => "Röfle saç modelleri için S Art Beauty Center'da doğal ve çekici görünüme kavuşun. Hemen randevunuzu alın!",
+                "title" => "Ashgabat - Röfle Saç Modelleri | Nur Art Academy ",
+                "description" => "Röfle saç modelleri için Nur Art Academy'da doğal ve çekici görünüme kavuşun. Hemen randevunuzu alın!",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -2161,8 +2332,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'hizmetlerimiz/sac-boyasi',
             'uniq_slug' => 'hair-dye',
             "meta_information" => [
-                "title" => "Kadıköy - Saç Boyası Modelleri | S Art Beauty Center ",
-                "description" => "Saçlarınız için S Art Beauty Center'da çeşitli saç boyası seçenekleri! Hemen randevunuzu oluşturun.",
+                "title" => "Ashgabat - Saç Boyası Modelleri | Nur Art Academy ",
+                "description" => "Saçlarınız için Nur Art Academy'da çeşitli saç boyası seçenekleri! Hemen randevunuzu oluşturun.",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -2198,8 +2369,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'hizmetlerimiz/dip-boyasi',
             'uniq_slug' => 'hair-dip-dye',
             "meta_information" => [
-                "title" => "Kadıköy - Dip Boya Uygulaması | S Art Beauty Center ",
-                "description" => "Dip boya uygulaması ile S Art Beauty Center'da saçlarınıza canlılık katın. Uzman ellere güvenin, doğal ve çekici bir görünüm elde edin. ",
+                "title" => "Ashgabat - Dip Boya Uygulaması | Nur Art Academy ",
+                "description" => "Dip boya uygulaması ile Nur Art Academy'da saçlarınıza canlılık katın. Uzman ellere güvenin, doğal ve çekici bir görünüm elde edin. ",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -2235,8 +2406,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'hizmetlerimiz/sac-kesim',
             'uniq_slug' => 'hair-cut',
             "meta_information" => [
-                "title" => "Kadıköy - Saç Kesim Modelleri | S Art Beauty Center ",
-                "description" => "Tarzınızı ön plana çıkarın! S Art Beauty Center'da saç kesimiyle benzersiz bir görünüm elde edin. Randevunuzu şimdi oluşturun!",
+                "title" => "Ashgabat - Saç Kesim Modelleri | Nur Art Academy ",
+                "description" => "Tarzınızı ön plana çıkarın! Nur Art Academy'da saç kesimiyle benzersiz bir görünüm elde edin. Randevunuzu şimdi oluşturun!",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -2272,13 +2443,13 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'hizmetlerimiz/sac-kaynak',
             'uniq_slug' => 'hair-extension',
             "meta_information" => [
-                "title" => "Kadıköy - Saç Kaynak Uygulaması | S Art Beauty Center ",
-                "description" => "Saçlarınıza özel bir dokunuş! Saç kaynak uygulaması ile istediğiniz tarzı yakalayın. Randevu için hemen arayın.",
+                "title" => "Ashgabat - Keramika Sapagy Uygulaması | Nur Art Academy ",
+                "description" => "Saçlarınıza özel bir dokunuş! Keramika Sapagy uygulaması ile istediğiniz tarzı yakalayın. Randevu için hemen arayın.",
                 "snippets" => [
                     "faqs" => [
                         [
                             "@type" => "Question",
-                            "name" => "Saç Kaynak Nedir?",
+                            "name" => "Keramika Sapagy Nedir?",
                             "acceptedAnswer" => [
                                 "type" => "Answer",
                                 "text" => "Kaynak saç, kısa saçları uzatmak veya seyrek saçları daha dolgun göstermek için kullanılan bir saç uzatma yöntemi. Saç kaynağı gerçek saçlardan yapılabildiği gibi yapay saçlardan da elde edilebilir.  ",
@@ -2294,10 +2465,10 @@ class RoutesTableSeeder extends Seeder
                         ],
                         [
                             "@type" => "Question",
-                            "name" => "Saç Kaynak Çeşitleri Nelerdir?",
+                            "name" => "Keramika Sapagy Çeşitleri Nelerdir?",
                             "acceptedAnswer" => [
                                 "type" => "Answer",
-                                "text" => "Saç kaynak çeşitleri arasında mikro kaynak, ince saç telleriyle doğal bir görünüm sağlar ve keratin kaynak, keratin bazlı yapıştırıcılarla saça eklenen uzun ömürlü bir yöntemdir.",
+                                "text" => "Keramika Sapagy çeşitleri arasında mikro kaynak, ince saç telleriyle doğal bir görünüm sağlar ve keratin kaynak, keratin bazlı yapıştırıcılarla saça eklenen uzun ömürlü bir yöntemdir.",
                             ]
                         ],
                     ]
@@ -2309,7 +2480,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'hizmetlerimiz/seker-agda',
             'uniq_slug' => 'wax-application',
             "meta_information" => [
-                "title" => "Kadıköy - Şeker Ağda Uygulaması | S Art Beauty Center ",
+                "title" => "Ashgabat - Şeker Ağda Uygulaması | Nur Art Academy ",
                 "description" => "Şeker ağda uygulaması ile hassas ve doğal bir tüy alma deneyimi yaşayın. Randevunuzu hemen alın!",
                 "snippets" => [
                     "faqs" => [
@@ -2352,11 +2523,67 @@ class RoutesTableSeeder extends Seeder
         ],
 
         // TODO: -------------------- RU ----------------------------- //
+        // Sart Academy için eklenenler
+        [
+            'lang' => 'ru',
+            'slug' => 'nashi-kursy',
+            'uniq_slug' => 'our-courses',
+            "meta_information" => [
+                "title" => "Ashgabat  Salonu Hizmetlerimiz | Nur Art Academy",
+                "description" => " Kariyerinize Başlamak İçin En İyi Seçim: Sart Beauty Academy ",
+            ]
+        ],
+        [
+            'lang' => 'ru',
+            'slug' => 'nashi-kursy/narashivaniye-resnits',
+            'uniq_slug' => 'silk-eyelash-academy',
+            "meta_information" => [
+                "title" => "Nur Art Academy Sapaklarymyz | Nur Art Academy",
+                "description" => " Kariyerinize Başlamak İçin En İyi Seçim: Sart Beauty Academy.",
+            ]
+        ],
+        [
+            'lang' => 'ru',
+            'slug' => 'nashi-kursy/protezirovaniye-nogtey',
+            'uniq_slug' => 'prosthetic-nails-academy',
+            "meta_information" => [
+                "title" => "Nur Art Academy Sapaklarymyz | Nur Art Academy",
+                "description" => " Kariyerinize Başlamak İçin En İyi Seçim: Sart Beauty Academy.",
+            ]
+        ],
+        [
+            'lang' => 'ru',
+            'slug' => 'nashi-kursy/narashivaniye-volos',
+            'uniq_slug' => 'hair-extension-academy',
+            "meta_information" => [
+                "title" => "Nur Art Academy Sapaklarymyz | Nur Art Academy",
+                "description" => " Kariyerinize Başlamak İçin En İyi Seçim: Sart Beauty Academy.",
+            ]
+        ],
+        [
+            'lang' => 'ru',
+            'slug' => 'nashi-kursy/master-krasoty',
+            'uniq_slug' => 'beauty-master-academy',
+            "meta_information" => [
+                "title" => "Nur Art Academy Sapaklarymyz | Nur Art Academy",
+                "description" => " Kariyerinize Başlamak İçin En İyi Seçim: Sart Beauty Academy.",
+            ]
+        ],
+        [
+            'lang' => 'ru',
+            'slug' => 'nashi-kursy/permanentnyy-makiyazh',
+            'uniq_slug' => 'permanent-makeup-academy',
+            "meta_information" => [
+                "title" => "Nur Art Academy Sapaklarymyz | Nur Art Academy",
+                "description" => " Kariyerinize Başlamak İçin En İyi Seçim: Sart Beauty Academy.",
+            ]
+        ],
+        // End egitim için eklenen
         [
             'lang' => 'ru', 'slug' => 'uslugi',
             'uniq_slug' => 'services', "meta_information" => [
-                "title" => "Наши услуги | S Art Beauty Center",
-                "description" => "Откройте для себя наши услуги в S Art Beauty Center в Кадыкёй. Посетите нас для ухода за кожей, эпиляции, дизайна прически и многого другого.",
+                "title" => "Наши услуги | Nur Art Academy",
+                "description" => "Откройте для себя наши услуги в Nur Art Academy в Кадыкёй. Посетите нас для ухода за кожей, эпиляции, дизайна прически и многого другого.",
             ]
         ],
         [
@@ -2364,8 +2591,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => '/',
             'uniq_slug' => 'index',
             "meta_information" => [
-                "title" => "Кадыкёй - Салон красоты | S Art Beauty Center",
-                "description" => "В S Art Beauty Center мы предлагаем широкий спектр услуг: от лазерной эпиляции до ухода за ногтями, а также от ухода за кожей до ухода за волосами. ",
+                "title" => "Ашгабат | Nur Art Academy",
+                "description" => "В Nur Art Academy мы предлагаем широкий спектр услуг: от лазерной эпиляции до ухода за ногтями, а также от ухода за кожей до ухода за волосами. ",
             ]
         ],
         [
@@ -2373,8 +2600,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'o-nas',
             'uniq_slug' => 'about-us',
             "meta_information" => [
-                "title" => "О нас | S Art Beauty Center",
-                "description" => "В S Art Beauty мы предоставляем нашим клиентам наилучший сервис благодаря нашей команде экспертов и широкому спектру услуг.",
+                "title" => "О нас | Nur Art Academy",
+                "description" => "В Nur Art Academy мы предоставляем нашим клиентам наилучший сервис благодаря нашей команде экспертов и широкому спектру услуг.",
             ]
         ],
         [
@@ -2382,8 +2609,37 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'kontakty',
             'uniq_slug' => 'contact-us',
             "meta_information" => [
-                "title" => "Кадыкёй - Свяжитесь с нами | S Art Beauty Center",
+                "title" => "Кадыкёй - Свяжитесь с нами | Nur Art Academy",
                 "description" => "Вы можете отправить нам сообщение через нашу контактную страницу, чтобы запросить встречу или получить больше информации о наших услугах.",
+            ]
+        ],
+        [
+            'lang' => 'ru',
+            'slug' => 'galerii',
+            'uniq_slug' => 'galery',
+            "meta_information" => [
+                "title" => "Кадыкёй - Свяжитесь с нами | Nur Art Academy",
+                "description" => "Вы можете отправить нам сообщение через нашу контактную страницу, чтобы запросить встречу или получить больше информации о наших услугах.",
+            ]
+        ],
+        [
+            'lang' => 'ru',
+            'slug' => 'blog',
+            'uniq_slug' => 'blog',
+            "meta_information" => [
+                "title" => "About | Nur Art Academy",
+                "description" => "At Nur Art Academy, we provide the best service to our customers with our expert team and wide range of services.",
+
+            ]
+        ],
+        [
+            'lang' => 'ru',
+            'slug' => 'otzywy',
+            'uniq_slug' => 'testimonials',
+            "meta_information" => [
+                "title" => "About | Nur Art Academy",
+                "description" => "At Nur Art Academy, we provide the best service to our customers with our expert team and wide range of services.",
+
             ]
         ],
         [
@@ -2391,8 +2647,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'uslugi/udaleniye-volos-lazerom',
             'uniq_slug' => 'ice-laser-hair-removal',
             "meta_information" => [
-                "title" => "Кадыкёй - Лазерная эпиляция | S Art Beauty Center",
-                "description" => "Попрощайтесь с нежелательными волосами с лазерной эпиляцией в S Art Beauty Center! Добейтесь гладкой кожи эффективно.",
+                "title" => "Кадыкёй - Лазерная эпиляция | Nur Art Academy",
+                "description" => "Попрощайтесь с нежелательными волосами с лазерной эпиляцией в Nur Art Academy! Добейтесь гладкой кожи эффективно.",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -2444,8 +2700,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'uslugi/selulitniy-massazh',
             'uniq_slug' => 'cellulite-massage',
             "meta_information" => [
-                "title" => "G5 антицеллюлитный массаж | S Art Beauty Center",
-                "description" => "Хотите избавиться от целлюлита? В S Art Beauty Center вы можете надежно и эффективно уменьшить проявление целлюлита с помощью антицеллюлитного массажа G5!",
+                "title" => "G5 антицеллюлитный массаж | Nur Art Academy",
+                "description" => "Хотите избавиться от целлюлита? В Nur Art Academy вы можете надежно и эффективно уменьшить проявление целлюлита с помощью антицеллюлитного массажа G5!",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -2489,7 +2745,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'uslugi/roll-shape',
             'uniq_slug' => 'roll-shape',
             "meta_information" => [
-                "title" => "Кадыкёй - Ажыбадем Roll Shape | S Art Beauty Center",
+                "title" => "Кадыкёй - Ажыбадем Roll Shape | Nur Art Academy",
                 "description" => "Rollshape сочетает традиционный восточный массаж с современной технологией, чтобы улучшить кровообращение и уменьшить целлюлит.",
                 "snippets" => [
                     "faqs" => [
@@ -2526,7 +2782,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'uslugi/keratinovoye-vypryamleniye-volos',
             'uniq_slug' => 'brazillian-blow-dry',
             "meta_information" => [
-                "title" => "Кадыкёй - Бразильское выпрямление | S Art Beauty Center",
+                "title" => "Кадыкёй - Бразильское выпрямление | Nur Art Academy",
                 "description" => "Побалуйте свои волосы с помощью бразильского выпрямления! Укрепите свои волосы и добейтесь более здорового вида с нашей командой экспертов.",
                 "snippets" => [
                     "faqs" => [
@@ -2571,8 +2827,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'uslugi/uhod-za-kozhey',
             'uniq_slug' => 'skin-care',
             "meta_information" => [
-                "title" => "Кадыкёй - Уход за кожей | S Art Beauty Center",
-                "description" => "Омолодите свою кожу с профессиональным уходом за кожей в S Art Beauty Center! Обновите свою кожу с помощью наших опытных косметологов.",
+                "title" => "Кадыкёй - Уход за кожей | Nur Art Academy",
+                "description" => "Омолодите свою кожу с профессиональным уходом за кожей в Nur Art Academy! Обновите свою кожу с помощью наших опытных косметологов.",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -2616,8 +2872,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'uslugi/diplayner',
             'uniq_slug' => 'deepliner',
             "meta_information" => [
-                "title" => "Кадыкёй - Подводка для глаз | S Art Beauty Center",
-                "description" => "Постоянное прикосновение к вашим глазам: добейтесь идеального вида с помощью перманентной подводки и диплайнера в S Art Beauty Center!",
+                "title" => "Кадыкёй - Подводка для глаз | Nur Art Academy",
+                "description" => "Постоянное прикосновение к вашим глазам: добейтесь идеального вида с помощью перманентной подводки и диплайнера в Nur Art Academy!",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -2661,7 +2917,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'uslugi/permanentniy-makiyazh-gub',
             'uniq_slug' => 'lip-coloring',
             "meta_information" => [
-                "title" => "Кадыкёй - Окрашивание губ | S Art Beauty Center",
+                "title" => "Кадыкёй - Окрашивание губ | Nur Art Academy",
                 "description" => "Придайте губам естественный и привлекательный цвет с помощью окрашивания. Запишитесь на прием для длительной красоты!",
                 "snippets" => [
                     "faqs" => [
@@ -2698,7 +2954,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'uslugi/svadebnaya-prichoska',
             'uniq_slug' => 'bridal-hair',
             "meta_information" => [
-                "title" => "Кадыкёй - Свадебные прически | S Art Beauty Center",
+                "title" => "Кадыкёй - Свадебные прически | Nur Art Academy",
                 "description" => "Выглядите великолепно в свой особенный день с красивыми свадебными прическами! Откройте для себя свою мечту о свадебной прическе с нашими экспертами.",
                 "snippets" => [
                     "faqs" => [
@@ -2735,8 +2991,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'uslugi/narashivaniye-resnits',
             'uniq_slug' => 'silk-eyelash',
             "meta_information" => [
-                "title" => "Кадыкёй - Шелковые ресницы | S Art Beauty Center",
-                "description" => "Добейтесь долговечного и естественного вида с шелковыми ресницами в S Art Beauty Center. Придайте красоту своей внешности!",
+                "title" => "Кадыкёй - Шелковые ресницы | Nur Art Academy",
+                "description" => "Добейтесь долговечного и естественного вида с шелковыми ресницами в Nur Art Academy. Придайте красоту своей внешности!",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -2772,8 +3028,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'uslugi/laminirovaniye-brovey',
             'uniq_slug' => 'eyebrow-lamination',
             "meta_information" => [
-                "title" => "Кадыкёй - Ламинирование бровей | S Art Beauty Center",
-                "description" => "Для естественных и выразительных бровей попробуйте ламинирование бровей в S Art Beauty Center! Добейтесь более густых и четких бровей с нашими экспертами.",
+                "title" => "Кадыкёй - Ламинирование бровей | Nur Art Academy",
+                "description" => "Для естественных и выразительных бровей попробуйте ламинирование бровей в Nur Art Academy! Добейтесь более густых и четких бровей с нашими экспертами.",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -2809,8 +3065,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'uslugi/permanentniy-lak-dlya-nogtey',
             'uniq_slug' => 'permanent-nail-polish',
             "meta_information" => [
-                "title" => "Кадыкёй - Перманентный лак | S Art Beauty Center",
-                "description" => "Ногти выглядят элегантно с перманентным лаком в S Art Beauty Center! Откройте для себя наши приложения с широким выбором цветов.",
+                "title" => "Кадыкёй - Перманентный лак | Nur Art Academy",
+                "description" => "Ногти выглядят элегантно с перманентным лаком в Nur Art Academy! Откройте для себя наши приложения с широким выбором цветов.",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -2846,8 +3102,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'uslugi/keratinoviy-ukhod',
             'uniq_slug' => 'keratin-care',
             "meta_information" => [
-                "title" => "Кадыкёй - Кератиновое выпрямление | S Art Beauty Center",
-                "description" => "Особое прикосновение к вашим волосам: обеспечьте глубокий уход для ваших сухих и поврежденных волос с помощью кератинового лечения в S Art Beauty Center.",
+                "title" => "Кадыкёй - Кератиновое выпрямление | Nur Art Academy",
+                "description" => "Особое прикосновение к вашим волосам: обеспечьте глубокий уход для ваших сухих и поврежденных волос с помощью кератинового лечения в Nur Art Academy.",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -2883,7 +3139,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'uslugi/lifting-resnits',
             'uniq_slug' => 'eyelash-lifting',
             "meta_information" => [
-                "title" => "Кадыкёй - Лифтинг ресниц | S Art Beauty Center",
+                "title" => "Кадыкёй - Лифтинг ресниц | Nur Art Academy",
                 "description" => "Подчеркните свои глаза: добейтесь естественного и потрясающего вида с помощью лифтинга ресниц! Запишитесь на прием прямо сейчас!",
                 "snippets" => [
                     "faqs" => [
@@ -2928,7 +3184,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'uslugi/manikyur-pedikyur',
             'uniq_slug' => 'manicure-pedicure',
             "meta_information" => [
-                "title" => "Кадыкёй - Маникюр и педикюр | S Art Beauty Center",
+                "title" => "Кадыкёй - Маникюр и педикюр | Nur Art Academy",
                 "description" => "Укрепите свои ногти и завершите свою элегантность с маникюром и педикюром. Позвоните прямо сейчас, чтобы записаться на прием.",
                 "snippets" => [
                     "faqs" => [
@@ -2965,7 +3221,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'uslugi/microblading',
             'uniq_slug' => 'microblading',
             "meta_information" => [
-                "title" => "Кадыкёй - Микроблейдинг | S Art Beauty Center",
+                "title" => "Кадыкёй - Микроблейдинг | Nur Art Academy",
                 "description" => "Добейтесь постоянных и естественно выглядящих бровей, подходящих к вашему лицу, с помощью микроблейдинга. Запишитесь на прием прямо сейчас!",
                 "snippets" => [
                     "faqs" => [
@@ -3002,8 +3258,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'uslugi/dizayn-nogtey',
             'uniq_slug' => 'nail-art',
             "meta_information" => [
-                "title" => "Кадыкёй - Дизайн ногтей | S Art Beauty Center",
-                "description" => "Придайте цвет своим ногтям в S Art Beauty Center! Создавайте уникальные дизайны ногтей с помощью наших экспертов. Запишитесь на прием прямо сейчас!",
+                "title" => "Кадыкёй - Дизайн ногтей | Nur Art Academy",
+                "description" => "Придайте цвет своим ногтям в Nur Art Academy! Создавайте уникальные дизайны ногтей с помощью наших экспертов. Запишитесь на прием прямо сейчас!",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -3039,7 +3295,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'uslugi/permanentnaya-zavivka-volos',
             'uniq_slug' => 'perming',
             "meta_information" => [
-                "title" => "Кадыкёй - Химическая завивка | S Art Beauty Center",
+                "title" => "Кадыкёй - Химическая завивка | Nur Art Academy",
                 "description" => "Добейтесь волнистых и объемных волос с помощью химической завивки! Запишитесь на прием прямо сейчас и получите волосы своей мечты!",
                 "snippets" => [
                     "faqs" => [
@@ -3076,8 +3332,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'uslugi/protezirovaniye-nogtey',
             'uniq_slug' => 'prosthetic-nails',
             "meta_information" => [
-                "title" => "Кадыкёй - Протезирование ногтей | S Art Beauty Center",
-                "description" => "Создайте уникальный стиль для своих ногтей с протезированием ногтей в S Art Beauty Center. Добейтесь индивидуально разработанных ногтей с нашими экспертами.",
+                "title" => "Кадыкёй - Протезирование ногтей | Nur Art Academy",
+                "description" => "Создайте уникальный стиль для своих ногтей с протезированием ногтей в Nur Art Academy. Добейтесь индивидуально разработанных ногтей с нашими экспертами.",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -3113,8 +3369,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'uslugi/melirovaniye',
             'uniq_slug' => 'hair-color-highlights',
             "meta_information" => [
-                "title" => "Кадыкёй - Мелирование | S Art Beauty Center",
-                "description" => "Добейтесь естественного и привлекательного вида с мелированием в S Art Beauty Center. Запишитесь на прием прямо сейчас!",
+                "title" => "Кадыкёй - Мелирование | Nur Art Academy",
+                "description" => "Добейтесь естественного и привлекательного вида с мелированием в Nur Art Academy. Запишитесь на прием прямо сейчас!",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -3150,8 +3406,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'uslugi/okrashivaniye-volos',
             'uniq_slug' => 'hair-dye',
             "meta_information" => [
-                "title" => "Кадыкёй - Окрашивание волос | S Art Beauty Center",
-                "description" => "Различные варианты окрашивания волос для ваших волос в S Art Beauty Center! Запишитесь на прием прямо сейчас.",
+                "title" => "Кадыкёй - Окрашивание волос | Nur Art Academy",
+                "description" => "Различные варианты окрашивания волос для ваших волос в Nur Art Academy! Запишитесь на прием прямо сейчас.",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -3175,7 +3431,7 @@ class RoutesTableSeeder extends Seeder
                             "name" => "Как выбрать цвет, соответствующий моему натуральному цвету волос?",
                             "acceptedAnswer" => [
                                 "type" => "Answer",
-                                "text" => "Специалисты S Art Beauty Center помогут вам выбрать цвет, который соответствует вашему натуральному цвету волос.",
+                                "text" => "Специалисты Nur Art Academy помогут вам выбрать цвет, который соответствует вашему натуральному цвету волос.",
                             ]
                         ],
                     ]
@@ -3187,8 +3443,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'uslugi/okrashivaniye-dip-dye',
             'uniq_slug' => 'hair-dip-dye',
             "meta_information" => [
-                "title" => "Кадыкёй - Окрашивание корней | S Art Beauty Center",
-                "description" => "Придайте живость волосам с окрашиванием корней в S Art Beauty Center. Доверьтесь нашим экспертам для естественного и привлекательного вида.",
+                "title" => "Кадыкёй - Окрашивание корней | Nur Art Academy",
+                "description" => "Придайте живость волосам с окрашиванием корней в Nur Art Academy. Доверьтесь нашим экспертам для естественного и привлекательного вида.",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -3224,8 +3480,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'uslugi/strizhka',
             'uniq_slug' => 'hair-cut',
             "meta_information" => [
-                "title" => "Кадыкёй - Стрижка | S Art Beauty Center",
-                "description" => "Подчеркните свой стиль! Добейтесь уникального вида с помощью стрижки в S Art Beauty Center. Запишитесь на прием прямо сейчас!",
+                "title" => "Кадыкёй - Стрижка | Nur Art Academy",
+                "description" => "Подчеркните свой стиль! Добейтесь уникального вида с помощью стрижки в Nur Art Academy. Запишитесь на прием прямо сейчас!",
                 "snippets" => [
                     "faqs" => [
                         [
@@ -3261,7 +3517,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'uslugi/narashivaniye-volos',
             'uniq_slug' => 'hair-extension',
             "meta_information" => [
-                "title" => "Кадыкёй - Наращивание волос | S Art Beauty Center",
+                "title" => "Кадыкёй - Наращивание волос | Nur Art Academy",
                 "description" => "Особое прикосновение к вашим волосам! Добейтесь желаемого стиля с помощью наращивания волос. Позвоните прямо сейчас, чтобы записаться на прием.",
                 "snippets" => [
                     "faqs" => [
@@ -3298,8 +3554,8 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'uslugi/shugaring',
             'uniq_slug' => 'wax-application',
             "meta_information" => [
-                "title" => "Кадыкёй - Ваксинг | S Art Beauty Center",
-                "description" => "Испытайте гладкость кожи без волос с профессиональными услугами ваксинга в S Art Beauty Center. Запишитесь на прием прямо сейчас!",
+                "title" => "Кадыкёй - Ваксинг | Nur Art Academy",
+                "description" => "Испытайте гладкость кожи без волос с профессиональными услугами ваксинга в Nur Art Academy. Запишитесь на прием прямо сейчас!",
                 "snippets" => [
                     "faqs" => [
                         [

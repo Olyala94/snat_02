@@ -22,15 +22,15 @@ class SettingsTableSeeder extends Seeder
             'lang' => "en",
             'content' => [
                 "logo" => [
-                    'href' => "/images/sart/logo.png",
+                    'href' => "/images/nur-art-logos/nur-art-logo-06.png",
                     'alt' => 'S Art Beauty Center',
                 ],
                 "mobileLogo" => [
-                    'href' => "/images/sart/favicon.png",
+                    'href' => "images/nur-art-logos/nur-art-logo-06.png",
                     'alt' => 'S Art Beauty Center',
                 ],
                 "favicon" => [
-                    'href' => "/images/sart/favicon.ico",
+                    'href' => "images/nur-art-logos/nur-art-logo-06.png",
                 ],
 
             ],
@@ -85,7 +85,7 @@ class SettingsTableSeeder extends Seeder
                     'alt' => 'S Art Beauty Center Instagram Account',
                 ],
                 'whatsapp' => [
-                    'href' => 'https://api.whatsapp.com/send?phone=905335085191',
+                    'href' => 'https://api.whatsapp.com/send?phone=99365675732',
                     'alt' => 'S Art Beauty Center Whatsapp Account',
                 ],
             ],
@@ -199,15 +199,15 @@ class SettingsTableSeeder extends Seeder
             'lang' => "tk",
             'content' => [
                 "logo" => [
-                    'href' => "/images/sart/logo.png",
+                    'href' => "/images/nur-art-logos/nur-art-logo-06.png",
                     'alt' => 'S Art Beauty Center',
                 ],
                 "mobileLogo" => [
-                    'href' => "/images/sart/favicon.png",
+                    'href' => "images/nur-art-logos/nur-art-logo-06.png",
                     'alt' => 'S Art Beauty Center',
                 ],
                 "favicon" => [
-                    'href' => "/images/sart/favicon.ico",
+                    'href' => "images/nur-art-logos/nur-art-logo-06.png",
                 ],
 
             ],
@@ -262,7 +262,7 @@ class SettingsTableSeeder extends Seeder
                     'alt' => 'S Art Beauty Center Instagram Hesabı',
                 ],
                 'whatsapp' => [
-                    'href' => 'https://api.whatsapp.com/send?phone=99361212783',
+                    'href' => 'https://api.whatsapp.com/send?phone=99365675732',
                     'alt' => 'S Art Beauty Center Whatsapp Hesabı',
                 ],
             ],
@@ -376,15 +376,15 @@ class SettingsTableSeeder extends Seeder
             'lang' => "ru",
             'content' => [
                 "logo" => [
-                    'href' => "/images/sart/logo.png",
+                    'href' => "/images/nur-art-logos/nur-art-logo-06.png",
                     'alt' => 'S Art Beauty Center',
                 ],
                 "mobileLogo" => [
-                    'href' => "/images/sart/favicon.png",
+                    'href' => "images/nur-art-logos/nur-art-logo-06.png",
                     'alt' => 'S Art Beauty Center',
                 ],
                 "favicon" => [
-                    'href' => "/images/sart/favicon.ico",
+                    'href' => "images/nur-art-logos/nur-art-logo-06.png",
                 ],
 
             ],
@@ -439,7 +439,7 @@ class SettingsTableSeeder extends Seeder
                     'alt' => 'Аккаунт Instagram S Art Beauty Center',
                 ],
                 'whatsapp' => [
-                    'href' => 'https://api.whatsapp.com/send?phone=905335085191',
+                    'href' => 'https://api.whatsapp.com/send?phone=99365675732',
                     'alt' => 'Аккаунт Whatsapp S Art Beauty Cente',
                 ],
             ],

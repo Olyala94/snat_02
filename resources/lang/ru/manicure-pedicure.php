@@ -8,7 +8,7 @@ return [
      "language" => "язык",
 
      /*** header subtitle ***/
-     "contact_us_section2_subtitle5" => "S Art Beuty Center Главная",
+     "contact_us_section2_subtitle5" => "Nur Art Academy Главная",
 
      /*** header subtitle ***/
     "lazer-epilasyon" => "Лазерная эпиляция",
@@ -41,16 +41,16 @@ return [
      "follow_us_on_insta" => "Подписывайтесь на нас в Instagram",
 
          /** default keys **/
-    "sart" => "S ART Beauty Center",
-    "sart_official_center" => "Официальный сайт S Art Beauty Center",
-    "sart_official_center_home" => "Главная S Art Beauty Center",
-    "sart_official_center_about" => "О S Art Beauty Center",
-    "sart_official_center_contact" => "Контакты S Art Beauty Center",
-    "sart_official_center_lang_options" => "Опции языка S Art Beauty Center",
-    "sart_official_center_job_explanation" => "Что делает S Art Beauty Center?",
-    "sart_official_center_facebook" => "Страница S Art Beauty Center в Facebook",
-    "sart_official_center_whatsapp" => "Аккаунт S Art Beauty Center в WhatsApp",
-    "sart_official_center_instagram" => "Аккаунт S Art Beauty Center в Instagram",
+    "sart" => "Nur Art Academy",
+    "sart_official_center" => "Официальный сайт Nur Art Academy",
+    "sart_official_center_home" => "Главная Nur Art Academy",
+    "sart_official_center_about" => "О Nur Art Academy",
+    "sart_official_center_contact" => "Контакты Nur Art Academy",
+    "sart_official_center_lang_options" => "Опции языка Nur Art Academy",
+    "sart_official_center_job_explanation" => "Что делает Nur Art Academy?",
+    "sart_official_center_facebook" => "Страница Nur Art Academy в Facebook",
+    "sart_official_center_whatsapp" => "Аккаунт Nur Art Academy в WhatsApp",
+    "sart_official_center_instagram" => "Аккаунт Nur Art Academy в Instagram",
     "whatsapp_line" => "WhatsApp линия",
     "location" => "Адрес в навигации",
     "turkish" => "Турецкий",
@@ -61,7 +61,7 @@ return [
 
 
     // mani_pedi
-    "mani_pedi_description" => "Маникюр и педикюр | S Art Beauty Center",
+    "mani_pedi_description" => "Маникюр и педикюр | Nur Art Academy",
     "mani_pedi_title" => "Укрепите свои ногти и завершите свою элегантность с маникюром и педикюром. Позвоните прямо сейчас, чтобы записаться на прием.",
     "mani_pedi_main_header" => "Маникюр и Педикюр",
     "mani_pedi_context_title" => "Маникюр и Педикюр",
@@ -77,11 +77,11 @@ return [
     "mani_pedi_context_question5" => "5. Когда это рекомендуется?",
     "mani_pedi_context_answer5" => "Маникюр и педикюр идеально подходят для регулярного ухода и особых случаев. Они также могут быть рекомендованы для устранения проблем, таких как ломки ногтей, трещины или сухость кожи.",
     "mani_pedi_slide1_title" => "Сияние ваших рук и ног: побалуйте себя маникюром и педикюром!",
-    "mani_pedi_slide1_cont" => "В S Art Beauty Center вы можете достичь свежести и стиля благодаря профессиональным услугам маникюра и педикюра.",
+    "mani_pedi_slide1_cont" => "В Nur Art Academy вы можете достичь свежести и стиля благодаря профессиональным услугам маникюра и педикюра.",
     "mani_pedi_slide2_title" => "Ухоженные руки и ноги: подчеркните естественную красоту с маникюром и педикюром!",
     "mani_pedi_slide2_cont" => "Вы нашли лучшее место для ухода за красотой и здоровьем ваших рук и ног. Маникюр и педикюр подчеркнут вашу естественную красоту.",
     "mani_pedi_slide3_title" => "С крайних кончиков до кончиков ног: профессиональные услуги маникюра и педикюра!",
-    "mani_pedi_slide3_cont" => "В S Art Beauty Center мы заботимся о ваших ногтях и коже, чтобы подчеркнуть стиль.",
+    "mani_pedi_slide3_cont" => "В Nur Art Academy мы заботимся о ваших ногтях и коже, чтобы подчеркнуть стиль.",
     "mani_pedi_subtitle2" => "Маникюр и Педикюр: Уход за Руками и Ногами",
     "mani_pedi_subtitle2_1" => "Что такое маникюр и педикюр?",
     "mani_pedi_subtitle2_1_cont" => "Маникюр включает в себя процедуры, такие как умягчение кожи, придание формы, полировка, нанесение лака, отодвигание кутикулы, удаление мертвой кожи. Пилочная обработка ногтей и массаж рук. В педикюре применяются те же процедуры к ногам и ногтям на ногах, что и в маникюре.",

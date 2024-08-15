@@ -8,7 +8,7 @@ return [
     "language" => "язык",
 
     /*** header subtitle ***/
-    "contact_us_section2_subtitle5" => "S Art Beuty Center Главная",
+    "contact_us_section2_subtitle5" => "Nur Art Academy Главная",
 
     /*** header subtitle ***/
     "lazer-epilasyon" => "Лазерная эпиляция",
@@ -42,16 +42,16 @@ return [
     "follow_us_on_insta" => "Подписывайтесь на нас в Instagram",
 
     /** default keys **/
-    "sart" => "S ART Beauty Center",
-    "sart_official_center" => "Официальный сайт S Art Beauty Center",
-    "sart_official_center_home" => "Главная S Art Beauty Center",
-    "sart_official_center_about" => "О S Art Beauty Center",
-    "sart_official_center_contact" => "Контакты S Art Beauty Center",
-    "sart_official_center_lang_options" => "Опции языка S Art Beauty Center",
-    "sart_official_center_job_explanation" => "Что делает S Art Beauty Center?",
-    "sart_official_center_facebook" => "Страница S Art Beauty Center в Facebook",
-    "sart_official_center_whatsapp" => "Аккаунт S Art Beauty Center в WhatsApp",
-    "sart_official_center_instagram" => "Аккаунт S Art Beauty Center в Instagram",
+    "sart" => "Nur Art Academy",
+    "sart_official_center" => "Официальный сайт Nur Art Academy",
+    "sart_official_center_home" => "Главная Nur Art Academy",
+    "sart_official_center_about" => "О Nur Art Academy",
+    "sart_official_center_contact" => "Контакты Nur Art Academy",
+    "sart_official_center_lang_options" => "Опции языка Nur Art Academy",
+    "sart_official_center_job_explanation" => "Что делает Nur Art Academy?",
+    "sart_official_center_facebook" => "Страница Nur Art Academy в Facebook",
+    "sart_official_center_whatsapp" => "Аккаунт Nur Art Academy в WhatsApp",
+    "sart_official_center_instagram" => "Аккаунт Nur Art Academy в Instagram",
     "whatsapp_line" => "WhatsApp линия",
     "location" => "Адрес в навигации",
     "turkish" => "Турецкий",
@@ -61,12 +61,12 @@ return [
     "ten_min" => "Время чтения",
 
     // hair_extension
-    "hair_extension_description" => "Кадыкёй - Наращивание волос | S Art Beauty Center",
+    "hair_extension_description" => "Кадыкёй - Наращивание волос | Nur Art Academy",
     "hair_extension_title" => "Особое прикосновение к вашим волосам! Добейтесь желаемого стиля с помощью наращивания волос. Позвоните прямо сейчас, чтобы записаться на прием.",
     "hair_extension_slogan" => "Добавьте объем своим волосам: выразитесь с помощью профессионального наращивания волос!",
     "hair_extension_main_header" => "Процедура наращивания волос",
     "hair_extension_context_title" => "Процедура наращивания волос",
-    "hair_extension_context_content" => "Объем и длина ваших волос - это важный фактор, определяющий ваш стиль. В S Art Beauty Center с услугами по наращиванию волос вы можете придать своим волосам новое измерение.",
+    "hair_extension_context_content" => "Объем и длина ваших волос - это важный фактор, определяющий ваш стиль. В Nur Art Academy с услугами по наращиванию волос вы можете придать своим волосам новое измерение.",
 
     "hair_extension_context_question1" => "1. Как мыть наращенные волосы?",
     "hair_extension_context_answer1" => "При мытье наращенных волос температура воды является важнейшим фактором.",
@@ -90,7 +90,7 @@ return [
     "hair_extension_context_answer7" => "При правильном наращивании волос наши эксперты гарантируют, что это не повредит ваши волосы. Вы можете безопасно доверить наращивание волос профессионалам.",
 
     "hair_extension_slide1_title" => "Длинные и объемные волосы",
-    "hair_extension_slide1_cont" => "в S Art Beauty Center вы можете сделать свои волосы более длинными и объемными.",
+    "hair_extension_slide1_cont" => "в Nur Art Academy вы можете сделать свои волосы более длинными и объемными.",
     "hair_extension_slide2_title" => "Уравняйте длину волос",
     "hair_extension_slide2_cont" => "скройте различия в длине ваших волос.",
     "hair_extension_slide3_title" => "Цветные и живые волосы",

@@ -7,7 +7,7 @@ return [
     "contact_us" => "Contact Us",
     "language" => "Language",
 
-    "contact_us_section2_subtitle5" => "S Art Beuty Center Home",
+    "contact_us_section2_subtitle5" => "Nur Art Academy Home",
 
     /*** header subtitle ***/
     "mani_pedi" => "Manicure and Pedicure",
@@ -41,16 +41,16 @@ return [
     "follow_us_on_insta" => "Follow Us on Instagram",
 
     /** default keys **/
-    "sart" => "S ART Beauty Center",
-    "sart_official_center" => "S Art Beauty Center Official Website",
-    "sart_official_center_home" => "S Art Beauty Center Home",
-    "sart_official_center_about" => "S Art Beauty Center About Us Page",
-    "sart_official_center_contact" => "S Art Beauty Center Contact Page",
-    "sart_official_center_lang_options" => "S Art Beauty Center Language Options",
-    "sart_official_center_job_explanation" => "What Does S Art Beauty Center Do?",
-    "sart_official_center_facebook" => "S Art Beauty Center Facebook Account",
-    "sart_official_center_whatsapp" => "S Art Beauty Center Whatsapp Account",
-    "sart_official_center_instagram" => "S Art Beauty Center Instagram Account",
+    "sart" => "Nur Art Academy",
+    "sart_official_center" => "Nur Art Academy Official Website",
+    "sart_official_center_home" => "Nur Art Academy Home",
+    "sart_official_center_about" => "Nur Art Academy About Us Page",
+    "sart_official_center_contact" => "Nur Art Academy Contact Page",
+    "sart_official_center_lang_options" => "Nur Art Academy Language Options",
+    "sart_official_center_job_explanation" => "What Does Nur Art Academy Do?",
+    "sart_official_center_facebook" => "Nur Art Academy Facebook Account",
+    "sart_official_center_whatsapp" => "Nur Art Academy Whatsapp Account",
+    "sart_official_center_instagram" => "Nur Art Academy Instagram Account",
     "whatsapp_line" => "WhatsApp Line",
     "location" => "Our Address on Navigation",
     "turkish" => "Turkish",
@@ -60,7 +60,7 @@ return [
     "ten_min" => "Reading Time",
 
     // mani_pedi
-    "mani_pedi_description" => "Manicure and Pedicure | S Art Beauty Center ",
+    "mani_pedi_description" => "Manicure and Pedicure | Nur Art Academy ",
     "mani_pedi_title" => "Strengthen your nails and complete your elegance with a manicure and pedicure. Call now to book your appointment.",
     "mani_pedi_main_header" => "Manicure and Pedicure",
     "mani_pedi_context_title" => "Manicure and Pedicure",
@@ -76,11 +76,11 @@ return [
     "mani_pedi_context_question5" => "5. When Is It Recommended?",
     "mani_pedi_context_answer5" => "Manicure and pedicure are ideal for regular maintenance and special occasions. They are also suitable for addressing issues such as nail breakage, cracking, or dry skin.",
     "mani_pedi_slide1_title" => "Radiance of Your Hands and Feet: Pamper Yourself with Manicure and Pedicure!",
-    "mani_pedi_slide1_cont" => "Achieve freshness and elegance for your hands and feet with professional manicure and pedicure at S Art Beauty Center.",
+    "mani_pedi_slide1_cont" => "Achieve freshness and elegance for your hands and feet with professional manicure and pedicure at Nur Art Academy.",
     "mani_pedi_slide2_title" => "Well-Groomed Hands and Feet: Highlight Your Natural Beauty with Manicure and Pedicure!",
     "mani_pedi_slide2_cont" => "You're in the right place for the beauty and care of your hands and feet. Emphasize your natural beauty with manicure and pedicure.",
     "mani_pedi_slide3_title" => "Elegance from Fingertips to Toes: Professional Manicure and Pedicure Services!",
-    "mani_pedi_slide3_cont" => "Achieve elegance by providing special care for your nails and skin at S Art Beauty Center.",
+    "mani_pedi_slide3_cont" => "Achieve elegance by providing special care for your nails and skin at Nur Art Academy.",
     "mani_pedi_subtitle2" => "Manicure and Pedicure: Hand and Foot Care",
     "mani_pedi_subtitle2_1" => "What Is Manicure and Pedicure?",
     "mani_pedi_subtitle2_1_cont" => "Manicure involves a series of procedures such as softening the skin, shaping, polishing, applying nail polish, pushing back cuticles, removing dead skin from the nail bed, filing nails, and hand massage. In pedicure, the same procedures are applied to the feet and toenails as in manicure treatment.",

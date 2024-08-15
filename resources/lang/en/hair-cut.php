@@ -7,7 +7,7 @@ return [
     "contact_us" => "Contact Us",
     "language" => "Language",
 
-    "contact_us_section2_subtitle5" => "S Art Beuty Center Home",
+    "contact_us_section2_subtitle5" => "Nur Art Academy Home",
 
     /*** header subtitle ***/
     "mani_pedi" => "Manicure and Pedicure",
@@ -41,16 +41,16 @@ return [
     "follow_us_on_insta" => "Follow Us on Instagram",
 
     /** default keys **/
-    "sart" => "S ART Beauty Center",
-    "sart_official_center" => "S Art Beauty Center Official Website",
-    "sart_official_center_home" => "S Art Beauty Center Home",
-    "sart_official_center_about" => "S Art Beauty Center About Us Page",
-    "sart_official_center_contact" => "S Art Beauty Center Contact Page",
-    "sart_official_center_lang_options" => "S Art Beauty Center Language Options",
-    "sart_official_center_job_explanation" => "What Does S Art Beauty Center Do?",
-    "sart_official_center_facebook" => "S Art Beauty Center Facebook Account",
-    "sart_official_center_whatsapp" => "S Art Beauty Center Whatsapp Account",
-    "sart_official_center_instagram" => "S Art Beauty Center Instagram Account",
+    "sart" => "Nur Art Academy",
+    "sart_official_center" => "Nur Art Academy Official Website",
+    "sart_official_center_home" => "Nur Art Academy Home",
+    "sart_official_center_about" => "Nur Art Academy About Us Page",
+    "sart_official_center_contact" => "Nur Art Academy Contact Page",
+    "sart_official_center_lang_options" => "Nur Art Academy Language Options",
+    "sart_official_center_job_explanation" => "What Does Nur Art Academy Do?",
+    "sart_official_center_facebook" => "Nur Art Academy Facebook Account",
+    "sart_official_center_whatsapp" => "Nur Art Academy Whatsapp Account",
+    "sart_official_center_instagram" => "Nur Art Academy Instagram Account",
     "whatsapp_line" => "WhatsApp Line",
     "location" => "Our Address on Navigation",
     "turkish" => "Turkish",
@@ -60,12 +60,12 @@ return [
     "ten_min" => "Reading Time",
 
     // hair_cut
-    "hair_cut_description" => "Kadıköy - Hair Cut | S Art Beauty Center  ",
-    "hair_cut_title" => "Highlight your style! Achieve a unique look with a haircut at S Art Beauty Center. Book your appointment now!",
+    "hair_cut_description" => "Ashgabat - Hair Cut | Nur Art Academy  ",
+    "hair_cut_title" => "Highlight your style! Achieve a unique look with a haircut at Nur Art Academy. Book your appointment now!",
     "hair_cut_slogan" => "Reflect Your Style with Your Haircut",
     "hair_cut_main_header" => "Hair Cut",
     "hair_cut_context_title" => "Hair Cut",
-    "hair_cut_context_content" => "The shape and length of your hair reflect your style. At S Art Beauty Center, you can achieve the hair you desire.",
+    "hair_cut_context_content" => "The shape and length of your hair reflect your style. At Nur Art Academy, you can achieve the hair you desire.",
     "hair_cut_question1" => "1. Which Hair Cut Style Is Suitable for Me?",
     "hair_cut_answer1" => "Our experts will guide you to determine the hair cut style that suits your hair type, facial features, and style.",
     "hair_cut_question2" => "2. How Often Should I Get a Hair Cut?",
@@ -81,8 +81,8 @@ return [
     "hair_cut_slide2_title" => "Healthy Hair",
     "hair_cut_slide2_cont" => "Get rid of split ends and promote healthier hair growth.",
     "hair_cut_slide3_title" => "Feel Renewed",
-    "hair_cut_slide3_cont" => "Refresh your look with a professional haircut at S Art Beauty Center.",
+    "hair_cut_slide3_cont" => "Refresh your look with a professional haircut at Nur Art Academy.",
     "hair_cut_subtitle1" => "Different Haircuts",
-    "hair_cut_subtitle1_cont" => "At S Art Beauty Center, you can choose from different hair cutting styles, including straight cuts, layered cuts, short hair, and long hair. Our experts will recommend the most suitable haircut for you, taking into consideration your hair type and facial features.",
+    "hair_cut_subtitle1_cont" => "At Nur Art Academy, you can choose from different hair cutting styles, including straight cuts, layered cuts, short hair, and long hair. Our experts will recommend the most suitable haircut for you, taking into consideration your hair type and facial features.",
 
 ];

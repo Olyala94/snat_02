@@ -8,7 +8,7 @@ return [
     "language" => "язык",
 
     /*** header subtitle ***/
-    "contact_us_section2_subtitle5" => "S Art Beuty Center Главная",
+    "contact_us_section2_subtitle5" => "Nur Art Academy Главная",
 
  /*** header subtitle ***/
  "lazer-epilasyon" => "Лазерная эпиляция",
@@ -41,16 +41,16 @@ return [
     "follow_us_on_insta" => "Подписывайтесь на нас в Instagram",
 
     /** default keys **/
-    "sart" => "S ART Beauty Center",
-    "sart_official_center" => "Официальный сайт S Art Beauty Center",
-    "sart_official_center_home" => "Главная S Art Beauty Center",
-    "sart_official_center_about" => "О S Art Beauty Center",
-    "sart_official_center_contact" => "Контакты S Art Beauty Center",
-    "sart_official_center_lang_options" => "Опции языка S Art Beauty Center",
-    "sart_official_center_job_explanation" => "Что делает S Art Beauty Center?",
-    "sart_official_center_facebook" => "Страница S Art Beauty Center в Facebook",
-    "sart_official_center_whatsapp" => "Аккаунт S Art Beauty Center в WhatsApp",
-    "sart_official_center_instagram" => "Аккаунт S Art Beauty Center в Instagram",
+    "sart" => "Nur Art Academy",
+    "sart_official_center" => "Официальный сайт Nur Art Academy",
+    "sart_official_center_home" => "Главная Nur Art Academy",
+    "sart_official_center_about" => "О Nur Art Academy",
+    "sart_official_center_contact" => "Контакты Nur Art Academy",
+    "sart_official_center_lang_options" => "Опции языка Nur Art Academy",
+    "sart_official_center_job_explanation" => "Что делает Nur Art Academy?",
+    "sart_official_center_facebook" => "Страница Nur Art Academy в Facebook",
+    "sart_official_center_whatsapp" => "Аккаунт Nur Art Academy в WhatsApp",
+    "sart_official_center_instagram" => "Аккаунт Nur Art Academy в Instagram",
     "whatsapp_line" => "WhatsApp линия",
     "location" => "Адрес в навигации",
     "turkish" => "Турецкий",
@@ -60,11 +60,11 @@ return [
     "ten_min" => "Время чтения",
 
     // cilt-bakımı
-    "skin-care_description" => "Уход за кожей | S Art Beauty Center",
-    "skin-care_title" => "Омолодите свою кожу с профессиональным уходом за кожей в S Art Beauty Center! Обновите свою кожу с помощью наших опытных косметологов.",
+    "skin-care_description" => "Уход за кожей | Nur Art Academy",
+    "skin-care_title" => "Омолодите свою кожу с профессиональным уходом за кожей в Nur Art Academy! Обновите свою кожу с помощью наших опытных косметологов.",
     "skin-care_main_header" => "ПРОФЕССИОНАЛЬНЫЙ УХОД ЗА КОЖЕЙ ЛИЦА",
     "skin-care_context_title" => "ПРОФЕССИОНАЛЬНЫЙ УХОД ЗА КОЖЕЙ ЛИЦА",
-    "skin-care_context_content" => "Чистка лица, выполняемые специалистами S ART Beauty Center, позволяют быстро и эффективно привести кожу в порядок, вернуть ей свежий здоровый вид и сияние.",
+    "skin-care_context_content" => "Чистка лица, выполняемые специалистами Nur Art Academy, позволяют быстро и эффективно привести кожу в порядок, вернуть ей свежий здоровый вид и сияние.",
     "skin-care_context_question1" => "1. В чем преимущества ухода за кожей лица?",
     "skin-care_context_answer1" => "1. Уход за кожей, проведенный умелыми руками с использованием правильных препаратов обеспечивает устранение или осветление проблемных участков с акне, осветление прыщиков, лифтинга, сужения пор, увлажнения, сияния и разглаживания кожи.",
     "skin-care_context_question2" => "2. Чем отличается уход за кожей дома от профессионального ухода?",

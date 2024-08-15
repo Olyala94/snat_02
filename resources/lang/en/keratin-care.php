@@ -7,7 +7,7 @@ return [
     "contact_us" => "Contact Us",
     "language" => "Language",
 
-    "contact_us_section2_subtitle5" => "S Art Beuty Center Home",
+    "contact_us_section2_subtitle5" => "Nur Art Academy Home",
 
     /*** header subtitle ***/
     "mani_pedi" => "Manicure and Pedicure",
@@ -41,16 +41,16 @@ return [
     "follow_us_on_insta" => "Follow Us on Instagram",
 
     /** default keys **/
-    "sart" => "S ART Beauty Center",
-    "sart_official_center" => "S Art Beauty Center Official Website",
-    "sart_official_center_home" => "S Art Beauty Center Home",
-    "sart_official_center_about" => "S Art Beauty Center About Us Page",
-    "sart_official_center_contact" => "S Art Beauty Center Contact Page",
-    "sart_official_center_lang_options" => "S Art Beauty Center Language Options",
-    "sart_official_center_job_explanation" => "What Does S Art Beauty Center Do?",
-    "sart_official_center_facebook" => "S Art Beauty Center Facebook Account",
-    "sart_official_center_whatsapp" => "S Art Beauty Center Whatsapp Account",
-    "sart_official_center_instagram" => "S Art Beauty Center Instagram Account",
+    "sart" => "Nur Art Academy",
+    "sart_official_center" => "Nur Art Academy Official Website",
+    "sart_official_center_home" => "Nur Art Academy Home",
+    "sart_official_center_about" => "Nur Art Academy About Us Page",
+    "sart_official_center_contact" => "Nur Art Academy Contact Page",
+    "sart_official_center_lang_options" => "Nur Art Academy Language Options",
+    "sart_official_center_job_explanation" => "What Does Nur Art Academy Do?",
+    "sart_official_center_facebook" => "Nur Art Academy Facebook Account",
+    "sart_official_center_whatsapp" => "Nur Art Academy Whatsapp Account",
+    "sart_official_center_instagram" => "Nur Art Academy Instagram Account",
     "whatsapp_line" => "WhatsApp Line",
     "location" => "Our Address on Navigation",
     "turkish" => "Turkish",
@@ -61,8 +61,8 @@ return [
 
 
     // keratin_care
-    "keratin_care_description" => "Keratin Care | S Art Beauty Center ",
-    "keratin_care_title" => "A special touch for your hair: Provide deep care for your dry and damaged hair with keratin treatment at S Art Beauty Center.",
+    "keratin_care_description" => "Keratin Care | Nur Art Academy ",
+    "keratin_care_title" => "A special touch for your hair: Provide deep care for your dry and damaged hair with keratin treatment at Nur Art Academy.",
     "keratin_care_main_header" => "Keratin Care",
     "keratin_care_context_title" => "Cold Spa Keratin Treatment",
     "keratin_care_context_content" => "Keratin treatment is one of the most effective methods for hair to shine with health and maintain its strength. Try the keratin process to give your hair the flexibility and shine it needs.",
@@ -83,7 +83,7 @@ return [
     "keratin_care_slide3_title" => "Keratin Support",
     "keratin_care_slide3_cont" => "Prevents static and frizz, helps with hair growth.",
     "keratin_care_subtitle1" => "The Secret to Strong Hair: Rediscover Your Hair with Keratin Care!",
-    "keratin_care_subtitle1_cont" => "Visit S Art Beauty Center to nourish your hair in the best way possible.",
+    "keratin_care_subtitle1_cont" => "Visit Nur Art Academy to nourish your hair in the best way possible.",
     "keratin_care_subtitle2" => "Revitalize Your Hair: Renew Your Hair with Keratin Care",
     "keratin_care_subtitle2_1" => "What is Cold Spa Keratin Treatment?",
     "keratin_care_subtitle2_1_cont" => "Keratin treatment is a hair care method that harnesses the power of keratin protein to improve hair health.",

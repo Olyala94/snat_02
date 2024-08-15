@@ -8,7 +8,7 @@ return [
     "language" => "язык",
 
     /*** header subtitle ***/
-    "contact_us_section2_subtitle5" => "S Art Beuty Center Главная",
+    "contact_us_section2_subtitle5" => "Nur Art Academy Главная",
 
    /*** header subtitle ***/
    "lazer-epilasyon" => "Лазерная эпиляция",
@@ -42,16 +42,16 @@ return [
     "follow_us_on_insta" => "Подписывайтесь на нас в Instagram",
 
     /** default keys **/
-    "sart" => "S ART Beauty Center",
-    "sart_official_center" => "Официальный сайт S Art Beauty Center",
-    "sart_official_center_home" => "Главная S Art Beauty Center",
-    "sart_official_center_about" => "О S Art Beauty Center",
-    "sart_official_center_contact" => "Контакты S Art Beauty Center",
-    "sart_official_center_lang_options" => "Опции языка S Art Beauty Center",
-    "sart_official_center_job_explanation" => "Что делает S Art Beauty Center?",
-    "sart_official_center_facebook" => "Страница S Art Beauty Center в Facebook",
-    "sart_official_center_whatsapp" => "Аккаунт S Art Beauty Center в WhatsApp",
-    "sart_official_center_instagram" => "Аккаунт S Art Beauty Center в Instagram",
+    "sart" => "Nur Art Academy",
+    "sart_official_center" => "Официальный сайт Nur Art Academy",
+    "sart_official_center_home" => "Главная Nur Art Academy",
+    "sart_official_center_about" => "О Nur Art Academy",
+    "sart_official_center_contact" => "Контакты Nur Art Academy",
+    "sart_official_center_lang_options" => "Опции языка Nur Art Academy",
+    "sart_official_center_job_explanation" => "Что делает Nur Art Academy?",
+    "sart_official_center_facebook" => "Страница Nur Art Academy в Facebook",
+    "sart_official_center_whatsapp" => "Аккаунт Nur Art Academy в WhatsApp",
+    "sart_official_center_instagram" => "Аккаунт Nur Art Academy в Instagram",
     "whatsapp_line" => "WhatsApp линия",
     "location" => "Адрес в навигации",
     "turkish" => "Турецкий",
@@ -61,8 +61,8 @@ return [
     "ten_min" => "Время чтения",
 
     // hair_dye
-    "hair_dye_description" => "Кадыкёй - Окрашивание волос | S Art Beauty Center",
-    "hair_dye_title" => "Различные варианты окрашивания волос для ваших волос в S Art Beauty Center! Запишитесь на прием прямо сейчас.",
+    "hair_dye_description" => "Кадыкёй - Окрашивание волос | Nur Art Academy",
+    "hair_dye_title" => "Различные варианты окрашивания волос для ваших волос в Nur Art Academy! Запишитесь на прием прямо сейчас.",
     "hair_dye_slogan" => "Обновленный Образ",
     "hair_dye_main_header" => "Краска для волос",
     "hair_dye_context_title" => "Краска для волос",
@@ -72,17 +72,17 @@ return [
     "hair_dye_question2" => "2. Вредна ли краска для волос?",
     "hair_dye_answer2" => "Краска для волос не вредна, если ее наносить правильными продуктами и методами. Но следует ухаживать за здоровьем волос.",
     "hair_dye_question3" => "3. Как выбрать цвет, соответствующий моему натуральному цвету волос?",
-    "hair_dye_answer3" => "Специалисты S Art Beauty Center помогут вам выбрать цвет, который соответствует вашему натуральному цвету волос.",
+    "hair_dye_answer3" => "Специалисты Nur Art Academy помогут вам выбрать цвет, который соответствует вашему натуральному цвету волос.",
     "hair_dye_question4" => "4. Какие цвета остаются дольше на волосах?",
     "hair_dye_answer4" => "Темные цвета обычно сохраняются дольше, в то время как светлые цвета могут требовать более частого обновления.",
     "hair_dye_question5" => "5. Безопасно ли использовать краску для волос дома?",
     "hair_dye_answer5" => "Наши специалисты советуют, что профессиональное нанесение краски для волос в специализированных салонах более безопасно и вероятнее достигнуть желаемого результата.",
     "hair_dye_slide1_title" => "Натуральные Оттенки",
-    "hair_dye_slide1_cont" => "S Art Beauty Center обеспечит обновленный вид вашим волосам с использованием живых натуральных оттенков.",
+    "hair_dye_slide1_cont" => "Nur Art Academy обеспечит обновленный вид вашим волосам с использованием живых натуральных оттенков.",
     "hair_dye_slide2_title" => "Подчеркните Вашу Красоту",
     "hair_dye_slide2_cont" => "Получите стильный и легкий в уходе образ; выделите свою красоту.",
     "hair_dye_slide3_title" => "Отразите Ваш Стиль",
-    "hair_dye_slide3_cont" => "Приходите в S.Art Beauty Center, чтобы получить цвет волос вашей мечты.",
+    "hair_dye_slide3_cont" => "Приходите в S.Art Nur Art Academy, чтобы получить цвет волос вашей мечты.",
     "hair_dye_subtitle1" => "Что такое краска для волос?",
     "hair_dye_subtitle1_cont" => "Краска для волос - это химический продукт, используемый для изменения цвета волос или его освежения. Она предоставляет широкий выбор цветов для создания различных стилей.",
 

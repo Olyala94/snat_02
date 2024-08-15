@@ -7,7 +7,7 @@ return [
     "contact_us" => "Contact Us",
     "language" => "Language",
 
-    "contact_us_section2_subtitle5" => "S Art Beuty Center Home",
+    "contact_us_section2_subtitle5" => "Nur Art Academy Home",
 
     /*** header subtitle ***/
     "mani_pedi" => "Manicure and Pedicure",
@@ -41,16 +41,16 @@ return [
     "follow_us_on_insta" => "Follow Us on Instagram",
 
     /** default keys **/
-    "sart" => "S ART Beauty Center",
-    "sart_official_center" => "S Art Beauty Center Official Website",
-    "sart_official_center_home" => "S Art Beauty Center Home",
-    "sart_official_center_about" => "S Art Beauty Center About Us Page",
-    "sart_official_center_contact" => "S Art Beauty Center Contact Page",
-    "sart_official_center_lang_options" => "S Art Beauty Center Language Options",
-    "sart_official_center_job_explanation" => "What Does S Art Beauty Center Do?",
-    "sart_official_center_facebook" => "S Art Beauty Center Facebook Account",
-    "sart_official_center_whatsapp" => "S Art Beauty Center Whatsapp Account",
-    "sart_official_center_instagram" => "S Art Beauty Center Instagram Account",
+    "sart" => "Nur Art Academy",
+    "sart_official_center" => "Nur Art Academy Official Website",
+    "sart_official_center_home" => "Nur Art Academy Home",
+    "sart_official_center_about" => "Nur Art Academy About Us Page",
+    "sart_official_center_contact" => "Nur Art Academy Contact Page",
+    "sart_official_center_lang_options" => "Nur Art Academy Language Options",
+    "sart_official_center_job_explanation" => "What Does Nur Art Academy Do?",
+    "sart_official_center_facebook" => "Nur Art Academy Facebook Account",
+    "sart_official_center_whatsapp" => "Nur Art Academy Whatsapp Account",
+    "sart_official_center_instagram" => "Nur Art Academy Instagram Account",
     "whatsapp_line" => "WhatsApp Line",
     "location" => "Our Address on Navigation",
     "turkish" => "Turkish",
@@ -60,8 +60,8 @@ return [
     "ten_min" => "Reading Time",
 
     // perminant_nail_polish
-    "perminant_nail_polish_description" => "Permanent Nail Polish | S Art Beauty Center",
-    "perminant_nail_polish_title" => "Add elegance to your nails with permanent nail polish at S Art Beauty Center! Discover our permanent nail polish applications featuring a wide range of colors.",
+    "perminant_nail_polish_description" => "Permanent Nail Polish | Nur Art Academy",
+    "perminant_nail_polish_title" => "Add elegance to your nails with permanent nail polish at Nur Art Academy! Discover our permanent nail polish applications featuring a wide range of colors.",
     "perminant_nail_polish_main_header" => "Permanent Nail Polish",
     "perminant_nail_polish_context_title" => "Permanent Nail Polish",
     "perminant_nail_polish_context_content" => "Permanent nail polish application is ideal for those with a busy work schedule and no time for applying nail polish or getting regular manicures.",
@@ -76,7 +76,7 @@ return [
     "perminant_nail_polish_context_question5" => "5. Who Can Get Permanent Nail Polish?",
     "perminant_nail_polish_context_answer5" => "Generally, anyone can get permanent nail polish. However, it is recommended to seek expert consultation for those with nail diseases or allergies.",
     "perminant_nail_polish_slide1_title" => "Highlight Your Nails!",
-    "perminant_nail_polish_slide1_cont" => "Choose your desired colors and patterns for your nails at S Art Beauty Center.",
+    "perminant_nail_polish_slide1_cont" => "Choose your desired colors and patterns for your nails at Nur Art Academy.",
     "perminant_nail_polish_slide2_title" => "Trendy Colors",
     "perminant_nail_polish_slide2_cont" => "Achieve a sleek, smooth, and shiny appearance.",
     "perminant_nail_polish_slide3_title" => "Long-Lasting Effect on Nails",

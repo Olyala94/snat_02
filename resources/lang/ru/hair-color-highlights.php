@@ -8,7 +8,7 @@ return [
     "language" => "язык",
 
     /*** header subtitle ***/
-    "contact_us_section2_subtitle5" => "S Art Beuty Center Главная",
+    "contact_us_section2_subtitle5" => "Nur Art Academy Главная",
     /*** header subtitle ***/
     "lazer-epilasyon" => "Лазерная эпиляция",
     "cellulite-massage" => "Массаж G5 (целлюлитный массаж)",
@@ -41,16 +41,16 @@ return [
     "follow_us_on_insta" => "Подписывайтесь на нас в Instagram",
 
     /** default keys **/
-    "sart" => "S ART Beauty Center",
-    "sart_official_center" => "Официальный сайт S Art Beauty Center",
-    "sart_official_center_home" => "Главная S Art Beauty Center",
-    "sart_official_center_about" => "О S Art Beauty Center",
-    "sart_official_center_contact" => "Контакты S Art Beauty Center",
-    "sart_official_center_lang_options" => "Опции языка S Art Beauty Center",
-    "sart_official_center_job_explanation" => "Что делает S Art Beauty Center?",
-    "sart_official_center_facebook" => "Страница S Art Beauty Center в Facebook",
-    "sart_official_center_whatsapp" => "Аккаунт S Art Beauty Center в WhatsApp",
-    "sart_official_center_instagram" => "Аккаунт S Art Beauty Center в Instagram",
+    "sart" => "Nur Art Academy",
+    "sart_official_center" => "Официальный сайт Nur Art Academy",
+    "sart_official_center_home" => "Главная Nur Art Academy",
+    "sart_official_center_about" => "О Nur Art Academy",
+    "sart_official_center_contact" => "Контакты Nur Art Academy",
+    "sart_official_center_lang_options" => "Опции языка Nur Art Academy",
+    "sart_official_center_job_explanation" => "Что делает Nur Art Academy?",
+    "sart_official_center_facebook" => "Страница Nur Art Academy в Facebook",
+    "sart_official_center_whatsapp" => "Аккаунт Nur Art Academy в WhatsApp",
+    "sart_official_center_instagram" => "Аккаунт Nur Art Academy в Instagram",
     "whatsapp_line" => "WhatsApp линия",
     "location" => "Адрес в навигации",
     "turkish" => "Турецкий",
@@ -60,8 +60,8 @@ return [
     "ten_min" => "Время чтения",
 
     // highlighted
-    "highlighted_description" => "Мелирование | S Art Beauty Center",
-    "highlighted_title" => "Добейтесь естественного и привлекательного вида с мелированием в S Art Beauty Center. Запишитесь на прием прямо сейчас!",
+    "highlighted_description" => "Мелирование | Nur Art Academy",
+    "highlighted_title" => "Добейтесь естественного и привлекательного вида с мелированием в Nur Art Academy. Запишитесь на прием прямо сейчас!",
     "highlighted_slogan" => "Привнесите свет в ваши волосы: мелирование для естественного и динамичного облика!",
     "highlighted_main_header" => "Мелирование",
     "highlighted_context_title" => "Мелирование",
@@ -79,7 +79,7 @@ return [
     "highlighted_slide1_title" => "Разнообразие цветов",
     "highlighted_slide1_cont" => "Мелирование добавляет глубину вашим волосам и предлагает различные цветовые опции, подходящие вашему стилю.",
     "highlighted_slide2_title" => "Придайте волосам глубину",
-    "highlighted_slide2_cont" => "В S Art Beauty Center мы делаем ваши волосы более объемными и живыми, обеспечивая более пышный и яркий вид.",
+    "highlighted_slide2_cont" => "В Nur Art Academy мы делаем ваши волосы более объемными и живыми, обеспечивая более пышный и яркий вид.",
     "highlighted_slide3_title" => "Легкий уход за волосами",
     "highlighted_slide3_cont" => "Благодаря естественным переходам мелирования, ваши волосы продолжают выглядеть ухоженными, даже когда начинают проявляться корни.",
     "highlighted_subtitle1" => "Что такое мелирование?",
