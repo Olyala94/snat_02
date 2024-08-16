@@ -1272,7 +1272,7 @@ class RoutesTableSeeder extends Seeder
         // TODO: ---------------------------- tk ---------------------------- //
         // Sart Academy için eklenenler
         [
-            'lang' => 'tk', 'slug' => 'egitimlerimiz',
+            'lang' => 'tk', 'slug' => 'sapaklarymyz',
             'uniq_slug' => 'our-courses',
             "meta_information" => [
                 "title" => "Ashgabat  Salonu Hizmetlerimiz | Nur Art Academy",
@@ -1281,7 +1281,7 @@ class RoutesTableSeeder extends Seeder
         ],
         [
             'lang' => 'tk',
-            'slug' => 'egitimlerimiz/ipek-kirpik',
+            'slug' => 'sapaklarymyz/risovaniye-dly-nachinayushchikh',
             'uniq_slug' => 'silk-eyelash-academy',
             "meta_information" => [
                 "title" => "Nur Art Academy Sapaklarymyz | Nur Art Academy",
@@ -1290,7 +1290,7 @@ class RoutesTableSeeder extends Seeder
         ],
         [
             'lang' => 'tk',
-            'slug' => 'egitimlerimiz/protez-tirnak',
+            'slug' => 'sapaklarymyz/prodvinutyye-tekhniki-risovaniya',
             'uniq_slug' => 'prosthetic-nails-academy',
             "meta_information" => [
                 "title" => "Nur Art Academy Sapaklarymyz | Nur Art Academy",
@@ -1299,7 +1299,7 @@ class RoutesTableSeeder extends Seeder
         ],
         [
             'lang' => 'tk',
-            'slug' => 'egitimlerimiz/sac-kaynak',
+            'slug' => 'sapaklarymyz/keramika-dlya-detey',
             'uniq_slug' => 'hair-extension-academy',
             "meta_information" => [
                 "title" => "Nur Art Academy Sapaklarymyz | Nur Art Academy",
@@ -1308,7 +1308,7 @@ class RoutesTableSeeder extends Seeder
         ],
         [
             'lang' => 'tk',
-            'slug' => 'egitimlerimiz/guzellik-uzmani',
+            'slug' => 'sapaklarymyz/keramika-dlya-vzroslykh',
             'uniq_slug' => 'beauty-master-academy',
             "meta_information" => [
                 "title" => "Nur Art Academy Sapaklarymyz | Nur Art Academy",
@@ -1317,7 +1317,7 @@ class RoutesTableSeeder extends Seeder
         ],
         [
             'lang' => 'tk',
-            'slug' => 'egitimlerimiz/kalici-makiyaj',
+            'slug' => 'sapaklarymyz/spetsialnyye-master-klassy',
             'uniq_slug' => 'permanent-makeup-academy',
             "meta_information" => [
                 "title" => "Nur Art Academy Sapaklarymyz | Nur Art Academy",
@@ -1347,7 +1347,7 @@ class RoutesTableSeeder extends Seeder
             'slug' => 'biz_hakda',
             'uniq_slug' => 'about-us',
             "meta_information" => [
-                "title" => "Biz Hakda | Nur Art Academy",
+                "title" => "Biz Barada | Nur Art Academy",
                 "description" => "Nur Art Akademiýasy, döredijilik we estetikanyň duşuşýan sungat söýüjileri üçin ylham berýän bilim merkezi hökmünde döredildi. Biziň maksadymyz dürli ýaşdaky we derejeli okuwçylara çeper zehinini ýüze çykarmaga we ösdürmäge we özboluşly eserleri döretmäge mümkinçilik bermek.",
             ]
         ],
@@ -1786,7 +1786,7 @@ class RoutesTableSeeder extends Seeder
         ],
         [
             'lang' => 'tk',
-            'slug' => 'hizmetlerimiz/ipek-kirpik',
+            'slug' => 'hizmetlerimiz/risovaniye-dly-nachinayushchikh',
             'uniq_slug' => 'silk-eyelash',
             "meta_information" => [
                 "title" => "Ashgabat - Surat çekmek Uygulamaları | Nur Art Academy",
@@ -2255,7 +2255,7 @@ class RoutesTableSeeder extends Seeder
         ],
         [
             'lang' => 'tk',
-            'slug' => 'hizmetlerimiz/protez-tirnak',
+            'slug' => 'sapaklarymyz/prodvinutyye-tekhniki-risovaniya',
             'uniq_slug' => 'prosthetic-nails',
             "meta_information" => [
                 "title" => "Ashgabat - Aýdym-Saz  Modelleri | Nur Art Academy ",
@@ -2440,7 +2440,7 @@ class RoutesTableSeeder extends Seeder
         ],
         [
             'lang' => 'tk',
-            'slug' => 'hizmetlerimiz/sac-kaynak',
+            'slug' => 'hizmetlerimiz/keramika-dlya-detey',
             'uniq_slug' => 'hair-extension',
             "meta_information" => [
                 "title" => "Ashgabat - Keramika Sapagy Uygulaması | Nur Art Academy ",
@@ -2535,7 +2535,7 @@ class RoutesTableSeeder extends Seeder
         ],
         [
             'lang' => 'ru',
-            'slug' => 'nashi-kursy/narashivaniye-resnits',
+            'slug' => 'nashi-kursy/risovaniye-dlya-nachinayushchikh',
             'uniq_slug' => 'silk-eyelash-academy',
             "meta_information" => [
                 "title" => "Nur Art Academy Sapaklarymyz | Nur Art Academy",
@@ -2988,7 +2988,7 @@ class RoutesTableSeeder extends Seeder
         ],
         [
             'lang' => 'ru',
-            'slug' => 'uslugi/narashivaniye-resnits',
+            'slug' => 'uslugi/risovaniye-dlya-nachinayushchikh',
             'uniq_slug' => 'silk-eyelash',
             "meta_information" => [
                 "title" => "Кадыкёй - Шелковые ресницы | Nur Art Academy",

@@ -3,7 +3,7 @@ return [
 
     /*** header title ***/
     "home" => "Baş Sahypa",
-    "about_us" => "Biz Hakda",
+    "about_us" => "Biz Barada",
     "services" => "Hizmetlerimiz",
     "contact_us" => "İletişim",
     "language" => "Dil",

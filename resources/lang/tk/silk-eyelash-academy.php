@@ -5,7 +5,7 @@ return [
     "home" => "Baş Sahypa",
     "our_courses" => "Sapaklarymyz",
     "silk_eyelash_main_header_02" => "Surat çekmek",
-
+     "silk_eyelash_main_header" => "Başlangyç surat çekmek sapagy",
     "silk_eyelash_main_header_01" => "Surat çekmek Sapagy - MEB Sertifikalı",
     "silk_eyelash_context_content" => "Eğitim Süresi: 2 Gün ",
     "silk_eyelash_context_title" => "Neler Öğreneceksiniz?",

@@ -5,7 +5,7 @@ return [// || -------------------------  Academy Web Sitesi için  -------------
     "sart" => "Nur Art Academy",
     "sart_official_center" => "Nur Art Academy Resmi Web Sitesi",
     "sart_official_center_home" => "Nur Art Academy Baş Sahypa",
-    "sart_official_center_about" => "Nur Art Academy Biz Hakda Sayfası",
+    "sart_official_center_about" => "Nur Art Academy Biz Barada Sayfası",
     "sart_official_center_contact" => "Nur Art Academy İletişim Sayfası",
     "sart_official_center_lang_options" => "Nur Art Academy Dil Seçeneği",
     "sart_official_center_job_explanation" => "Sart Academy Neler Yapar?",
@@ -20,25 +20,25 @@ return [// || -------------------------  Academy Web Sitesi için  -------------
     "reading_time" => "Takmynan okamak wagty",
     "ten_min" => "Okamak wagty",
 
-    /*** header title ***/
-    "our_courses" => "Курсы",
-    "schedule" =>"Расписание",
-    "galery"=>"Галерея",
-    "blog"=>"Блог",
-    "testimonials"=>"Отзывы",
-     /*** header title ***/
-   "home" => "Главная",
-   "about_us" => "О нас",
-   "services" => "Услуги",
-   "contact_us" => "Контакты",
-   "language" => "Язык",
+
+       /*** header title ***/
+       "home" => "Esasy",
+       "about_us" => "Biz barada",
+       "our_courses" => "Sapaklar",
+       "gallery"=>"Galereýa",
+       "blog"=>"Blog",
+       "testimonials"=>"Seslenmeler",
+       "contact_us" => "Habarlaşmak üçin",
+       "language" => "Dili",
+       "schedule" =>"Tertibi",
 
     /*** header subtitle ***/
-    "silk_eyelash" => "Рисование для начинающих",
-    "prosthetic_nail" => "Продвинутые техники рисования",
-    "hair_extension" => "Керамика для детей",
-    "beauty_master"=>"Керамика для взрослых",
-    "permanent_makeup"=>"Специальные мастер-классы",
+    "silk_eyelash" => "Başlangyç surat çekmek",
+    "prosthetic_nail" => " Surat çekmegiñ çaltlaşdyrylan ugurlary ",
+    "hair_extension" => "Çagalar üçin keramika",
+    "beauty_master"=>"Ulular üçin keramika",
+    "permanent_makeup"=>"Ýörüte master klasslar",
+    "date_pottery"=>"Gonçarkanyñ başynda duşuşyk",
 
     // || -------------------------  Güzellik Merkezi Web Sitesi için  ------------------------- || //
    /** default keys **/

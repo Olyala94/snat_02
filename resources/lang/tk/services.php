@@ -2,7 +2,7 @@
 return [
     /*** header title ***/
     "home" => "Baş Sahypa",
-    "about_us" => "Biz Hakda",
+    "about_us" => "Biz Barada",
     "services" => "Hizmetlerimiz",
     "contact_us" => "İletişim",
     "language" => "Dil",
@@ -43,7 +43,7 @@ return [
      "sart" => "Nur Art Academy",
      "sart_official_center" => "Nur Art Academy Resmi Web Sitesi",
      "sart_official_center_home" => "Nur Art Academy Baş Sahypa",
-     "sart_official_center_about" => "Nur Art Academy Biz Hakda Sayfası",
+     "sart_official_center_about" => "Nur Art Academy Biz Barada Sayfası",
      "sart_official_center_contact" => "Nur Art Academy İletişim Sayfası",
      "sart_official_center_lang_options" => "Nur Art Academy Dil Seçeneği",
      "sart_official_center_job_explanation" => "Nur Art Academy Neler Yapar?",
@@ -146,5 +146,3 @@ return [
   "index_section5_slide5_cont" => "Her şeyi çok beğendim! Şekerleme yaptım, cildi o kadar pürüzsüz ve yumuşak ki, kirpik laminasyonu da yaptım. Her şey çok mükemmel bir şekilde yapıldı. Hizmet en üst seviyede. Düzenli olarak geleceğim. Herkese tavsiye ederim",
   "index_section5_slide6_cont" => "Süper hoş ve arkadaş canlısı:) Saç Yıkama ve Saç Blow ve Kaş şekillendirme için oraya gittim, her şey muhteşemdi. Teşekkür ederim :)",
 ];
-
-

@@ -184,13 +184,13 @@
                         <li class="image-2 card-container col-lg-6 col-md-6 col-sm-6">
                             <div class="dlab-box m-b30">
                                 <div class="dlab-media dlab-img-overlay9 dlab-img-effect zoom">
-                                    <img src="{{ asset('images/sart_academy/silk_eyelesh/ipek-kirpik-egitimi-01.webp') }}"
+                                    <img src="{{ asset('images/nur-art-img/ceramics-children-01.webp') }}"
                                         alt="@lang('our-courses.silk_eyelash')">
                                     <div class="overlay-bx">
                                         <div class="overlay-icon">
                                             <span
-                                                data-exthumbimage="{{ asset('images/sart_academy/silk_eyelesh/ipek-kirpik-egitimi-01.webp') }}"
-                                                data-src="{{ asset('images/sart_academy/silk_eyelesh/ipek-kirpik-egitimi-01.webp') }}"
+                                                data-exthumbimage="{{ asset('images/nur-art-img/ceramics-children-01.webp') }}"
+                                                data-src="{{ asset('images/nur-art-img/ceramics-children-01.webp') }}"
                                                 class="icon-bx-xs check-km" title="@lang('our-courses.silk_eyelash')">
                                                 <i class="ti-fullscreen"></i>
                                             </span>

@@ -343,7 +343,7 @@ class PagesTableSeeder extends Seeder
         [
             'lang' => 'tk',
             'uniq_slug' => 'about-us',
-            'title' => 'Biz Hakda | Nur Art Nur Art',
+            'title' => 'Biz Barada | Nur Art Nur Art',
             'description' => 'Nur Art olarak, uzman kadromuz ve geniş hizmet yelpazemizle, müşterilerimize en iyi hizmeti sunmaktayız.',
             'content' => 'BLADE:tmp.about-us'
         ],

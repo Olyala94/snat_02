@@ -106,7 +106,7 @@ class RedirectRulesTableSeeder extends Seeder
         ],
         [
             'old_url' => '/ipek-kirpik.php',
-            'new_url' => '/tk/hizmetlerimiz/ipek-kirpik',
+            'new_url' => '/tk/sapaklarymyz/risovaniye-dly-nachinayushchikh',
             'http_status_code' => 301,
         ],
         [

@@ -6,7 +6,7 @@ return [
     "sart" => "Nur Art Academy",
     "sart_official_center" => "Nur Art Akademiýasynyň Resmi Web Sahypasy",
     "sart_official_center_home" => "Nur Art Akademiýasynyň Baş Sahypa",
-    "sart_official_center_about" => "Nur Art Akademiýasynyň Biz Hakda Sahypasy",
+    "sart_official_center_about" => "Nur Art Akademiýasynyň Biz Barada Sahypasy",
     "sart_official_center_contact" => "Nur Art Akademiýasynyň aragatnaşyk Sahypasy",
     "sart_official_center_lang_options" => "Nur Art Akademiýasynyň Dil Görnüşleri",
     "sart_official_center_job_explanation_academy" => "Nur Art Akademiýasy Näme edýär?",
@@ -26,7 +26,7 @@ return [
 
     /*** about_us ***/
     "about_us_description" => "Nur Art Akademiýasy, döredijilik we estetikanyň duşuşýan sungat söýüjileri üçin ylham berýän bilim merkezi hökmünde döredildi. Biziň maksadymyz dürli ýaşdaky we derejeli okuwçylara çeper zehinini ýüze çykarmaga we ösdürmäge we özboluşly eserleri döretmäge mümkinçilik bermek.",
-    "about_us_title" => "Biz Hakda | Nur Art Academy",
+    "about_us_title" => "Biz Barada | Nur Art Academy",
     'sart_academy' => 'Nur Art',
 
 
@@ -54,14 +54,14 @@ return [
     // || -------------------------  Güzellik Merkezi Web Sitesi için  ------------------------- || //
     /*** header title ***/
     "home" => "Baş Sahypa",
-    "about_us" => "Biz Hakda",
+    "about_us" => "Biz Barada",
     "services" => "Hyzmatlarymyz",
     "contact_us" => "Aragatnaşyk",
     "language" => "Dil",
 
     /*** about_us ***/
     "about_us_description" => "Nur Art Akademiýasy, döredijilik we estetikanyň duşuşýan sungat söýüjileri üçin ylham berýän bilim merkezi hökmünde döredildi. Biziň maksadymyz dürli ýaşdaky we derejeli okuwçylara çeper zehinini ýüze çykarmaga we ösdürmäge we özboluşly eserleri döretmäge mümkinçilik bermek.",
-    "about_us_title" => "Biz Hakda | Nur Art Academy",
+    "about_us_title" => "Biz Barada | Nur Art Academy",
     'sart' => 'Nur Art Academy',
 
     //section 1

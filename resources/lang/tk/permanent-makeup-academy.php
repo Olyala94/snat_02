@@ -3,7 +3,7 @@ return [
     /*** header title ***/
     "our_courses" => "Sapaklarymyz",
     "home" => "Baş Sahypa",
-    "about_us" => "Biz Hakda",
+    "about_us" => "Biz Barada",
     "services" => "Hizmetlerimiz",
     "contact_us" => "İletişim",
     "language" => "Dil",
@@ -25,7 +25,7 @@ return [
     "sart" => "Nur Art Academy",
     "sart_official_center" => "Nur Art Academy Resmi Web Sitesi",
     "sart_official_center_home" => "Nur Art Academy Baş Sahypa",
-    "sart_official_center_about" => "Nur Art Academy Biz Hakda Sayfası",
+    "sart_official_center_about" => "Nur Art Academy Biz Barada Sayfası",
     "sart_official_center_contact" => "Nur Art Academy İletişim Sayfası",
     "sart_official_center_lang_options" => "Nur Art Academy Dil Seçeneği",
     "sart_official_center_job_explanation" => "Sart Academy Neler Yapar?",
